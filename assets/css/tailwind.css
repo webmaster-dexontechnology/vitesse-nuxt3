@@ -1,20 +1,8 @@
-<script setup lang="ts">
-import { appName } from '~/constants'
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-useHead({
-  title: appName,
-})
-</script>
-
-<template>
-  <VitePwaManifest />
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
-</template>
-
-<style>
-  html {
+html {
     position: unset !important;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -28,44 +16,45 @@ useHead({
     scroll-behavior: smooth;
     -webkit-text-size-adjust: 100%;
     height: 100%;
-  }
+}
 
-  :focus-visible {
+
+:focus-visible {
     outline: none;
-  }
+}
 
-  input:-webkit-autofill,
-  input:-webkit-autofill:hover,
-  input:-webkit-autofill:focus,
-  input:-webkit-autofill:active {
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
     transition: background-color 5000s ease-in-out 0s;
     -webkit-text-fill-color: #140A4B !important;
-  }
+}
 
-  /* Chrome, Safari, Edge, Opera */
-  input::-webkit-outer-spin-button,
-  input::-webkit-inner-spin-button {
-    -webkit-appearance: none;
-    margin: 0;
-  }
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
 
-  /* Firefox */
-  input[type=number] {
-    -moz-appearance: textfield;
-  }
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
 
-  .container {
-    -webkit-box-sizing: border-box;
+.container {
+   -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-  }
+}
 
-  *,
-  *:before,
-  *:after {
-    box-sizing: inherit;
-  }
-  .model-label {
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+@layer base {
+    .model-label {
         @apply opacity-100 leading-4 text-[13px] bg-red-gradient rounded-[4px] px-2 py-1 shadow-custom-lg shadow-shadow-light/20 text-white font-semibold;
       }
 
@@ -90,7 +79,7 @@ useHead({
     p, ul {
         @apply text-primary/70 leading-[1.9];
     }
-
+    
     .swiper-pagination-bullet {
         @apply bg-secondary-red-100 !important;
     }
@@ -119,7 +108,7 @@ useHead({
     .container {
         @apply px-4;
     }
-
+    
     .th h1, .th h2, .th h3, .th h4, .th h5, .th button  {
         @apply font-semibold;
     }
@@ -143,12 +132,15 @@ useHead({
     .dark .header-sm {
         @apply before:bg-header-pattern-dark
     }
+}
+
+@layer components { 
     .btn-sm {
         @apply text-base px-6 py-3.5 leading-[3] !important;
     }
-    .indicator {
+    .indicator { 
         @apply absolute bg-white border-secondary-red-100 border rounded-md w-[384px] h-[70px] transition duration-200 ease-out
-    }
+    } 
 
     .main-menu a.router-link-active.router-link-exact-active.active .main-menu-inner, .main-menu a .main-menu-inner {
         @apply active:scale-100;
@@ -177,6 +169,7 @@ useHead({
     .main-menu a.router-link-active.router-link-exact-active:nth-child(6).active~.indicator, .main-menu a:nth-child(6).active~.indicator {
         transform: translateY(calc(70px*5));
     }
+    
 
     .submenu::-webkit-scrollbar {
         width: 5px;
@@ -227,51 +220,52 @@ useHead({
     a.router-link-active.router-link-exact-active.submenu--list {
         @apply text-secondary-red-100;
     }
-
+    
     a.router-link-active.router-link-exact-active.submenu--list .arrow-right {
         @apply scale-100;
     }
-
+    
     a.router-link-active.router-link-exact-active.submenu--list .arrow-up.not-active {
-        @apply rotate-90;
+        @apply rotate-90; 
     }
 
-    a.router-link-active.router-link-exact-active.submenu--list-submenu,
+    a.router-link-active.router-link-exact-active.submenu--list-submenu, 
     .submenu--list-submenu a.router-link-active.router-link-exact-active {
         @apply text-secondary-red-100;
     }
-
+    
     .header-sm {
-        @apply z-10 overflow-hidden
+        @apply z-10 overflow-hidden 
         before:bg-header-pattern-light
-        before:absolute
-        lg:before:right-[-20rem]
-        xl:before:right-[-18rem]
-        2xl:before:right-[-14rem]
-        3xl:before:right-[-5rem]
-        before:inset-y-0
-        before:w-full
-        before:bg-no-repeat
+        before:absolute 
+        lg:before:right-[-20rem] 
+        xl:before:right-[-18rem] 
+        2xl:before:right-[-14rem] 
+        3xl:before:right-[-5rem] 
+        before:inset-y-0 
+        before:w-full 
+        before:bg-no-repeat 
         before:bg-right
         before:z-[-1];
     }
 
     .affix a:not(.submenu-inner a, .mobile a) {
         @apply dark:text-white !important;
+        
     }
 
     .affix-pattern {
         @apply before:dark:bg-header-pattern-dark
         before:bg-none
-        before:absolute
-        before:-right-[50%]
-        lg:before:-right-[35%]
-        xl:before:-right-[25%]
+        before:absolute 
+        before:-right-[50%] 
+        lg:before:-right-[35%] 
+        xl:before:-right-[25%] 
         2xl:before:-right-[18%]
         3xl:before:-right-[10%]
-        before:inset-y-0
-        before:w-full
-        before:bg-no-repeat
+        before:inset-y-0 
+        before:w-full 
+        before:bg-no-repeat 
         before:bg-right
         before:z-[-1] ;
     }
@@ -290,4 +284,6 @@ useHead({
     /* .breadcrumbs a.router-link-active.router-link-exact-active {
         @apply text-secondary-red-100 font-semibold;
     } */
-</style>
+
+   
+}
