@@ -46,7 +46,6 @@ export default defineNuxtConfig({
 
   css: [
     '@unocss/reset/tailwind.css',
-    '@/assets/css/tailwind.css',
   ],
 
   plugins: [
@@ -170,7 +169,20 @@ export default defineNuxtConfig({
     initialConsent: false,
   },
   i18n: {
-    vueI18n: './i18n.config.ts', // custom path example
+    strategy: 'prefix',
+    locales: [
+      {
+        code: 'en',
+        iso: 'en-US',
+      },
+      {
+        code: 'th',
+        iso: 'th-TH',
+      },
+    ],
+    defaultLocale: 'en',
+    detectBrowserLanguage: false,
+    vueI18n: './lang/i18n.config.ts',
   },
   build: {
     transpile: ['@headlessui/vue', 'i18n', 'swiper', 'RGBELoader', 'EffectComposer', 'RenderPass', 'DotScreenPass', 'GlitchPass', 'ShaderPass', 'RGBShiftShader', 'GammaCorrectionShader', 'UnrealBloomPass', 'SMAAPass', 'GLTFLoader', 'OrbitControls', 'TransformControls', 'DRACOLoader', 'Stats'],

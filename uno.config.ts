@@ -200,9 +200,7 @@ export default defineConfig({
     presetTypography(),
     presetWebFonts({
       fonts: {
-        sans: 'Montserrat Kanit',
-        serif: 'DM Serif Display',
-        mono: 'DM Mono',
+        sans: ['Montserrat:300,400,500,600,700', 'Kanit:300,400,500,600,700'],
       },
     }),
   ],

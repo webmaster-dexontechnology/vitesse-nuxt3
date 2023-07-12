@@ -1,0 +1,327 @@
+<i18n locale="en" src="@/lang/en/maps.json"></i18n>
+
+<i18n locale="th" src="@/lang/th/maps.json"></i18n>
+
+<script setup>
+import * as am5 from '@amcharts/amcharts5'
+import * as am5map from '@amcharts/amcharts5/map'
+import am5geodata_worldLow from '@amcharts/amcharts5-geodata/worldLow'
+import am5themes_Animated from '@amcharts/amcharts5/themes/Animated'
+
+const { t } = useI18n()
+const chartdiv = ref(null)
+
+function initChart() {
+  const data = [
+    {
+      id: 'TH',
+      name: t('card[0].name'),
+      country: t('card[0].country'),
+      address: t('card[0].address'),
+      email: t('card[0].email'),
+      tel: t('card[0].tel'),
+      time: t('card[0].time'),
+      showTooltip: 'click',
+    }, {
+      id: 'SG',
+      name: t('card[1].name'),
+      country: t('card[1].country'),
+      address: t('card[1].address'),
+      email: t('card[1].email'),
+      tel: t('card[1].tel'),
+      time: t('card[1].time'),
+      showTooltip: 'click',
+    }, {
+      id: 'NL',
+      name: t('card[2].name'),
+      country: t('card[2].country'),
+      address: t('card[2].address'),
+      email: t('card[2].email'),
+      tel: t('card[2].tel'),
+      time: t('card[2].time'),
+      showTooltip: 'click',
+    }, {
+      id: 'PH',
+      name: t('card[3].name'),
+      country: t('card[3].country'),
+      address: t('card[3].address'),
+      email: t('card[3].email'),
+      tel: t('card[3].tel'),
+      time: t('card[3].time'),
+      showTooltip: 'click',
+    }, {
+      id: 'US',
+      name: t('card[4].name'),
+      country: t('card[4].country'),
+      address: t('card[4].address'),
+      email: t('card[4].email'),
+      tel: t('card[4].tel'),
+      time: t('card[4].time'),
+      showTooltip: 'click',
+    },
+  ]
+
+  const root = am5.Root.new(chartdiv.value)
+
+  // Set themes
+  // https://www.amcharts.com/docs/v5/concepts/themes/
+  root.setThemes([am5themes_Animated.new(root)])
+
+  const chart = root.container.children.push(am5map.MapChart.new(root, {
+    panX: 'none',
+    panY: 'none',
+    projection: am5map.geoMercator(),
+    maxZoomLevel: 1,
+    panEventsEnabled: true,
+    wheelY: 'none',
+  }),
+  )
+
+  const polygonSeries = chart.series.push(
+    am5map.MapPolygonSeries.new(root, {
+      geoJSON: am5geodata_worldLow,
+      exclude: ['AQ'],
+    }),
+  )
+
+  const bubbleSeries = chart.series.push(
+    am5map.MapPointSeries.new(root, {
+      valueField: 'value',
+      calculateAggregates: true,
+      polygonIdField: 'id',
+    }),
+  )
+
+  const tooltipHTML = `
+  <div class="bg-white shadow-shadow-light/10 shadow-custom-lg rounded-md p-4 border border-secondary-gray-100 w-[380px] max-w-full">
+    <div class="flex flex-row ">
+      <div>
+        </div>
+        <div>
+          <div class="mb-3">
+            <svg
+              class="h-6 fill-primary" xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 293.17 67.89"
+            >
+              <defs>
+                <linearGradient
+                  id="Logo_Maps" x1="84.8" y1="33.95" x2="209.88" y2="33.95"
+                  gradientUnits="userSpaceOnUse"
+                >
+                  <stop offset="0" stop-color="#ec0677" />
+                  <stop offset="1" stop-color="#ec1b34" />
+                </linearGradient>
+              </defs>
+              <path
+                d="M115.36,15.35h-9.08c-.32,0-.44,.42-.16,.59l34.78,21.24,7.8-3.7-26.55-16.21c-2.04-1.25-4.39-1.91-6.79-1.91Z"
+              />
+              <path
+                d="M173.81,52.48h9.08c.32,0,.44-.42,.16-.59l-34.78-21.24-7.8,3.7,26.55,16.21c2.04,1.25,4.39,1.91,6.79,1.91Z"
+              />
+              <path
+                d="M37.48,52.48H1.1c-.61,0-1.1-.49-1.1-1.1V16.45c0-.61,.49-1.1,1.1-1.1H37.48c5.95,0,10.77,4.82,10.77,10.77v15.58c0,5.95-4.82,10.77-10.77,10.77Zm-.44-29.87H7.57c-.17,0-.32,.14-.32,.32v21.97c0,.17,.14,.32,.32,.32h29.47c2.21,0,4-1.79,4-4v-14.61c0-2.21-1.79-4-4-4Z"
+              />
+              <path
+                d="M280.24,22.61h-26.86c-.22,0-.4,.18-.4,.4v29.15c0,.17-.14,.32-.32,.32h-6.92c-.17,0-.32-.14-.32-.32V16.45c0-.61,.49-1.1,1.1-1.1h34.05c6.96,0,12.6,5.64,12.6,12.6v24.22c0,.17-.14,.32-.32,.32h-6.63c-.17,0-.32-.14-.32-.32V28.28c0-3.13-2.54-5.67-5.67-5.67Z"
+              />
+              <path
+                d="M62.3,37.33h36.04c.17,0,.31-.14,.31-.31v-6.22c0-.17-.14-.31-.31-.31H62.3c-.17,0-.32-.14-.32-.32v-4.21c0-1.85,1.5-3.36,3.36-3.36h36.17c.17,0,.31-.14,.31-.31v-6.63c0-.17-.14-.31-.31-.31h-36.95c-5.42,0-9.83,4.92-9.83,10.96v15.2c0,6.05,4.41,10.97,9.83,10.97h36.95c.17,0,.31-.14,.31-.31v-6.63c0-.17-.14-.31-.31-.31h-36.17c-1.85,0-3.36-1.5-3.36-3.36v-4.21c0-.17,.14-.32,.31-.32Z"
+              />
+              <g>
+                <path d="M156.14,59.73h-2.95v8.03h-1.6v-8.03h-2.95v-1.32h7.51v1.32Z" style="fill:#808285;" />
+                <path
+                  d="M165.42,59.73v2.67h3.87v1.32h-3.87v2.71h5.21v1.32h-6.81v-9.35h6.81v1.32h-5.21Z"
+                  style="fill:#808285;"
+                />
+                <path
+                  d="M178.15,63.22v-.27c0-3.74,1.07-4.68,4.03-4.68h.27c.96,0,2.02,.15,3.07,.4v1.34c-.94-.24-2.07-.41-3.07-.41h-.27c-1.79,0-2.43,.52-2.43,3v.96c0,2.48,.64,3,2.43,3h.27c1,0,2.14-.17,3.07-.41v1.34c-1.05,.26-2.11,.4-3.07,.4h-.27c-2.97,0-4.03-.94-4.03-4.68Z"
+                  style="fill:#808285;"
+                />
+                <path d="M200.72,58.41v9.35h-1.6v-4.03h-4.1v4.03h-1.6v-9.35h1.6v4h4.1v-4h1.6Z" style="fill:#808285;" />
+                <path
+                  d="M216.53,58.41v9.35h-1.79l-4.34-7.08v7.08h-1.36v-9.35h1.79l4.36,7.08v-7.08h1.35Z"
+                  style="fill:#808285;"
+                />
+                <path
+                  d="M224.59,63.22v-.27c0-3.65,.8-4.68,3.85-4.68h.27c3.03,0,3.84,1.03,3.84,4.68v.27c0,3.66-.8,4.68-3.84,4.68h-.27c-3.05,0-3.85-.94-3.85-4.68Zm4.11,3.35c1.78,0,2.23-.52,2.23-3v-.96c0-2.48-.45-3-2.23-3h-.27c-1.79,0-2.24,.52-2.24,3v.96c0,2.48,.45,3,2.24,3h.27Z"
+                  style="fill:#808285;"
+                />
+                <path d="M247.15,66.44v1.32h-6.55v-9.35h1.6v8.03h4.94Z" style="fill:#808285;" />
+                <path
+                  d="M254.47,63.22v-.27c0-3.65,.8-4.68,3.85-4.68h.27c3.03,0,3.84,1.03,3.84,4.68v.27c0,3.66-.8,4.68-3.84,4.68h-.27c-3.05,0-3.85-.94-3.85-4.68Zm4.11,3.35c1.78,0,2.23-.52,2.23-3v-.96c0-2.48-.45-3-2.23-3h-.27c-1.79,0-2.24,.52-2.24,3v.96c0,2.48,.45,3,2.24,3h.27Z"
+                  style="fill:#808285;"
+                />
+                <path
+                  d="M271.8,62.6v.96c0,2.48,.64,3,2.43,3h.27c.51,0,1.07-.05,1.55-.15v-3.46h1.52v4.53c-1.05,.26-2.11,.4-3.07,.4h-.27c-2.97,0-4.03-.94-4.03-4.68v-.27c0-3.74,1.07-4.68,4.03-4.68h.27c.96,0,2.02,.15,3.07,.4v1.34c-.94-.24-2.07-.41-3.07-.41h-.27c-1.79,0-2.43,.52-2.43,3Z"
+                  style="fill:#808285;"
+                />
+                <path
+                  d="M293.17,58.41l-3.08,6.16v3.19h-1.6v-3.19l-3.29-6.16h1.7l2.44,4.68,2.31-4.68h1.52Z"
+                  style="fill:#808285;"
+                />
+              </g>
+              <path
+                d="M228.64,15.35h-33.95c-5.42,0-9.83,4.92-9.83,10.96v15.2c0,6.05,4.41,10.97,9.83,10.97h33.95c5.42,0,9.83-4.92,9.83-10.97v-15.2c0-6.05-4.41-10.96-9.83-10.96Zm2.57,26.51c0,1.86-1.5,3.36-3.36,3.36h-32.37c-1.86,0-3.36-1.5-3.36-3.36v-15.89c0-1.86,1.5-3.36,3.36-3.36h32.37c1.86,0,3.36,1.5,3.36,3.36v15.89Z"
+              />
+              <path
+                d="M209.88,0c-2.53,0-7.11,.59-9.37,1.73-17.85,8.98-38.75,19.39-55.62,29.47l-35.31,21.13-24.78,15.57h0c2.53,0,7.14-.57,9.42-1.67,20.59-9.96,41-20,60.3-31.7l33.74-20.39L209.88,0h0Z"
+                style="fill:url(#Logo_Maps);"
+              />
+            </svg>  
+          </div>
+          <div class="text-[16px] text-primary/90 font-bold mb-1 leading-[1.4]">{name}</div>
+          <div class="text-xs text-primary/60 mb-2 font-medium">{address}</div>
+          <div class="text-[13px] text-primary/80 font-medium"><b>Email:</b> <a class="text-blue-600" href="mailto:{email}">{email}</a></div>
+          <div class="text-[13px] text-primary/80 font-medium"><b>Phone:</b> <a class="text-blue-600" href="tel:{tel}">{tel}</a></div>
+          <div class="text-[13px] text-primary/80 font-medium mt-2">{time}</div>
+        </div>
+    </div>
+    
+  </div>
+  `
+
+  const tooltip = am5.Tooltip.new(root, {
+    getFillFromSprite: false,
+    getStrokeFromSprite: false,
+    autoTextColor: false,
+    getLabelFillFromSprite: false,
+    keepTargetHover: true,
+
+  })
+  tooltip.get('background').setAll({
+    fill: false,
+    strokeWidth: 0,
+    strokeOpacity: 0,
+  })
+  // tooltip.label.setAll({
+  //   fill: am5.color('#000000'),
+  // })
+
+  tooltip.on('visible', (visible, target) => {
+    if (visible)
+      console.log('Series shown', target)
+
+    else
+      console.log('Series hidden', target)
+  })
+
+  const circleTemplate = am5.Template.new({ })
+
+  bubbleSeries.bullets.push((root, series, dataItem) => {
+    const container = am5.Container.new(root, {})
+
+    const circle = container.children.push(
+      am5.Circle.new(root, {
+        radius: 20,
+        fillOpacity: 0.7,
+        fill: am5.color(0xFF0000),
+        strokeOpacity: 0,
+        cursorOverStyle: 'pointer',
+        tooltipHTML,
+        tooltip,
+        showTooltipOn: 'click',
+      }, circleTemplate),
+    )
+
+    const countryLabel = container.children.push(
+      am5.Label.new(root, {
+        text: '{country}',
+        paddingLeft: 5,
+        populateText: true,
+        fontWeight: 'bold',
+        fill: '#140A4B',
+        fontSize: 16,
+        centerY: am5.p50,
+        fontFamily: ['Kanit', 'Montserrat'],
+      }),
+    )
+
+    circle.on('radius', (radius) => {
+      countryLabel.set('x', radius)
+    })
+
+    return am5.Bullet.new(root, {
+      sprite: container,
+      dynamic: true,
+    })
+  })
+
+  bubbleSeries.bullets.push((root, series, dataItem) => {
+    return am5.Bullet.new(root, {
+      sprite: am5.Label.new(root, {
+        // text: '{value.formatNumber(\'#.\')}',
+        fill: am5.color(0xFFFFFF),
+        populateText: true,
+        centerX: am5.p50,
+        centerY: am5.p50,
+        textAlign: 'center',
+
+      }),
+      dynamic: true,
+    })
+  })
+
+  // minValue and maxValue must be set for the animations to work
+  bubbleSeries.set('heatRules', [
+    {
+      target: circleTemplate,
+      dataField: 'value',
+      min: 10,
+      max: 50,
+      minValue: 0,
+      maxValue: 100,
+      key: 'radius',
+    },
+  ])
+
+  bubbleSeries.data.setAll(data)
+
+  updateData()
+  setInterval(() => {
+    updateData()
+  }, 1500)
+
+  function updateData() {
+    for (let i = 0; i < bubbleSeries.dataItems.length; i++) {
+      bubbleSeries.data.setIndex(i, {
+        value: Math.round(Math.random() * 60),
+        id: data[i].id,
+        country: data[i].country,
+        name: data[i].name,
+        address: data[i].address,
+        email: data[i].email,
+        tel: data[i].tel,
+        time: data[i].time,
+        showTooltip: data[i].showTooltip,
+      })
+    }
+  }
+
+  root._logo.dispose()
+}
+
+onMounted(() => {
+  initChart()
+})
+</script>
+
+<template>
+  <div ref="chartdiv" class="w-full xl:min-h-[750px] lg:min-h-[600px] md:min-h-[450px] sm:min-h-[350px] min-h-[200px]" />
+</template>
+
+<style>
+.am5-html-container {
+  pointer-events: visible !important;
+  z-index: 50 !important;
+}
+.am5-html-container > div {
+  pointer-events: visible !important;
+  overflow: visible !important;
+}
+
+@media screen and (min-width: 1025px) {
+    .am5-html-container {
+      pointer-events: none !important;
+    }
+  }
+</style>

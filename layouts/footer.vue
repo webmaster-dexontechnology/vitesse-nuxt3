@@ -1,7 +1,10 @@
-<template :class="locale">
-  <main>
+<script></script>
+
+<template>
+  <main :class="$i18n.locale">
     <LayoutsCtaHeader />
     <LayoutsHeader />
     <slot />
+    <Footer />
   </main>
 </template>

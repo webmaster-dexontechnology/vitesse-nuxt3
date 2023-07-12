@@ -9,7 +9,11 @@ useHead({
 <template>
   <VitePwaManifest />
   <NuxtLayout>
-    <NuxtPage />
+    <div>
+      <NuxtPage />
+      <CookieConsent />
+    </div>
+    <NuxtLoadingBar :duration="1000" />
   </NuxtLayout>
 </template>
 
@@ -28,6 +32,7 @@ useHead({
     scroll-behavior: smooth;
     -webkit-text-size-adjust: 100%;
     height: 100%;
+    @apply font-sans !important;
   }
 
   :focus-visible {

@@ -49,6 +49,7 @@
     "nuxt-mail": "^4.0.1",
     "swiper": "^9.1.0",
     "vue-i18n": "^9.3.0-beta.16",
-    "vue-instantsearch": "^4.10.4"
+    "vue-instantsearch": "^4.10.4",
+    "@cloudinary/url-gen": "^1.10.0"
   }
 }
