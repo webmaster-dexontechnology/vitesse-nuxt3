@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "title": "Governance Commitment",
+        "description": "",
+        "keyword": ""
+    },
+    "body": {
+        "content1": {
+            "title": "Governance Commitment",
+            "card": [{
+                    "text": "Legal practices"
+                },
+                {
+                    "text": "Transparent Accounting Method"
+                },
+                {
+                    "text": "Bribery & corruption policies & oversight"
+                },
+                {
+                    "text": "Business Ethics"
+                },
+                {
+                    "text": "Whistleblower Policy & reporting channel"
+                }
+            ],
+            "sublist":[
+                {
+                    "text": "Consider a framework to work in accordance with “Good Corporate Governance Principles” and “Dexon – Code of Conduct”"
+                },
+                {
+                    "text": "Conduct a survey to assess compliance “Good Corporate Governance Principles” every 6 months, along with reporting the results obtained. with reference to the criteria for from “Thai Institute of Directors (IOD)”"
+                },
+                {
+                    "text": "Revise Anti-corruption Policy as well as establish Whistleblower Policy & reporting channel."
+                }
+            ],
+            "list":[
+                {
+                    "title": "Good Corporate Governance Principles",
+                    "sublist": [
+                        {
+                            "text": "Recognize your role and responsibilities as a leader who creates value for the enterprise."
+                        },
+                        {
+                            "text": "Define objectives, main goals of the business that are sustainable."
+                        },
+                        {
+                            "text": "Strengthen effective committees"
+                        },
+                        {
+                            "text": "Recruitment and development of senior executives and personnel service"
+                        },
+                        {
+                            "text": "Foster innovation and conducting business responsibly"
+                        },
+                        {
+                            "text": "Ensure that there is an appropriate risk management and internal control system."
+                        },
+                        {
+                            "text": "Maintain financial credibility and disclosure"
+                        },
+                        {
+                            "text": "Encourage participation and communication with shareholders."
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

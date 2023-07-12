@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "title": "Boiler Inspection (ASME) ",
+        "description": "This service covers maintenance inspection, repair, alteration & operating procedures for boilers used across all industries",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Boiler Inspection (ASME) ",
+        "content1": {
+            "title": "What does our Boiler Inspection (ASME) do ?",
+            "subtitle": [{
+                    "text": "This service covers maintenance inspection, repair, alteration & operating procedures for boilers used across all industries."
+                },
+                {
+                    "text": "The boiler and it’s components are built with assumed nominal design and reasonable life of operation of about two to three decades (one or two hundred thousand hours). These units are generally replaced or their life is extended at the end of this period."
+                },
+                {
+                    "text": "Under normal operating conditions, and after an initial period of teething troubles, the reliability of these units remains fairly constant up to about two decades of normal operation. The failure rate is then increased as a result of their time dependent material damage. Further running of these units may become un-economical and dangerous in some cases."
+                },
+                {
+                    "text": "By initiating timely preventive measures and by way of proper maintenance refurbishment actions, it is possible to retain these units in service safely, reliably and economically for many more years. A life extension program comes in handy here. One of the most important steps involved in life extension strategies is the assessment of the remaining life of the existing components so that required timely refurbishment steps can be introduced to extend the plant life. Remaining Life Assessment (RLA) becomes a necessary evil."
+                }
+            ]
+        },
+        "content2": {
+            "title": "Various tests that are carried out for the CARLA are:",
+            "subtitle": [
+                {
+                    "text": "Collection of background data and operating history of boiler."
+                   },
+                   {
+                    "text": "Thorough Visual Examination by a boiler expert."
+                   },
+                   {
+                    "text": "Swell test or dimensional check."
+                   },
+                   {
+                    "text": "Collection of deposits and scales for laboratory analysis."
+                   },
+                   {
+                    "text": "Insitu oxide thickness measurements."
+                   },
+                   {
+                    "text": "WFMT/PT of selected critical weld joints."
+                   },
+                   {
+                    "text": "Detailed thickness survey."
+                   }
+            ]
+        },
+        "content3": {
+            "title": "Reporting",
+            "subtitle": "The final report is generated with all the test results analyzed and evidence of damage recorded. Recommendations are made to attain longer, more reliable and safer operations of the boiler."
+        },
+        "content4": {
+            "title": "Recommendations",
+            "subtitle": "Based on the findings and analysis of the test results a 3R decision is made to either Run the boiler, Repair the boiler or Rerate the boiler for safe operation and enhancement of boiler efficiency."
+        }
+    }
+}

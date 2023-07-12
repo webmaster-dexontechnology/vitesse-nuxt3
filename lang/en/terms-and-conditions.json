@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "title": "Terms and Conditions",
+        "description": "",
+        "keyword": ""
+    },
+    "hero": {
+        "title": "Terms and Conditions"
+    },
+    "content": [{
+            "title": "General",
+            "subtitle": [
+                "Access to and use of this Dexon Technology Public Company Limited site is subject to the laws of Thailand and the following terms and conditions."
+            ]
+        },
+        {
+            "title": "Copyrights",
+            "subtitle": [
+                "All copy rights on this site is reserved by Dexon Technology Public Company Limited. All copy rights and other intellectual property rights in all text, images, sound, software and other materials on this site are owned by Dexon Technology Public Company Limited.",
+                "You are permitted to browse this site and to reproduce extracts by way of printing, downloading to a hard disk and by distribution to other people but, in all cases, for non-commercial and personal use only. No reproduction of any part of the site may be used for the purpose of business, commercial gain nor shall it be modified or incorporated in any other work, including but not limit to publication or site, whether in hard copy or electronic format, including posting to any other site."
+            ]
+        },
+        {
+            "title": "Trademark",
+            "subtitle": [
+                "All trademarks displayed on this site are owned and used under license by Dexon Technology Public Company Limited."
+            ]
+        },
+        {
+            "title": "Content",
+            "subtitle": [
+                "All information on this site is for general information purpose only. It should not be relied on for any specific purpose and no representation and warranty is given as regards its accuracy or completeness. Neither Dexon Technology Public Company Limited nor its employees shall be liable for any loss, damage or expense arising out of any access to use if this site or any site linked to it. Dexon Technology Public Company Limited reserves the right to make any changes and corrections to this site as and when its appropriate and without prior notice."
+            ]
+        },
+        {
+            "title": "Linked Internet Sites",
+            "subtitle": [
+                "At various point throughout the site, you may be offered automatic links to other internet sites relevant to a particular aspect of this site. This does not indicate that Dexon Technology Public Company Limited are necessarily associated with any of these other sites or their owners. Neither Dexon Technology Public Company Limited or its employees shall have any responsibility or liability for these other sites or any information contained in them. None of the information in these other sites has been verified or endorsed by Dexon Technology Public Company Limited."
+            ]
+        },
+        {
+            "title": "Privacy",
+            "subtitle": [
+                "The Dexon Technology Public Company Limited may collect any information during the normal use of the site for the purpose of monitoring use of the site and helping its further development. Such collection shall not result in any personally identifiable data."
+            ]
+        }
+    ]
+}

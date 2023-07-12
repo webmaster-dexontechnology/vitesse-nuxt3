@@ -1,0 +1,3026 @@
+{
+    "training_course": {
+        "title": "หลักสูตรฝึกอบรม",
+        "topic": "หัวข้อหลักสูตร",
+        "course": [{
+                "id": "penetrant-testing",
+                "title": "การทดสอบสารแทรกซึม (PT)",
+                "course_title": "หลักสูตรการทดสอบสารแทรกซึม (PT)",
+                "subtitle": [{
+                        "text": "การทดสอบสารแทรกซึม (PT) เป็นวิธีการตรวจหาความไม่ต่อเนื่องของพื้นผิวที่ไม่สามารถมองเห็นได้ด้วยตามนุษย์ซึ่งมีความไวสูง สามารถใช้กับวัสดุได้หลากหลายด้วยต้นทุนที่ต่ำ อุปกรณ์พกพาช่วยให้ผู้ตรวจสอบสามารถทดสอบกับรูปทรงที่ซับซ้อนในจุดที่ยากต่อการเข้าถึงหรือสนามระยะไกล PT สามารถทาได้ 100% ของพื้นผิวของชิ้นส่วนโดยการแช่"
+                    },
+                    {
+                        "text": "การฝึกอบรม Dexon PT ครอบคลุมแง่มุมทางทฤษฎีของเทคนิคนี้ ตลอดจนการสาธิตเชิงปฏิบัติและประสบการณ์จริงสำหรับนักเรียนโดยช่างเทคนิค NDT ที่มีประสบการณ์สูง หลักสูตรการฝึกอบรมการทดสอบสารแทรกซึมเป็นไปตามชั่วโมงการฝึกอบรมที่จำเป็นสำหรับการรับรองระดับ I/II ตามมาตรฐานและแนวทางปฏิบัติของ ASNT (SNT-TC-1A)"
+                    }
+                ]
+            },
+            {
+                "id": "magnetic-particle-testing",
+                "title": "การทดสอบอนุภาคแม่เหล็ก (MT)",
+                "course_title": "หลักสูตร การทดสอบอนุภาคแม่เหล็ก",
+                "subtitle": [{
+                        "text": "การทดสอบอนุภาคแม่เหล็กใช้เพื่อค้นหาความไม่ต่อเนื่องของชิ้นส่วนเฟอร์โรแมกเนติกโดยใช้สนามแม่เหล็กที่เหนี่ยวนำด้วยไฟฟ้า MT เป็นเครื่องมือตรวจสอบที่มีประสิทธิภาพมากซึ่งไวต่อการแปลข้อบกพร่องทั้งบนพื้นผิวและใต้พื้นผิว MT สามารถทำได้ค่อนข้างเร็วและต้นทุนต่ำในเกือบทุกขนาดและรูปร่าง"
+                    },
+                    {
+                        "text": "หลักสูตรเหล่านี้ครอบคลุมแง่มุมทางทฤษฎีของวิธีการนี้ และยังมีการสาธิตและเวลาปฏิบัติจริงในห้องปฏิบัติการโดยใช้ทั้งอุปกรณ์แบบพกพาและแบบอยู่กับที่ หลักสูตรเป็นไปตามมาตรฐานและแนวทางปฏิบัติของ ASNT (SNT-TC-1A)"
+                    }
+                ]
+            },
+            {
+                "id": "ultrasonic-testing",
+                "title": "การทดสอบด้วยคลื่นเสียง (UT)",
+                "course_title": "หลักสูตรการทดสอบอัลตราโซนิก",
+                "subtitle": [{
+                        "text": "การทดสอบด้วยอัลตราโซนิกใช้ได้กับวัสดุแข็งเกือบทั้งหมด เช่น เหล็ก อะลูมิเนียม และแม้แต่พลาสติก จะช่วยให้คุณตรวจจับการเคลือบภายในวัสดุหรือความไม่ต่อเนื่องในแผ่นโลหะ รอยเชื่อม และการตีขึ้นรูป ซึ่งโดยทั่วไปจะทำจากด้านใดด้านหนึ่งของชิ้นส่วน ผลลัพธ์ถูกสร้างขึ้นทันทีและคุณสามารถประเมินสภาพของอุปกรณ์ของคุณได้อย่างง่ายดายในขณะตรวจสอบ"
+                    },
+                    {
+                        "text": "Dexon Training Institute จะสอนคุณเกี่ยวกับแง่มุมทางทฤษฎีของวิธีการนี้ และยังให้การสาธิตและเวลาปฏิบัติจริงในห้องปฏิบัติการโดยใช้อุปกรณ์แบบพกพา หลักสูตรเป็นไปตามรหัส ASME V และ AWS D1.1 และมาตรฐานและแนวทางปฏิบัติของ ASNT (SNT-TC-1A)"
+                    }
+                ]
+            },
+            {
+                "id": "ultrasonic-thickness",
+                "title": "การวัดความหนาด้วยคลื่นเสียง (UTM)",
+                "course_title": "หลักสูตรการวัดความหนาด้วยอุลตร้าโซนิค",
+                "subtitle": [{
+                        "text": "การใช้เครื่องมืออัลตราโซนิกและวิธีการที่ได้รับอนุมัติจาก American Society for Non-destructive Testing ช่วยให้การวัดอุปกรณ์ของคุณมีความแม่นยำ สามารถตรวจวัดวัสดุที่เป็นของแข็งเกือบทั้งหมดได้ด้วยเทคนิคง่าย ๆ ทำให้คุณสามารถควบคุมสภาพของอุปกรณ์ด้วยวิธีการตรวจสอบที่ค่อนข้างรวดเร็ว"
+                    },
+                    {
+                        "text": "Dexon Training Institute จะสอนคุณเกี่ยวกับแง่มุมทางทฤษฎีของวิธีการนี้ และยังให้การสาธิตและเวลาปฏิบัติจริงในห้องปฏิบัติการโดยใช้อุปกรณ์แบบพกพา หลักสูตรเป็นไปตามมาตรฐานและแนวทางปฏิบัติของ ASNT (SNT-TC-1A)"
+                    }
+                ]
+            },
+            {
+                "id": "visual-inspection",
+                "title": "การตรวจสอบภาพ (VT)",
+                "course_title": "หลักสูตร การตรวจสอบด้วยสายตา",
+                "subtitle": [{
+                        "text": "การตรวจสอบด้วยสายตาเป็นวิธีที่ใช้มากที่สุดเมื่อดำเนินการตรวจสอบภาคการผลิตและภาคสนาม ผู้ตรวจสอบที่ผ่านการฝึกอบรมสามารถประเมินพื้นที่ปัญหาต่างๆ ที่อาจเกิดขึ้นได้ โดยได้รับความช่วยเหลือจากอุปกรณ์ในการวัดปริมาณ คุณสมบัติ และการขยายเงื่อนไข การให้ผู้ตรวจสอบของคุณทำการตรวจสอบเหล่านี้สามารถช่วยให้อุปกรณ์ของคุณมีอายุการใช้งานที่ยาวนานขึ้นและประหยัดเงินเมื่อปิดเครื่อง"
+                    },
+                    {
+                        "text": "การฝึกอบรม VT ที่ Dexon Training Institute จัดเตรียมครูที่มีทักษะและประสบการณ์สูงพร้อมความเข้าใจเชิงทฤษฎีและกรณีศึกษา คุณจะได้เรียนรู้วิธีดำเนินการ VT และประเมินผลตามมาตรฐานและแนวปฏิบัติของ ASNT (SNT-TC-1A)"
+                    }
+                ]
+            },
+            {
+                "id": "eddy-current-testing",
+                "title": "การทดสอบกระแสไหลวน",
+                "course_title": "หลักสูตรการทดสอบกระแสไหลวน",
+                "subtitle": [{
+                        "text": "เทคนิคกระแสไหลวนช่วยให้สามารถตีความได้ทันทีทั้งความหนาของผนังและความไม่ต่อเนื่องในวัสดุนำไฟฟ้า การตรวจสอบไม่เป็นอันตรายต่อทั้งผู้ตรวจสอบและวัสดุ ทำให้สามารถทดสอบได้อย่างปลอดภัย ECT สามารถใช้กับพื้นผิวที่มีอุณหภูมิสูงได้เนื่องจากเป็นวิธีการที่ไม่สัมผัส"
+                    },
+                    {
+                        "text": "การฝึกอบรม ECT ที่สิ่งอำนวยความสะดวกของเราช่วยให้คุณมีครูที่มีทักษะและประสบการณ์สูงพร้อมด้วยการฝึกภาคปฏิบัติและความเข้าใจทางทฤษฎี คุณจะได้เรียนรู้วิธีใช้อุปกรณ์สำหรับ ECT ที่ห้องปฏิบัติการ NDT ของเราตามมาตรฐานและแนวปฏิบัติของ ASNT (SNT-TC-1A)"
+                    }
+                ]
+            },
+            {
+                "id": "radiographic-testing",
+                "title": "การทดสอบภาพรังสี (RT)",
+                "course_title": "หลักสูตรการทดสอบภาพรังสี",
+                "subtitle": [{
+                        "text": "การทดสอบภาพรังสีใช้รังสีเอกซ์หรือรังสีแกมมาที่ผลิตโดยไอโซโทปกัมมันตภาพรังสี หลักการพื้นฐานในการตรวจภาพรังสีจะเหมือนกับการตรวจภาพรังสีทางการแพทย์ รังสีทะลุทะลวงจะถูกส่งผ่านวัตถุที่เป็นของแข็ง ในกรณีนี้คือรอยเชื่อมหรือแผ่นแทนที่จะเป็นส่วนของร่างกายมนุษย์ ลงบนฟิล์มถ่ายภาพ ส่งผลให้ภาพของโครงสร้างภายในของวัตถุถูกฝากไว้บนฟิล์ม ปริมาณพลังงานที่วัตถุดูดซับขึ้นอยู่กับความหนาและความหนาแน่นของวัตถุ ผู้ตรวจสอบที่ผ่านการฝึกอบรมสามารถตรวจจับความไม่ต่อเนื่องทั้งหมดได้โดยการดูรูปร่างและความผันแปรของความหนาแน่นของฟิล์มที่ผ่านการแปรรูป"
+                    },
+                    {
+                        "text": "Dexon Training Institute จะสอนคุณเกี่ยวกับแง่มุมทางทฤษฎีของวิธีการนี้ และยังให้การสาธิตและเวลาปฏิบัติจริงในห้องปฏิบัติการโดยใช้รหัส ASME V, AWS D1.1 และมาตรฐานและแนวทางปฏิบัติของ ASNT (SNT-TC-1A)"
+                    }
+                ]
+            },
+            {
+                "id": "api-training",
+                "title": "การฝึกอบรม API (579, 1163)",
+                "course_title": "หลักสูตรการฝึกอบรม Api (579, 1163)",
+                "subtitle": [{
+                        "text": "โปรแกรมการฝึกอบรม API มุ่งเป้าไปที่วิศวกรและช่างเทคนิคเพื่อให้ความรู้ระดับสูงเกี่ยวกับรหัสและมาตรฐานที่กำหนดโดย API, ASME และสมาคมที่ได้รับการยกย่องอื่นๆ เรามี API 579 Fitness For Service (FFS) และ API 1163 Pipeline pigging, In-Line Inspection (ILI) และการประเมินความสมบูรณ์ หลักสูตรทั้งหมดจัดขึ้นโดยผู้ฝึกสอนที่มีประสบการณ์หลายปีและทักษะการติวที่ยอดเยี่ยม"
+                    },
+                    {
+                        "text": "หลักสูตรเหล่านี้จะช่วยให้ผู้ตรวจสอบของคุณสามารถดำเนินการประเมินอุปกรณ์กระบวนการของคุณเพื่อช่วยคุณกำหนดความต้องการบริการและสภาพการปฏิบัติงาน"
+                    }
+                ]
+            },
+            {
+                "id": "asnt-basic-training-level-3",
+                "title": "ASNT การฝึกอบรมขั้นพื้นฐานระดับ 3",
+                "course_title": "หลักสูตรการฝึกอบรมขั้นพื้นฐาน ASNT ระดับ 3",
+                "subtitle": [{
+                        "text": "ที่ Dexon Training Institute เราสามารถให้การฝึกอบรม ASNT ระดับ 3 ขั้นพื้นฐานแก่คุณและพนักงานของคุณ เพื่อให้ผู้ตรวจสอบของคุณใช้วิธีการ NDT อย่างน้อยหนึ่งวิธี หลักสูตรนี้ช่วยให้บุคลากรมีคุณสมบัติและการรับรองสำหรับการตรวจสอบระดับ 3 ขั้นพื้นฐาน"
+                    },
+                    {
+                        "text": "โปรแกรมหลักสูตรตาม SNT-TC-1A เพื่อให้แน่ใจว่าเข้าใจมาตรฐานและแนวทางปฏิบัติที่กำหนดโดย ASNT"
+                    }
+                ]
+            },
+            {
+                "id": "advanced-ndt-techniques",
+                "title": "เทคนิค NDT ขั้นสูง",
+                "course_title": "หลักสูตรเทคนิค NDT ขั้นสูง",
+                "subtitle": [{
+                        "text": "เทคนิคการทดสอบอัลตราโซนิกขั้นสูงเป็นที่ต้องการสูงสำหรับการตรวจสอบในโรงงานอุตสาหกรรม Dexon Training Institute ยินดีให้ความช่วยเหลือในการจัดหลักสูตร NDT ขั้นสูงเพื่อถ่ายทอดความรู้ของ Dexon Inspection Services โดยเฉพาะอย่างยิ่ง Phased Array Ultrasonic Testing (PAUT)"
+                    },
+                    {
+                        "text": "เทคนิค NDT ขั้นสูงอื่นๆ สามารถนำเสนอได้ตามคำขอในตอนนี้ แต่เราตั้งเป้าที่จะจัดให้มีหลักสูตรหลักสูตรที่กว้างขวางในอนาคตอันใกล้นี้ เรามีผู้ฝึกสอน NDT ขั้นสูงที่มีทักษะสูงพร้อมความรู้เชิงปฏิบัติและทฤษฎีที่กว้างขวางซึ่งได้รับมาเป็นเวลาหลายปีและจากแผนกวิจัย Dexon ของเราเอง"
+                    },
+                    {
+                        "text": "หลักสูตรของเราช่วยให้คุณได้รับการรับรอง NDT อย่างเป็นทางการหรือตามความต้องการของลูกค้า เช่น การฝึกอบรมสำหรับผู้จัดการและวิศวกรออกแบบ หรือสำหรับเจ้าหน้าที่ประกันคุณภาพ / ควบคุมคุณภาพ (QA/QC) เพื่อตีความและตรวจทานผลการตรวจสอบ NDT"
+                    },
+                    {
+                        "text": "เรามีหลักสูตร NDT ตามแนวทางปฏิบัติที่แนะนำของ American Society for Nondestructive Testing (SNT-TC-1A)"
+                    }
+                ]
+            },
+            {
+                "id": "api-certification",
+                "title": "การรับรอง API",
+                "course_title": "หลักสูตรการรับรอง API",
+                "sublist": [{
+                        "title": "API 510, 570, 580 และ 653",
+                        "subtitle": [{
+                            "text": "Dexon Training Institute ให้บริการเตรียมสอบระดับมืออาชีพสำหรับหลักสูตร API ที่มุ่งเป้าไปที่วิศวกรและช่างเทคนิค หลักสูตรทั้งหมดจัดขึ้นโดยผู้ฝึกสอนที่มีประสบการณ์หลายปีและทักษะการติวที่ยอดเยี่ยม หลักสูตรนี้จะช่วยให้บริษัทของคุณรักษาวัฒนธรรมความปลอดภัยที่ดีเพื่อให้เป็นไปตามหลักปฏิบัติและมาตรฐานที่ลูกค้าของคุณคาดหวัง การตรวจสอบใบรับรองจะให้ความปลอดภัยในระดับสูงแก่คุณ เพื่อให้แน่ใจว่าอุปกรณ์ของคุณมีอายุการใช้งานที่ยาวนาน"
+                        }]
+                    },
+                    {
+                        "text_bold": "API 510 การตรวจสอบภาชนะรับความดัน",
+                        "text": "เป็นหนึ่งในใบรับรองที่ได้รับความนิยมมากที่สุดในอุตสาหกรรมปิโตรเคมี เนื่องจากเป็นแนวทางปฏิบัติที่แนะนำอย่างยิ่งสำหรับการตรวจสอบการบำรุงรักษา การปฏิบัติตามหลักเกณฑ์เหล่านี้ไม่ได้เป็นเพียงคำแนะนำเท่านั้น แต่ยังเป็นการลงทุนที่ประหยัดค่าใช้จ่ายสูงอีกด้วย"
+                    },
+                    {
+                        "text_bold": "API 570 การตรวจสอบท่อ",
+                        "text": "มักใช้ร่วมกับหลักสูตร API 510 เนื่องจากมีความเกี่ยวข้องกันมาก ผู้ตรวจสอบที่ผ่านการฝึกอบรม API จะช่วยให้คุณยังคงควบคุมอุปกรณ์เพื่อการประมวลผลที่ต่อเนื่องและความปลอดภัยในระดับสูงสำหรับทั้งบุคลากรและอุปกรณ์"
+                    },
+                    {
+                        "text_bold": "API 580 การตรวจสอบตามความเสี่ยงขั้นสูง (RBI)",
+                        "text": "ได้กลายเป็นเครื่องมือสำคัญและวิธีการตรวจสอบความเสี่ยงที่เป็นที่นิยมในอุตสาหกรรม การรับรอง API 580 ช่วยให้ผู้ตรวจสอบสามารถประเมินภาชนะรับความดัน ท่อ และเครื่องแลกเปลี่ยนความร้อนเพื่อพัฒนาแผนการตรวจสอบที่จัดลำดับความสำคัญตาม HSE และกลไกความเสียหาย (DM)"
+                    },
+                    {
+                        "text_bold": "API 653 การตรวจสอบถัง",
+                        "text": "ให้ความรู้อย่างละเอียดเกี่ยวกับรหัสและมาตรฐานแก่ผู้ตรวจสอบเพื่อประเมินถังเก็บเหนือพื้นดินสำหรับการบริการ การซ่อมแซม การให้คะแนน และการเปลี่ยนแปลง หลักสูตรนี้จัดทำขึ้นโดยเจ้าของ/ผู้ใช้ถังเพื่อให้แน่ใจว่าอุปกรณ์มีอายุการใช้งานที่ยาวนานขึ้นและปลอดภัยยิ่งขึ้น และเป็นมาตรฐานอุตสาหกรรมที่คาดหวังในปัจจุบัน",
+                        "list_title": "โปรแกรมนี้ให้ประโยชน์แก่นายจ้างและอุตสาหกรรมโดยรวมโดยช่วยให้:",
+                        "list": [{
+                                "text": "ปรับปรุงการควบคุมการจัดการของการทำงานของหน่วยกระบวนการ การซ่อมแซม การให้คะแนนใหม่ การเปลี่ยนแปลงและการบำรุงรักษา"
+                            },
+                            {
+                                "text": "ลดโอกาสเกิดความล่าช้าในการตรวจสอบ"
+                            },
+                            {
+                                "text": "ให้ความปลอดภัยในระดับสูงอย่างต่อเนื่องโดยใช้ผู้ตรวจสอบที่เชี่ยวชาญและมีประสบการณ์สูง"
+                            },
+                            {
+                                "text": "รักษาอุปกรณ์ของคุณให้อยู่ในรหัสและมาตรฐานที่กำหนดโดย API, ASME และสมาคมที่ได้รับรางวัลอื่นๆ"
+                            }
+                        ],
+                        "list_subtitle": [{
+                            "text": "ใบรับรอง API มีอายุสามปี"
+                        }]
+                    }
+                ]
+            },
+            {
+                "id": "rope-access-training",
+                "title": "การเข้าถึงเชือก",
+                "course_title": "หลักสูตรการเข้าถึงเชือก",
+                "sublist": [{
+                        "title": "การฝึกอบรม IRATA",
+                        "subtitle": [{
+                            "text": "การฝึกอบรมการใช้เชือกช่วยให้คุณปฏิบัติงานได้อย่างปลอดภัยโดยแทบไม่มีผลกับกระบวนการทำงานหรืองานอื่นๆ ในพื้นที่ที่ยากลำบาก ประหยัดทั้งเวลาและค่าใช้จ่าย เนื่องจากติดตั้งได้ง่าย และช่วยให้เข้าถึงได้อย่างรวดเร็วด้วยช่างเทคนิค Rope Access ที่ผ่านการฝึกอบรมจาก Dexon ใบรับรองการฝึกอบรมการเข้าใช้เชือกสามารถใช้ได้กับธุรกิจที่หลากหลาย และเราพร้อมที่จะปรับแต่งการฝึกอบรมให้เหมาะกับความต้องการของบริษัทของคุณ สถาบันฝึกอบรมเด็กซ์ซอนได้รับการรับรองจาก IRATA (International Rope Access Training Association) และดำเนินการฝึกอบรมการเข้าถึงโดยใช้เชือกที่ศูนย์ฝึกอบรมแห่งใหม่ของเรา ในบ้านฉาง. เรามีผู้สอนและผู้ประเมินที่มีทักษะสูงและได้รับการรับรองเพื่อให้แน่ใจว่าคุณได้รับการฝึกอบรมที่ดีที่สุด ข้อกำหนดเบื้องต้นของการฝึกอบรม IRATA"
+                        }]
+                    },
+                    {
+                        "title": "ทุกระดับ",
+                        "list": [{
+                                "text": "พอดีกับร่างกาย"
+                            },
+                            {
+                                "text": "ไม่มีข้อบ่งชี้ทางการแพทย์"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "การอัพเกรด",
+                        "list": [{
+                                "text": "L 1 ถึง L 2",
+                                "subtext": [{
+                                        "text": "ใบรับรอง L 1 ที่ถูกต้อง"
+                                    },
+                                    {
+                                        "text": "ประสบการณ์ขั้นต่ำ 1,000 ชั่วโมงและ 12 เดือนที่ L 1"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "L 2 ถึง L 3",
+                                "subtext": [{
+                                        "text": "ใบรับรอง L 2 ที่ถูกต้อง"
+                                    },
+                                    {
+                                        "text": "ประสบการณ์ขั้นต่ำ 1,000 ชั่วโมงและ 12 เดือนที่ L 2"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "ระยะเวลาของหลักสูตร",
+                        "list": [{
+                                "text": "อบรม : 5 วัน"
+                            },
+                            {
+                                "text": "การประเมินโดยผู้ประเมินอิสระ IRATA : 1 วัน"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "ที่พัก",
+                        "list": [{
+                                "text": "สามารถจัดได้ตามต้องการ"
+                            },
+                            {
+                                "text": "อาหารกลางวันที่บริษัทจัดอบรมให้"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "สิ่งอำนวยความสะดวก (สถานที่ใน บ้านฉาง นำเสนอ)",
+                        "list": [{
+                                "text": "ห้องทฤษฎีในร่ม"
+                            },
+                            {
+                                "text": "ห้องปฐมพยาบาลโดยเฉพาะ"
+                            },
+                            {
+                                "text": "หอฝึกของเรา"
+                            },
+                            {
+                                "text": "อุปกรณ์ที่ทันสมัย"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "asme-training",
+                "title": "การฝึกอบรม asme",
+                "course_title": "หลักสูตรฝึกอบรม Asme",
+                "sublist": [{
+                        "title": "ASME B31.3 กระบวนการวางท่อ",
+                        "subtitle": [{
+                                "text": "B31.3 เป็นหนึ่งในรหัสที่ได้รับความนิยมมากที่สุดของ ASME ซึ่งใช้กันอย่างแพร่หลายในเขตอำนาจศาลทั่วโลก หลักสูตรนี้เป็นข้อมูลอ้างอิงที่สำคัญสำหรับทุกคนที่เกี่ยวข้องกับการวางท่อ การประยุกต์ใช้รหัส B31.3 จะช่วยให้ผู้ใช้ปฏิบัติตามกฎระเบียบที่บังคับใช้ภายในเขตอำนาจศาลของพวกเขา ในขณะที่ได้รับประโยชน์ด้านการดำเนินงาน ต้นทุน และความปลอดภัยที่จะได้รับจากแนวทางปฏิบัติที่ดีที่สุดของอุตสาหกรรมมากมายที่มีรายละเอียดอยู่ในหลักสูตรนี้"
+                            },
+                            {
+                                "text": "หลักสูตรนี้ให้ความครอบคลุมที่ครอบคลุมเกี่ยวกับข้อกำหนดการออกแบบ การประดิษฐ์ การตรวจสอบและการทดสอบ ASME B31.3 ได้รับการแก้ไข จัดระเบียบใหม่ และอัปเดตอย่างสมบูรณ์ และรวมถึงคำอธิบายของข้อกำหนดใหม่ที่สำคัญของ ASME B31.3"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "ASME IX: ความเข้าใจและการประยุกต์ใช้รหัส",
+                        "subtitle": [{
+                            "text": "ปัจจุบันการเชื่อมมีบทบาทสำคัญในการสร้างหม้อน้ำ ท่อส่งก๊าซ ท่อน้ำมัน โรงกลั่น โรงปิโตรเคมี และโรงประกอบทั่วไป หลักสูตรนี้อธิบายวิธีการจัดระเบียบรหัสและครอบคลุมการอ้างอิงทั่วไปและคำแนะนำที่ใช้กับขั้นตอนและคุณสมบัติการปฏิบัติงาน เช่น ตำแหน่ง ประเภทและวัตถุประสงค์ของการทดสอบทางกลต่างๆ เกณฑ์การยอมรับ และการบังคับใช้ของหมวด IX นอกจากนี้ ผู้เข้าร่วมจะสามารถสร้างและตีความคุณสมบัติการเชื่อม PQR, WPS และ WPQ หลักสูตรนี้จะเป็นประโยชน์สำหรับนักเรียนที่รับผิดชอบในการก่อสร้าง การประดิษฐ์ การประกอบ และการซ่อมแซม"
+                        }]
+                    }
+                ]
+            },
+            {
+                "id": "gwo-training",
+                "title": "การฝึกอบฝึกอบรม GWO",
+                "course_title": "หลักสูตรฝึกอบรม GWO",
+                "sublist": [{
+                        "title": "หลักสูตรฝึกอบรม GWO",
+                        "subtitle": [{
+                            "text": "ด้วยการเติบโตอย่างรวดเร็วและการขยายตัวอย่างต่อเนื่องของพลังงานหมุนเวียน บริษัท Dexon Inspection Services กำลังดำเนินการเพื่อวางตำแหน่งตัวเองในฐานะผู้ให้บริการซ่อมแซมและบำรุงรักษากังหันลมชั้นนำของภูมิภาคเอเชีย"
+                        }]
+                    },
+                    {
+                        "list_title": "มี 2 องค์ประกอบในบริการที่ Dexon สามารถนำเสนอให้กับอุตสาหกรรมนี้ทั่วโลก:",
+                        "list": [{
+                                "text": "GWO BST และการรับรองผู้ตรวจสอบ"
+                            },
+                            {
+                                "text": "ตรวจสอบ ซ่อมแซม และบำรุงรักษา."
+                            }
+                        ],
+                        "list_subtitle": [{
+                                "text": "หน่วยงานอุตสาหกรรมที่ได้รับการยอมรับด้านความปลอดภัยในอุตสาหกรรมกังหันลมคือ Global Wind Organization (GWO) และองค์กรนี้เกี่ยวข้องกับองค์ประกอบทั้งหมดของการทำงานที่ปลอดภัยและมีประสิทธิภาพของกังหันลม"
+                            },
+                            {
+                                "text": "ตรวจสอบผลความพึงพอใจของหลักสูตร GWO ล่าสุดของเรา"
+                            },
+                            {
+                                "text": "เราสนับสนุนให้ผู้แทนของเราแสดงความคิดเห็นเกี่ยวกับประสบการณ์ของพวกเขาและแนะนำการปรับปรุงที่เกี่ยวข้องกับเนื้อหาหลักสูตร มาตรฐานการฝึกอบรม และสิ่งอำนวยความสะดวกของเรา"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "training_schedule": {
+        "title": "Training Schedule",
+        "about": "About Course",
+        "agenda": "Agenda",
+        "table": {
+            "title": "Other Schedules",
+            "name": "Course Name",
+            "date": "Date",
+            "location": "Location",
+            "instructor": "Instructor",
+            "register": "Action"
+        },
+        "schedule": [
+            {
+                "id": "api-th",
+                "title": "API (TH)",
+                "type": "API (TH)",
+                "detail": [
+                    {
+                        "about": {
+                            "id": "overview-of-api-th",
+                            "title": "Overview of API (TH)",
+                            "course": [{
+                                "text": "Overview all related documents and the purpose of each codes/standards."
+                            }],
+                            "day": [{
+                                    "title": "Day 1",
+                                    "day": "Overall Documents"
+                                },
+                                {
+                                    "title": "Day 2",
+                                    "day": "Construction Codes"
+                                },
+                                {
+                                    "title": "Day 3",
+                                    "day": "Inservice Codes"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Overview of API (TH)",
+                                "date": "27-29 Jan 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of API (TH)",
+                                "date": "7-9 Apr 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of API (TH)",
+                                "date": "21-23 Jul 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of API (TH)",
+                                "date": "27-29 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of API (TH)",
+                                "date": "2-4 Feb 2022",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of API (TH)",
+                                "date": "1-3 Jun 2022",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of API (TH)",
+                                "date": "11-13 Oct 2022",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "introduction-to-api-510-th",
+                            "title": "Introduction To API 510 (TH)",
+                            "course": [{
+                                "text": "Provide deep details and summarized all requirements by following Body of Knowledge (BOK) of API510."
+                            }],
+                            "day": [{
+                                    "title": "Day 1",
+                                    "day": "ASME VIII DIV.1, ASME SECT IX, ASME SECT V"
+                                },
+                                {
+                                    "title": "Day 2",
+                                    "day": "API510"
+                                },
+                                {
+                                    "title": "Day 3",
+                                    "day": "Case Study, Q&A"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Introduction To API 510 (TH)",
+                                "date": "10-12 Feb 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction To API 510 (TH)",
+                                "date": "12-14 May 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction To API 510 (TH)",
+                                "date": "9-11 Aug 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction To API 510 (TH)",
+                                "date": "15-17 Dec 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction To API 510 (TH)",
+                                "date": "18-20 Apr 2022",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction To API 510 (TH)",
+                                "date": "8-10 Aug 2022",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "introduction-to-api-570-th",
+                            "title": "Introduction To API 570 (TH)",
+                            "course": [{
+                                "text": "Provide deep details and summarized all requirements by following Body of Knowledge (BOK) of API 570."
+                            }],
+                            "day": [{
+                                    "title": "Day 1",
+                                    "day": "ASME B31.3, ASME SECT IX, ASME SECT V"
+                                },
+                                {
+                                    "title": "Day 2",
+                                    "day": "API 570"
+                                },
+                                {
+                                    "title": "Day 3",
+                                    "day": "Case Study, Q&A"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Introduction to API 570 (TH)",
+                                "date": "17-19 Feb 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction to API 570 (TH)",
+                                "date": "19-21 May 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction to API 570 (TH)",
+                                "date": "8-10 Sep 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction to API 570 (TH)",
+                                "date": "11-13 Nov 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction to API 570 (TH)",
+                                "date": "25-27 Apr 2022",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction to API 570 (TH)",
+                                "date": "10-12 Oct 2022",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "introduction-to-api-653-th",
+                            "title": "Introduction To API 653 (TH)",
+                            "course": [{
+                                "text": "Provide deep details and summarized all requirements by following Body of Knowledge (BOK) of API653."
+                            }],
+                            "day": [{
+                                    "title": "Day 1",
+                                    "day": "API650, ASME SECT IX, ASME SECT V"
+                                },
+                                {
+                                    "title": "Day 2",
+                                    "day": "API 653"
+                                },
+                                {
+                                    "title": "Day 3",
+                                    "day": "Case Study, Q&A"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Introduction To API 653 (TH)",
+                                "date": "17-19 Feb 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction To API 653 (TH)",
+                                "date": "19-21 May 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction To API 653 (TH)",
+                                "date": "8-10 Sep 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction To API 653 (TH)",
+                                "date": "11-13 Nov 2021",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction To API 653 (TH)",
+                                "date": "25-27 Apr 2022",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Introduction To API 653 (TH)",
+                                "date": "10-12 Oct 2022",
+                                "location": "Virtual",
+                                "instructor": "Mr.Kongsak Uaiphon"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "api-en",
+                "title": "API (EN)",
+                "type": "API (EN)",
+                "detail": [{
+                        "about": {
+                            "id": "api-510-en",
+                            "title": "API 510 (EN)",
+                            "course_list": [{
+                                    "text_title": "The course provides participants with the knowledge necessary to:"
+                                },
+                                {
+                                    "text": "Successfully pass to API 510 pressure vessel inspector certification exam"
+                                },
+                                {
+                                    "text": "Effectively use major codes: ASME B&PV Sections V, VIII, & IX"
+                                },
+                                {
+                                    "text": "Perform all basic vessel calculations needed for the API exam (e.g. tmin, test pressure, MAWP, static head, MDMT, corrosion rates, remaining life, etc.)"
+                                },
+                                {
+                                    "text": "Use API’s requirements during inspection, repairs, and alterations of pressure vessels"
+                                },
+                                {
+                                    "text": "Review welding procedures (WPS/PQR) and welder performance qualifications (WPQ)"
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching following body of knowledge for API510 and Provide all essential knowledge tha need to pass the exam."
+                            }]
+                        },
+                        "table": [{
+                                "name": "API 510 (EN)",
+                                "date": "22-26 Mar 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 510 (EN)",
+                                "date": "5-9 Jul 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 510 (EN)",
+                                "date": "22-26 Nov 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 510 (EN)",
+                                "date": "28 Mar - 1 Apr 2022",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 510 (EN)",
+                                "date": "1-5 Aug 2022",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 510 (EN)",
+                                "date": "21-25 Nov 2022",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "api-570-en",
+                            "title": "API 570 (EN)",
+                            "course_list": [{
+                                    "text_title": "The course provides participants with the knowledge necessary to:"
+                                },
+                                {
+                                    "text": "Successfully pass the API 570 piping inspector certification exam"
+                                },
+                                {
+                                    "text": "Effectively use major codes: ASME B16.5 & B31.3; ASME B&PV Sections V & IX"
+                                },
+                                {
+                                    "text": "Perform all basic piping calculations needed for the API exam (e.g. tmin, test pressure, MAWP, MDMT, corrosion rates, remaining life, etc.)"
+                                },
+                                {
+                                    "text": "Use API’s requirements during inspection, repairs, and alterations of piping"
+                                },
+                                {
+                                    "text": "Review welding procedures (WPS/PQR) and welder performance qualifications (WPQ)"
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching following body of knowledge for API570 and Provide all essential knowledge tha need to pass the exam."
+                            }]
+                        },
+                        "table": [{
+                                "name": "API 570 (EN)",
+                                "date": "26-30 Apr 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 570 (EN)",
+                                "date": "12-16 Jul 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 570 (EN)",
+                                "date": "20-24 Dec 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 570 (EN)",
+                                "date": "18-22 Apr 2022",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 570 (EN)",
+                                "date": "26-30 Sep 2022",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 570 (EN)",
+                                "date": "19-23 Dec 2022",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "api-653-en",
+                            "title": "API 653 (EN)",
+                            "course_list": [{
+                                    "text_title": "The course provides participants with the knowledge necessary to:"
+                                },
+                                {
+                                    "text": "Successfully pass the API 653 storage tank inspector certification exam"
+                                },
+                                {
+                                    "text": "Effectively use major codes, API 650 and ASME B&PV sections V & IX"
+                                },
+                                {
+                                    "text": "Perform all tank calculations needed for the API exam"
+                                },
+                                {
+                                    "text": "Use API’s requirements during inspection, repairs, and alterations of tanks"
+                                },
+                                {
+                                    "text": "Review welding procedures (WPS/PQR) and welder performance qualifications (WPQ)"
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching following body of knowledge for API653 and Provide all essential knowledge tha need to pass the exam."
+                            }]
+                        },
+                        "table": [{
+                                "name": "API 653 (EN)",
+                                "date": "25-29 Jan 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 653 (EN)",
+                                "date": "10-14 May 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 653 (EN)",
+                                "date": "30 Aug-3 Sep 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 653 (EN)",
+                                "date": "14-18 Feb 2022",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 653 (EN)",
+                                "date": "6-10 Jun 2022",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API 653 (EN)",
+                                "date": "10-14 Oct 2022",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "api-sife-en",
+                            "title": "API SIFE (EN)",
+                            "course": [{
+                                    "text": "This 5 days training course is designed for understanding various Codes and Standard like ASME Sec VIII, ASME Sec II, ASME Sec IX, ASNT, API and SSPC. It helps the participants to get prepare for API SIFE Certification Examination."
+                                },
+                                {
+                                    "text": "The API SIFE Source Inspector Fixed Equipment certification exam tests the applicant’s core knowledge in relevant standards/codes, inspection reference documents, source inspection practices, manufacturing processes, and inspection tools and methods. The focus of the exam is on source inspection issues and activities rather than design or engineering knowledge contained in the reference standards."
+                                },
+                                {
+                                    "text": "The API Source Inspector certification program was developed in cooperation with industry experts. It qualifies individuals (employees of end-users and individual contractors) who perform the important task of supplier quality surveillance."
+                                }
+                            ],
+                            "course_list": [{
+                                    "text_title": "The Source Inspector has been defined as the individual responsible for:"
+                                },
+                                {
+                                    "text": "Examining fabricated and manufactured equipment and materials at a supplier’s facility"
+                                },
+                                {
+                                    "text": "Confirming that the supplier’s quality management system is being utilized effectively"
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching following body of knowledge for API SIFE and Provide all essential knowledge tha need to pass the exam."
+                            }]
+                        },
+                        "table": [{
+                                "name": "API SIFE (EN)",
+                                "date": "17-21 May 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            },
+                            {
+                                "name": "API SIFE (EN)",
+                                "date": "20-24 Sep 2021",
+                                "location": "Virtual",
+                                "instructor": "Uday Kale"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "api-580-en",
+                            "title": "API 580 (EN)",
+                            "course": [{
+                                    "text": "The course is based on API RP 580 Risk-Based Inspection and API Publication 581, Base Resource Document. The course first explains feasible means and alternatives for achieving a successful RBI program without undue complications."
+                                },
+                                {
+                                    "text": "This course deals with RBI framework and methodology in a simple straight forward manner to establish and implement a risk-based inspection program best suited for the company objectives. Its utility is based on the premise that a few vital equipment’s in a process plant contribute a majority of the risk. Consequently, if these few equipment’s can be identified, then testing and inspection can be focused on them rather than several low-risk items. RBI helps to prioritize their equipment for inspection, optimize inspection methods and frequencies, and develop effective inspection plan commensurate with the risk contribution and equipment condition."
+                                },
+                                {
+                                    "text": "The course is focused on methodology of actual implementation of RBI in Oil and Gas industry. It covers advanced knowledge of RBI implementation in addition to the knowledge required for passing the Certification Examination. The candidates should possess at least one certification out of API 510, API 570 or API 653 certifications."
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching following body of knowledge for API 580 and Provide all essential knowledge tha need to pass the exam."
+                            }]
+                        },
+                        "table": [{
+                                "name": "API 580 (EN)",
+                                "date": "25-29 Jan 2021",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 580 (EN)",
+                                "date": "7-11 Jun 2021",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 580 (EN)",
+                                "date": "4-8 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 580 (EN)",
+                                "date": "18-22 Jul 2022",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 580 (EN)",
+                                "date": "12-16 Dec 2022",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "api-571-en",
+                            "title": "API 571 (EN)",
+                            "course": [{
+                                    "text": "This course is based on damage mechanisms in refining, petrochemical and other process industries. It focuses not only on different materials properties and process fluid characteristics but also on different processes environment parameters which leads to damage mechanisms. They can be interdependent and cause damage mechanisms to initiate, propagate individually or simultaneously."
+                                },
+                                {
+                                    "text": "The course also contains the useful information like material selection, design considerations, operations, necessary to determine the causes of damages/ deterioration present and probable inspection. Various examination and testing methods, other techniques for determining the type size and location of damage mechanisms, monitoring or mitigation techniques for each damage mechanism also will be explained with case studies."
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching following body of knowledge of API 571 and Provide all essential knowledge tha need to pass the exam."
+                            }]
+                        },
+                        "table": [{
+                                "name": "API 571 (EN)",
+                                "date": "1-5 Feb 2021",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 571 (EN)",
+                                "date": "14-18 Jun 2021",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 571 (EN)",
+                                "date": "25-29 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 571 (EN)",
+                                "date": "4-8 Jul 2022",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 571 (EN)",
+                                "date": "17-21 Oct 2022",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "api-577-en",
+                            "title": "API 577 (EN)",
+                            "course_list": [{
+                                    "text_title": "The course provides participants with the knowledge in"
+                                },
+                                {
+                                    "text": "Welding processes and their applications, welding positions, welding consumables, weld preparation and welding symbols"
+                                },
+                                {
+                                    "text": "Basics of welding metallurgy, PWHT and Preheating • Introduction to Physical, Chemical and Mechanical properties of metals"
+                                },
+                                {
+                                    "text": "Performing welding inspection and use of measuring devices"
+                                },
+                                {
+                                    "text": "Visual inspection of welded constructions and correctly identify and evaluate welding imperfection as per acceptance level with respect to pre-production, fabrication, and post fabrication"
+                                },
+                                {
+                                    "text": "Inspection of Weldments to Specifications, Codes and Standards"
+                                },
+                                {
+                                    "text": "How to Prepare and Review WPS, PQR and WPQ to ASME IX"
+                                },
+                                {
+                                    "text": "Evaluate the test pieces for destructive tests and verify their compliance with applicable specifications"
+                                },
+                                {
+                                    "text": "Introduction to Parent materials and Welding consumable according to ASME Sec II"
+                                },
+                                {
+                                    "text": "Introduction to NDE and Reviewing NDE reports on welding work"
+                                },
+                                {
+                                    "text": "Personnel Qualification for Personnel performing NDE • API 577 Exam preparation with mock-up examination"
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching all essential knowledge tha inspector and engineer need to know about welding and metallurgy."
+                            }]
+                        },
+                        "table": [{
+                                "name": "API 577 (EN)",
+                                "date": "8-12 Feb 2021",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 577 (EN)",
+                                "date": "21-25 Jun 2021",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 577 (EN)",
+                                "date": "18-22 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 577 (EN)",
+                                "date": "14-18 Mar 2022",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            },
+                            {
+                                "name": "API 577 (EN)",
+                                "date": "26-30 Sep 2022",
+                                "location": "Virtual",
+                                "instructor": "Chintamani Khade"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "api-579-en",
+                            "title": "API 579 (EN)",
+                            "course": [{
+                                "text": "Quantitative engineering evaluation to determine if an in-service equipment is safe and Reliable to operate at Specific Conditions during a Determined Time."
+                            }],
+                            "course_list": [{
+                                    "text_title": "Assessment or re-rating of components designed and constructed to"
+                                },
+                                {
+                                    "text": "ASME B&PV Codes Section VIII Division 1 & 2"
+                                },
+                                {
+                                    "text": "ASME Codes Section I"
+                                },
+                                {
+                                    "text": "ASME B31.3 Piping Code"
+                                },
+                                {
+                                    "text": "ASME B31.1 Piping Code"
+                                },
+                                {
+                                    "text": "API Standards:"
+                                },
+                                {
+                                    "text": "API 650"
+                                },
+                                {
+                                    "text": "API 620"
+                                },
+                                {
+                                    "text": "Other recognized codes and standards, including International Standards (review attributes/ compare to API & ASME codes)"
+                                },
+                                {
+                                    "text": "Methods and procedures intended to supplement API 510, API 570, and API 653"
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching all essential knowledge tha inspector and engineer need to know about fitness for service in Level 1 and Level 2"
+                            }]
+                        },
+                        "table": [{
+                                "name": "API 579 (EN)",
+                                "date": "26-30 Apr 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "API 579 (EN)",
+                                "date": "4-8 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "API 579 (EN)",
+                                "date": "17-21 Oct 2022",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "asme",
+                "title": "ASME",
+                "type": "ASME",
+                "detail": [{
+                        "about": {
+                            "id": "introduction-to-asme",
+                            "title": "Introduction to ASME",
+                            "course": [{
+                                "text": "Overview ASME code/ Stanadrd"
+                            }],
+                            "day": [{
+                                "day": "Please contact DTC for more information"
+                            }]
+                        },
+                        "table": [{
+                                "name": "Introduction to ASME",
+                                "date": "10-14 May 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "Introduction to ASME",
+                                "date": "4-8 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "asme-sec-i-en",
+                            "title": "ASME Sec. I (EN)",
+                            "course": [{
+                                "text": "Rules for Construction of Power Biolers"
+                            }],
+                            "day": [{
+                                "title": "Day 1–5",
+                                "day": "Teaching all section and all essentials point that user and engineer need to know."
+                            }]
+                        },
+                        "table": [{
+                                "name": "ASME Sec. I (EN)",
+                                "date": "17-21 May 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "ASME Sec. I (EN)",
+                                "date": "11-15 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "ASME Sec. I (EN)",
+                                "date": "9-11 May 2022",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "ASME Sec. I (EN)",
+                                "date": "22-24 Ang 2022",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "asme-pcc-2-en",
+                            "title": "ASME PCC-2 (EN)",
+                            "course_list": [{
+                                    "text_title": "Introduction The course provides participants with the knowledge necessary to:"
+                                },
+                                {
+                                    "text": "Familiarize participants with the concepts and technical terms of the standard"
+                                },
+                                {
+                                    "text": "Know the basic concepts of the standard and their design fundamentals"
+                                },
+                                {
+                                    "text": "Troubleshoot to resolve various in-service issues."
+                                },
+                                {
+                                    "text": "Know the design philosophy of pressure parts"
+                                },
+                                {
+                                    "text": "Understand the in-service problems in pressure equipment and piping"
+                                },
+                                {
+                                    "text": "Learn the maintenance aspects in these equipment."
+                                },
+                                {
+                                    "text": "Get introduced to all the repair techniques.(temporary and permanent)"
+                                },
+                                {
+                                    "text": "Discover the fabrication requirements, assembly and welding requirements."
+                                },
+                                {
+                                    "text": "NDT and testing procedures for repaired equipment and piping"
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-3",
+                                "day": "Teaching all section and all essentials point that owner/user, engineer and API Inspector need to know and are able to select repairing technique."
+                            }]
+                        },
+                        "table": [{
+                                "name": "ASME PCC-2 (EN)",
+                                "date": "5-7 May 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "ASME PCC-2 (EN)",
+                                "date": "26-28 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "ASME PCC-2 (EN)",
+                                "date": "10-12 Oct 2022",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "asme-sec-viii-div-12-en",
+                            "title": "ASME Sec VIII Div 1&2 (EN)",
+                            "course_list": [{
+                                    "text_title": "The course comprises"
+                                },
+                                {
+                                    "text": "Definition and types of pressure vessels"
+                                },
+                                {
+                                    "text": "Applicable codes and standards (ASME/ API/ NACE/ ANSI/ Etc.)"
+                                },
+                                {
+                                    "text": "Scope and limitations of the codes (advantages/ disadvantages)"
+                                },
+                                {
+                                    "text": "Main differences between ASME VIII Division-1 and Division-2"
+                                },
+                                {
+                                    "text": "Theories of Design – Material properties for material selection (corrosion and high/ low temperature criteria)"
+                                },
+                                {
+                                    "text": "Thickness calculations for design conditions (Internal and External Pressures)"
+                                },
+                                {
+                                    "text": "Concept of Primary and Secondary stresses"
+                                },
+                                {
+                                    "text": "Extended allowable stress ranges for these stresses"
+                                },
+                                {
+                                    "text": "Nozzle connection reinforcement requirements"
+                                },
+                                {
+                                    "text": "General introduction to WRC-107/ 297 local load analysis (or FEA criteria, as required)"
+                                },
+                                {
+                                    "text": "Basic introduction to equipment support design such as lugs/ legs/ saddle/ skirt."
+                                },
+                                {
+                                    "text": "Wind and Earthquake considerations"
+                                },
+                                {
+                                    "text": "Fabrication and inspection criteria for the 2 codes"
+                                },
+                                {
+                                    "text": "Introduction to TEMA standard for shell/ tube heat exchangers and its contents."
+                                },
+                                {
+                                    "text": "Case study for internal/ external pressure calculations for a typical pressure vessel."
+                                },
+                                {
+                                    "text": "Case study explaining calculations for wind and earthquake calculations"
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching all section and all essentials point that owner/user, engineer and Inspector need to know."
+                            }]
+                        },
+                        "table": [{
+                                "name": "ASME Sec VIII Div 1&2 (EN)",
+                                "date": "14-18 Jun 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "ASME Sec VIII Div 1&2 (EN)",
+                                "date": "18-22 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "ASME Sec VIII Div 1&2 (EN)",
+                                "date": "13-17 Jun 2022",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "asme-b31-3-en",
+                            "title": "ASME B31.3 (EN)",
+                            "course_list": [{
+                                    "text_title": "The course provides participants with the knowledge necessary to:"
+                                },
+                                {
+                                    "text": "Apply an up-to-date knowledge and skills of the latest technology in piping & pipeline design, construction, inspection."
+                                },
+                                {
+                                    "text": "Design, analyze, fabricate and install new piping and pipeline systems according to the latest revision of ASME B31.3 Code and have a working knowledge of the Code, how it is organized, its intent, and the basis requirements."
+                                },
+                                {
+                                    "text": "To be knowledgeable of code requirements for design and construction include fluid service requirements."
+                                },
+                                {
+                                    "text": "To understand the prescription of code requirements for materials and components, fabrication, assembly, erection, examination, inspection and testing of piping."
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching all section and all essentials point that owner/user, engineer and Inspector need to know."
+                            }]
+                        },
+                        "table": [{
+                                "name": "ASME B31.3 (EN)",
+                                "date": "7-11 Jun 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "ASME B31.3 (EN)",
+                                "date": "18-22 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "ASME B31.3 (EN)",
+                                "date": "7-11 Nov 2022",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "asme-tema-en",
+                            "title": "ASME TEMA (EN)",
+                            "course": [{
+                                "text": "Heat Exchanger Design"
+                            }],
+                            "day": [{
+                                "title": "Day 1-5",
+                                "day": "Teaching all section and all essentials point that owner/user, engineer and Inspector need to know."
+                            }]
+                        },
+                        "table": [{
+                                "name": "ASME TEMA (EN)",
+                                "date": "21-25 Jun 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            },
+                            {
+                                "name": "ASME TEMA (EN)",
+                                "date": "8-12 Nov 2021",
+                                "location": "Virtual",
+                                "instructor": "Mandar Mulay"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "ndt",
+                "title": "NDT",
+                "type": "NDT",
+                "detail": [{
+                        "about": {
+                            "id": "overview-of-ndt",
+                            "title": "Overview Of NDT",
+                            "course": [{
+                                "text": "Basic NDT Overview for non NDT"
+                            }],
+                            "day": [{
+                                    "title": "Day 1",
+                                    "day": "Principle of MT/PT/UT/RT/ET and ET"
+                                },
+                                {
+                                    "title": "Day 2",
+                                    "day": "NDT Method Selection . Advance – Disadvance"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Overview of NDT",
+                                "date": "3-5 Feb 2021",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of NDT",
+                                "date": "7-9 Apr 2021",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of NDT",
+                                "date": "31 May - 2 Jun 2021",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of NDT",
+                                "date": "2-4 Sep 2021",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of NDT",
+                                "date": "4-6 Oct 2021",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of NDT",
+                                "date": "5-7 Jan 2022",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of NDT",
+                                "date": "1-3 Jun 2022",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Overview of NDT",
+                                "date": "10-12 Oct 2022",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "basic-ndt-exam-preparation",
+                            "title": "Basic NDT Exam Preparation",
+                            "course": [{
+                                "text": "Basic NDT Level 3 Exam Preparation"
+                            }],
+                            "day": [{
+                                    "title": "Day 1",
+                                    "day": "Manufacturing Process"
+                                },
+                                {
+                                    "title": "Day 2",
+                                    "day": "Principle of NDT"
+                                },
+                                {
+                                    "title": "Day 3",
+                                    "day": "NDT method Selection and Qualification Requirement"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Basic NDT Exam Preparation",
+                                "date": "3-5 Feb 2021",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Basic NDT Exam Preparation",
+                                "date": "7-9 Apr 2021",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Basic NDT Exam Preparation",
+                                "date": "27-29 Sep 2021",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Basic NDT Exam Preparation",
+                                "date": "27-29 Apr 2022",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Basic NDT Exam Preparation",
+                                "date": "26-28 Oct 2022",
+                                "location": "Virtual",
+                                "instructor": "Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "penetrant-testing-pt",
+                            "title": "Penetrant Testing (PT)",
+                            "course": [{
+                                    "header": "Penetrant Testing (PT) Level 2",
+                                    "text": "Train to be a certified inspector in PT Level 2"
+                                },
+                                {
+                                    "header": "Penetrant Testing (PT) Level 3",
+                                    "text": "Exam Preparation for ASNT PT Level 3"
+                                }
+                            ],
+                            "day": [{
+                                    "header": "Penetrant Testing (PT) Level 2",
+                                    "title": "Day 1-2",
+                                    "day": "General and Specific Knowledge for PT L2"
+                                },
+                                {
+                                    "title": "Day 3",
+                                    "day": "Examination"
+                                },
+                                {
+                                    "header": "Penetrant Testing (PT) Level 3",
+                                    "title": "Day 1-3",
+                                    "day": "All essential for PT Level 3"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "10-13 Jan 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2 Level 3 (Exam Preparation)",
+                                "date": "18-20 Feb 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "8-10 Mar 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "26-28 Apr 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "5-7 May 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2 Level 3 (Exam Preparation)",
+                                "date": "29-1 Jun 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "9-11 Aug 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2 Level 3 (Exam Preparation)",
+                                "date": "30-1 Aug 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "7-9 Nov 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "27-29 Jan 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "2-4 Mar 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "23-25 May 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "25-27 Jul 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2 Level 3 (Exam Preparation)",
+                                "date": "15-16 Aug 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "26-28 Sep 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Penetrant Testing (PT) Level 2",
+                                "date": "1-3 Nov 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "magnetic-particle-testing-mt",
+                            "title": "Magnetic Particle Testing (MT)",
+                            "course": [{
+                                    "header": "Magnetic Particle Testing (MT) Level 2",
+                                    "text": "Train to be a certified inspector in MT Level 2"
+                                },
+                                {
+                                    "header": "Magnetic Particle Testing (MT) Level 3",
+                                    "text": "Exam Preparation for ASNT MT Level 3"
+                                }
+                            ],
+                            "day": [{
+                                    "header": "Magnetic Particle Testing (MT) Level 2",
+                                    "title": "Day 1-2",
+                                    "day": "General and Specific Knowledge for MT L2"
+                                },
+                                {
+                                    "title": "Day 3",
+                                    "day": "Examination"
+                                },
+                                {
+                                    "header": "Magnetic Particle Testing (MT) Level 3",
+                                    "title": "Day 1-3",
+                                    "day": "All essential for MT Level 3"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "14-16 Jan 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 3 (Exam Preparation)",
+                                "date": "24-25 Feb 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "15-17 Mar 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "29-1 Apr 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "31-2 May 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "18-20 Aug 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 3 (Exam Preparation)",
+                                "date": "2-4 Sep 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "1-3 Dec 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "24-26 Jan 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "21-23 Mar 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "26-28 May 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "18-20 Jul 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 3 (Exam Preparation)",
+                                "date": "22-23 Aug 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "19-21 Sep 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Magnetic Particle Testing (MT) Level 2",
+                                "date": "7-9 Nov 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "visual-testing-vt",
+                            "title": "Visual Testing (VT)",
+                            "course": [{
+                                    "header": "Visual Testing (VT) Level 2",
+                                    "text": "Train to be a certified inspector in VT Level 2"
+                                },
+                                {
+                                    "header": "Visual Testing (VT) Level 3",
+                                    "text": "Exam Preparation for ASNT MT Level 3"
+                                }
+                            ],
+                            "day": [{
+                                    "header": "Visual Testing (VT) Level 2",
+                                    "title": "Day 1-3",
+                                    "day": "General and Specific Knowledge for VT L2"
+                                },
+                                {
+                                    "title": "Day 4",
+                                    "day": "Examination"
+                                },
+                                {
+                                    "header": "Visual Testing (VT) Level 3",
+                                    "title": "Day 1-2",
+                                    "day": "All essential for VT Level 3"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "19-22 Jan 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "9-12 Mar 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "11-14 May 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 3 (Exam Preparation)",
+                                "date": "29-30 Jul 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "3-6 Aug 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "23-26 Nov 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "17-21 Jan 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "14-17 Mar 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "16-19 May 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "11-14 Jul 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 3 (Exam Preparation)",
+                                "date": "29-30 Aug 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "12-15 Sep 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Visual Testing (VT) Level 2",
+                                "date": "21-24 Nov 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "ultrasonic-testing-measurement-utm",
+                            "title": "Ultrasonic Testing Measurement (UTM)",
+                            "course": [{
+                                "text": "Train to be a certified inspector in UTM Level 2"
+                            }],
+                            "day": [{
+                                    "title": "Day 1",
+                                    "day": "UT Principle"
+                                },
+                                {
+                                    "title": "Day 2",
+                                    "day": "UT Equipment’s and Type of Probes"
+                                },
+                                {
+                                    "title": "Day 3",
+                                    "day": "Application Code / Standard and Procedure"
+                                },
+                                {
+                                    "title": "Day 4",
+                                    "day": "Practice"
+                                },
+                                {
+                                    "title": "Day 5",
+                                    "day": "Examination"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "25-29 Jan 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "15-19 Mar 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "17-21 May 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "5-9 Jul 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "1-5 Nov 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "10-14 Jan 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "7-11 Mar 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "9-13 May 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "4-8 Jul 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "5-9 Sep 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing Measurement (UTM) Level 2",
+                                "date": "14-18 Nov 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "ultrasonic-testing-ut",
+                            "title": "Ultrasonic Testing (UT)",
+                            "course": [{
+                                    "header": "Ultrasonic Testing (UT) Level 2",
+                                    "text": "Train to be a certified inspector in UT Level 2"
+                                },
+                                {
+                                    "header": "Ultrasonic Testing (UT) Level 3",
+                                    "text": "Exam Preparation for ASNT UT Level 3"
+                                }
+                            ],
+                            "day": [{
+                                    "header": "Ultrasonic Testing (UT) Level 2",
+                                    "title": "Day 1-9",
+                                    "day": "General and Specific Knowledge for UT L2"
+                                },
+                                {
+                                    "title": "Day 10",
+                                    "day": "Examination"
+                                },
+                                {
+                                    "header": "Ultrasonic Testing (UT) Level 3",
+                                    "title": "Day 1-3",
+                                    "day": "All essential for UT Level 3"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Ultrasonic Testing (UT) Level 2",
+                                "date": "1-12 Feb 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 3 (Exam Preparation)",
+                                "date": "15-17 Feb 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 2",
+                                "date": "7-18 Jun 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 3 (Exam Preparation)",
+                                "date": "22-24 Jun 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 2",
+                                "date": "12-23 Jul 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 3 (Exam Preparation)",
+                                "date": "25-27 Aug 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 2",
+                                "date": "8-19 Nov 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 2",
+                                "date": "31 Feb -11 Mar 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 2",
+                                "date": "18-29 Apr 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 3 (Exam Preparation)",
+                                "date": "25-27 Apr 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 2",
+                                "date": "6-17 Jun 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 2",
+                                "date": "1-12 Aug 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 3 (Exam Preparation)",
+                                "date": "15-16 Aug 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Ultrasonic Testing (UT) Level 2",
+                                "date": "3-14 Oct 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "phase-array-ultrasonic-testing-paut",
+                            "title": "Phase Array Ultrasonic Testing (PAUT)",
+                            "course": [{
+                                "text": "Train to be a competence and certified inspector in PAUT Level 2"
+                            }],
+                            "day": [{
+                                    "title": "Day 1-9",
+                                    "day": "General and Specific Knowledge for UT L2"
+                                },
+                                {
+                                    "title": "Day 10",
+                                    "day": "Examination"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Phase Array Ultrasonic Testing (PAUT) Level 2",
+                                "date": "1-12 Mar 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Phase Array Ultrasonic Testing (PAUT) Level 2",
+                                "date": "7-18 Jun 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Phase Array Ultrasonic Testing (PAUT) Level 2",
+                                "date": "6-17 Sep 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Phase Array Ultrasonic Testing (PAUT) Level 2",
+                                "date": "14-25 Mar 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Phase Array Ultrasonic Testing (PAUT) Level 2",
+                                "date": "13-24 Jun 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Phase Array Ultrasonic Testing (PAUT) Level 2",
+                                "date": "5-16 Sep 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "eddy-current-testing-et",
+                            "title": "Eddy Current Testing (ET)",
+                            "course": [{
+                                "text": "Train to be a competence and certified person in ET Level2"
+                            }],
+                            "day": [{
+                                    "title": "Day 1-9",
+                                    "day": "General and Specific Knowledge for ET Level 2"
+                                },
+                                {
+                                    "title": "Day 10",
+                                    "day": "Examination"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Eddy Current Testing (ET) Level 2",
+                                "date": "1-12 Feb 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Eddy Current Testing (ET) Level 2",
+                                "date": "7-18 Jun 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Eddy Current Testing (ET) Level 2",
+                                "date": "6-17 Sep 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "radiographic-testing-rt",
+                            "title": "Radiographic Testing (RT)",
+                            "course": [{
+                                "text": "Train to be a competence and certified person in RT Level2"
+                            }],
+                            "day": [{
+                                    "title": "Day 1-9",
+                                    "day": "General and Specific Knowledge for ET Level 2"
+                                },
+                                {
+                                    "title": "Day 10",
+                                    "day": "Examination"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Radiographic Testing (RT) Level 2",
+                                "date": "19-30 Apr 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Radiographic Testing (RT) Level 2",
+                                "date": "27 Sep-8 Oct 2021",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Radiographic Testing (RT) Level 2",
+                                "date": "14-25 Feb 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Radiographic Testing (RT) Level 2",
+                                "date": "20 Jun -1 Jul 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            },
+                            {
+                                "name": "Radiographic Testing (RT) Level 2",
+                                "date": "17-28 Oct 2022",
+                                "location": "DTC",
+                                "instructor": "Kongsak Uaiphon"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "leak-testing-lt-bubble-test",
+                            "title": "Leak Testing (LT) – Bubble Test",
+                            "course": [{
+                                "text": "Train to be a competence and certified person in LT Level2"
+                            }],
+                            "day": [{
+                                    "title": "Day 1-3",
+                                    "day": "General and Specific Knowledge for LT Level 2"
+                                },
+                                {
+                                    "title": "Day 4",
+                                    "day": "Examination"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "Leak Testing (LT) - Bubble Test Level 2",
+                                "date": "23-25 Feb 2021",
+                                "location": "DTC",
+                                "instructor": "Angkoon Sae-Ngow"
+                            },
+                            {
+                                "name": "Leak Testing (LT) - Bubble Test Level 2",
+                                "date": "27-29 May 2021",
+                                "location": "DTC",
+                                "instructor": "Angkoon Sae-Ngow"
+                            },
+                            {
+                                "name": "Leak Testing (LT) - Bubble Test Level 2",
+                                "date": "22-25 Sep 2021",
+                                "location": "DTC",
+                                "instructor": "Angkoon Sae-Ngow"
+                            },
+                            {
+                                "name": "Leak Testing (LT) - Bubble Test Level 2",
+                                "date": "21-25 Mar 2022",
+                                "location": "DTC",
+                                "instructor": "Angkoon Sae-Ngow"
+                            },
+                            {
+                                "name": "Leak Testing (LT) - Bubble Test Level 2",
+                                "date": "18-22 Jul 2022",
+                                "location": "DTC",
+                                "instructor": "Angkoon Sae-Ngow"
+                            },
+                            {
+                                "name": "Leak Testing (LT) - Bubble Test Level 2",
+                                "date": "21-25 Nov 2022",
+                                "location": "DTC",
+                                "instructor": "Angkoon Sae-Ngow"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "mfl-for-floor-scan",
+                            "title": "MFL For Floor Scan",
+                            "course": [{
+                                "text": "Train to be a competence and certified person in MFL Floor Scan Level2"
+                            }],
+                            "day": [{
+                                    "title": "Day 1-4",
+                                    "day": "General and Specific Knowledge for ET Level 2"
+                                },
+                                {
+                                    "title": "Day 5",
+                                    "day": "Examination"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "MFL for Floor Scan Level 2",
+                                "date": "22-26 Mar 2021",
+                                "location": "DTC",
+                                "instructor": "Angkoon Sae-Ngow"
+                            },
+                            {
+                                "name": "MFL for Floor Scan Level 2",
+                                "date": "12-16 Jul 2021",
+                                "location": "DTC",
+                                "instructor": "Angkoon Sae-Ngow"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "gwo",
+                "title": "GWO",
+                "type": "GWO",
+                "detail": [{
+                        "about": {
+                            "id": "gwo-4-modules",
+                            "title": "GWO 4 MODULES",
+                            "course": [{
+                                    "text": "BST is Basic Safety Training"
+                                },
+                                {
+                                    "text": "This course will support your basic for working on wind turbines."
+                                }
+                            ],
+                            "course_list": [{
+                                    "text_title": "consists of 4 modules"
+                                },
+                                {
+                                    "text": "Working at height"
+                                },
+                                {
+                                    "text": "Manual handling"
+                                },
+                                {
+                                    "text": "Fire awareness"
+                                },
+                                {
+                                    "text": "First aid"
+                                }
+                            ],
+                            "day": [{
+                                    "title": "Day 1",
+                                    "day": "Working at height"
+                                },
+                                {
+                                    "title": "Day 2",
+                                    "day": "Working at height"
+                                },
+                                {
+                                    "title": "Day 3",
+                                    "day_list": [{
+                                            "text": "Manual handling (half day)"
+                                        },
+                                        {
+                                            "text": "Fire awareness (half day)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Day 4",
+                                    "day": "First Aid"
+                                },
+                                {
+                                    "title": "Day 5",
+                                    "day": "First Aid"
+                                }
+                            ]
+                        },
+                        "table": [{
+                                "name": "GWO 4 Modules",
+                                "date": "10 - 14 Jan, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "17 - 21 Jan, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "24 - 28 Jan, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "7 -11 Feb, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "21 - 25 Feb, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "7 - 11 Mar, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "14 - 18, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "21 - 25 Mar, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "28 Mar - 1 Apr, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "18 - 22 Apr, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "25 - 29 Apr, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "9 - 13 May, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "16 - 20 May, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "23 - 27 May, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "6 - 10 Jun, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "13 - 17 Jun, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "20 - 24 Jun, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "27 Jun - 1 Jul, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "4 - 8 Jul, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "11 - 15 Jul, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "18 - 22 Jul, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "1 - 5 Aug, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "15 - 19 Aug, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "22 - 26 Aug, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "29 Aug - 2 Sep",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "5 - 9 Sep, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "12 - 16 Sep, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "19 - 23 Sep, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "3 - 7 Oct, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "17 - 21 Oct, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "31 Oct - 4 Nov, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "7 - 11 Nov, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "14 - 18 Nov, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "28 Nov - 2 Dec, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO 4 Modules",
+                                "date": "19 - 23 Dec, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            }
+                        ]
+                    },
+                    {
+                        "about": {
+                            "id": "gwo-art",
+                            "title": "GWO-ART",
+                            "course": [{
+                                    "text": "ART is Advanced Rescue Training"
+                                },
+                                {
+                                    "text": "This standard controls the risks associated with rescue operations, ensuring a more efficient rescue operation from a wind turbine. The training elevates rescuer self-reliance and enables successful transport of a colleague who cannot self-evacuate, to an assembly point until professional emergency responders arrive."
+                                }
+                            ],
+                            "day": [{
+                                "title": "Day 1-3",
+                                "day_list": [{
+                                        "text": "Packing casualty with rescue equipment"
+                                    },
+                                    {
+                                        "text": "Rescue Technique"
+                                    },
+                                    {
+                                        "text": "Rescue from Nacelle,Tower and Basement"
+                                    },
+                                    {
+                                        "text": "Rescue from Hub,Spiner and inside blade"
+                                    },
+                                    {
+                                        "text": "Rescue up"
+                                    },
+                                    {
+                                        "text": "Lowering"
+                                    },
+                                    {
+                                        "text": "Adjust degree (Vertical and Horizontal)"
+                                    }
+                                ]
+                            }]
+                        },
+                        "table": [{
+                                "name": "GWO-ART",
+                                "date": "31 Jan - 2 Feb, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO-ART",
+                                "date": "28 Feb - 2 Mar, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO-ART",
+                                "date": "4 - 6 Apr, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO-ART",
+                                "date": "30 May - 2 Jun, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO-ART",
+                                "date": "25 - 27 Jul, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO-ART",
+                                "date": "8 - 10 Aug, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO-ART",
+                                "date": "26 - 28 Sep, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO-ART",
+                                "date": "10 - 12 Oct, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO-ART",
+                                "date": "21 - 23 Nov, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            },
+                            {
+                                "name": "GWO-ART",
+                                "date": "26 - 28 Dec, 2022",
+                                "location": "DTC",
+                                "instructor": "Nattapon Sangsuparp"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "irata",
+                "title": "IRATA",
+                "type": "IRATA",
+                "detail": [{
+                    "about": {
+                        "id": "irata-course",
+                        "title": "IRATA",
+                        "course": [{
+                            "text": "Rope Access Training allow you to safely conduct your work with very little implication to running process or other work being done in difficult areas. It is both time and cost saving as it is easy to set up and allows. Rope Access Training certification can be used for a wide variation of businesses, and we are ready to tailor our training for your company requirements."
+                        }],
+                        "day": [{
+                                "title": "Day 1-5",
+                                "day_list": [{
+                                        "text": "Type of rope access equipment"
+                                    },
+                                    {
+                                        "text": "Care and maintenance equipment"
+                                    },
+                                    {
+                                        "text": "Tied the knot"
+                                    },
+                                    {
+                                        "text": "Rope access"
+                                    },
+                                    {
+                                        "text": "Rescue by ASCENT or DESCENT mode"
+                                    },
+                                    {
+                                        "text": "Pulley system"
+                                    },
+                                    {
+                                        "text": "Anchors"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Day 6",
+                                "day": "Exam date with Assessor who accepted by IRATA"
+                            }
+                        ]
+                    },
+                    "table": [{
+                            "name": "IRATA Level 1,2,3",
+                            "date": "10 - 14 Jan, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "17 - 21 Jan, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "24 - 28 Jan, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "31 Jan - 4 Feb, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "7 -11 Feb, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "21 - 25 Feb, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "28 Feb - 4 Mar, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "7 - 11 Mar, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "14 - 18, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "21 - 25 Mar, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "28 Mar - 1 Apr, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "18 - 22 Apr, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "25 - 29 Apr, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "9 - 13 May, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "16 - 20 May, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "23 - 27 May, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "6 - 10 Jun, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "13 - 17 Jun, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "20 - 24 Jun, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "27 Jun - 1 Jul, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "4 - 8 Jul, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "11 - 15 Jul, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "18 - 22 Jul, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "1 - 5 Aug, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "15 - 19 Aug, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "22 - 26 Aug, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "29 Aug - 2 Sep",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "5 - 9 Sep, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "12 - 16 Sep, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "19 - 23 Sep, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "26 - 30 Sep, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "3 - 7 Oct, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "17 - 21 Oct, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "31 Oct - 4 Nov, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "7 - 11 Nov, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "14 - 18 Nov, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "21 - 25 Nov, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "28 Nov - 2 Dec, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        },
+                        {
+                            "name": "IRATA Level 1,2,3",
+                            "date": "19 - 23 Dec, 2022",
+                            "location": "DTC",
+                            "instructor": "Jinda Nachai"
+                        }
+                    ]
+                }]
+            },
+            {
+                "id": "first-aid",
+                "title": "First AID",
+                "type": "First Aid",
+                "detail": [{
+                    "about": {
+                        "id": "first-aid-course",
+                        "title": "First AID",
+                        "course_list": [{
+                                "text_title": "Teach people how to provide emergency care for someone in need. This course make learning easy by providing a non stressful environment in which participants practice and apply emergency care skills. The courses are designed to:"
+                            },
+                            {
+                                "text": "help participants remember appropriate emergency care procedures during times of need"
+                            },
+                            {
+                                "text": "encourage them to apply those procedures by assisting those needing emergency care."
+                            }
+                        ],
+                        "day": [{
+                            "title": "Day 1",
+                            "day_list": [{
+                                    "text": "Scene Assessment"
+                                },
+                                {
+                                    "text": "CPR and Automated External Defibrillator (AED) Use"
+                                },
+                                {
+                                    "text": "Primary care"
+                                },
+                                {
+                                    "text": "Secondary care"
+                                },
+                                {
+                                    "text": "Injury Assessment and Management"
+                                },
+                                {
+                                    "text": "Illness Assessment and Management"
+                                }
+                            ]
+                        }]
+                    },
+                    "table": [{
+                            "name": "First AID",
+                            "date": "7 Jan, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        },
+                        {
+                            "name": "First AID",
+                            "date": "18 Feb, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        },
+                        {
+                            "name": "First AID",
+                            "date": "4 Mar, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        },
+                        {
+                            "name": "First AID",
+                            "date": "6 May, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        },
+                        {
+                            "name": "First AID",
+                            "date": "2 Jun, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        },
+                        {
+                            "name": "First AID",
+                            "date": "29 Jul, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        },
+                        {
+                            "name": "First AID",
+                            "date": "11 Aug, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        },
+                        {
+                            "name": "First AID",
+                            "date": "30 Sep, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        },
+                        {
+                            "name": "First AID",
+                            "date": "28 Oct, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        },
+                        {
+                            "name": "First AID",
+                            "date": "25 Nov, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        },
+                        {
+                            "name": "First AID",
+                            "date": "9 Dec, 2022",
+                            "location": "DTC",
+                            "instructor": "Nattapon Sangsuparp"
+                        }
+                    ]
+                }]
+            }
+        ]
+    }
+}

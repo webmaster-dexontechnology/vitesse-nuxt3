@@ -1,0 +1,43 @@
+{
+    "card": [{
+            "country": "Thaialnd",
+            "name": "DEXON Technology Public Company Limited.",
+            "address": "78/4-5 Moo 6, Sukhumvit Road, Ban Chang, Rayong, 21130, THAILAND",
+            "email": "info{'@'}dexon-technology.com",
+            "tel": "+66(0) 33-012484-7",
+            "time": "Mon to Fri: 8am - 5pm"
+        },
+        {
+            "country": "Singapore",
+            "name": "DEXON Technology Pte., Ltd.",
+            "address": "#04-122 Tradehub 21, 18 Boon Lay Way, Singapore 609966",
+            "email": "info{'@'}dexon-technology.com",
+            "tel": "+65 6793 0788",
+            "time": "Mon to Fri: 8am - 5pm"
+        },
+        {
+            "country": "The Netherlands",
+            "name": "DEXON Technology Europe",
+            "address": "Energieweg 11J, 4691 SE Tholen, The Netherlands",
+            "email": "jarno.dejonge{'@'}dexon-technology.com",
+            "tel": "+31 6446 47774",
+            "time": "Mon to Fri: 8am - 5pm"
+        },
+        {
+            "country": "Philippines",
+            "name": "DEXON Technology Philippines",
+            "address": "R and R Building, 398, San Pioquinto, Malvar, 4233 Batangas, Philippines",
+            "email": "info{'@'}dexon-technology.com",
+            "tel": "+63 956 680 0429",
+            "time": "Mon to Fri: 8am - 5pm"
+        },
+        {
+            "country": "United States",
+            "name": "DEXON Technology USA",
+            "address": "7115 West Tidwell Rd, Suite K-100, Houston TX 77092, United States",
+            "email": "info{'@'}dexon-technology.com",
+            "tel": "+1 (504) 544 3900",
+            "time": "Mon to Fri: 8am - 5pm"
+        }
+    ]
+}

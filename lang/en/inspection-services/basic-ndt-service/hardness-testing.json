@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "title": "Hardness Testing",
+        "description": "Hardness is the property of a material that enables it to resist plastic deformation, usually by penetration. However, the term hardness may also refer to resistance to bending, scratching, abrasion or cutting.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Hardness Testing",
+        "content1": {
+            "title": "What does our Hardness Testing do ?",
+            "subtitle": [{
+                    "text": "Hardness is the property of a material that enables it to resist plastic deformation, usually by penetration. However, the term hardness may also refer to resistance to bending, scratching, abrasion or cutting."
+                },
+                {
+                    "text": "Hardness of materials has long been assessed by resistance to scratching or cutting. An example would be material B scratches material C, but not material A. Alternatively, material A scratches material B slightly and scratches material C heavily. Relative hardness of minerals can be assessed by reference to the Moths Scale that ranks the ability of materials to resist scratching by another material. Similar methods of relative hardness assessment are still commonly used today. An example is the file test where a file tempered to a desired hardness is rubbed on the test material surface. If the file slides without biting or marking the surface, the test material would be considered harder than the file. If the file bites or marks the surface, the test material would be considered softer than the file."
+                },
+                {
+                    "text": "The above relative hardness tests are limited in practical use and do not provide accurate numeric data or scales particularly for modern day metals and materials. The usual method to achieve a hardness value is to measure the depth or area of an indentation left by an indenter of a specific shape, with a specific force applied for a specific time. There are three principal standard test methods for expressing the relationship between hardness and the size of the impression, these being Brinell, Vickers, and Rockwell. Each of these methods is divided into a range of scales, defined by a combination of applied load and indenter geometry."
+                }
+            ]
+        },
+        "content2": {
+            "title": "Hardness Testing Methods:",
+            "subtitle": [{
+                    "text": "Rockwell Hardness Test"
+                },
+                {
+                    "text": "Brinell Hardness Test"
+                },
+                {
+                    "text": "Vickers Hardness Test"
+                },
+                {
+                    "text": "Microhardness Test"
+                },
+                {
+                    "text": "Mohs Hardness Test"
+                }
+            ]
+        }
+    }
+}

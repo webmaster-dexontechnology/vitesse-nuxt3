@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "title": "3D Scanning Services",
+        "description": "3d Scanning is a method of capturing actual real-life measurements of existing structure and transferring them into a digital form for a range of applications.  Large point cloud data sets are recorder and then used to create accurate 3d models.  3d models are used for a variety of applications including as -built plans of structures, renovation and development planning and use with asset integrity management systems.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "3D Scanning Services",
+        "content1": {
+            "title": "What is 3d scanning?",
+            "subtitle": "3d Scanning is a method of capturing actual real-life measurements of existing structure and transferring them into a digital form for a range of applications.  Large point cloud data sets are recorder and then used to create accurate 3d models.  3d models are used for a variety of applications including as -built plans of structures, renovation and development planning and use with asset integrity management systems."
+        },
+        "content2": {
+            "title": "3D scanning deliverables",
+            "subtitle": [    {
+                "text": "3D CAD Models"
+               },
+               {
+                "text": "Building information modeling (BIM) Integration"
+               },
+               {
+                "text": "As-built Plans and Documentation"
+               },
+               {
+                "text": "Plan View Drawings"
+               },
+               {
+                "text": "Point Cloud Data"
+               },
+               {
+                "text": "Elevation Drawings"
+               }
+        ]
+        },
+        "content3": {
+            "title": "Asset Renovations",
+            "subtitle": "3D laser scanners are extremely efficient at capturing internal and external building features.  Every minor detail is tracked and recorded including not only floors, walls, and ceilings although also internal and external structural features. Apartment complexes, hotels, hospitals, casinos, shopping malls, and parking garages are all notable examples of architectural structures that are regularly scanned. Point clouds can be used directly or CAD models can be created for further analysis and applications."
+        },
+        "content4": {
+            "title": "Asset development",
+            "subtitle": "Due to the precision of 3d scanning and the ability to capture and analyze irregular shapes 3d scanning is extensively utilized in storage tank and dike analysis. As-built measurements can accurately determine ovality allowing engineers to plan for asset development. During new product line installation in processing plants, there is new piping and equipment that needs to be installed. With careful planning and the as-built drawings obtained from 3D laser scanning, the new piping designs can be engineered to precisely fit the existing asset, minimizing installation delays due to unforeseen conflicts."
+        },
+        "content5": {
+            "title": "Tank survey and Dike analysis",
+            "subtitle": "Volumetric measurements are used to calculate Dike volumes in order to comply with strict safety regulations.  Locations of potential failure of storage tanks can also be determined for further analysis and monitoring decreasing the risk of accidents and severe loss of revenue."
+        }
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "meta": {
+        "title": "Pipeline Cleaning PIGs Services",
+        "description": "Dexon specializes in the development and implementation of customized pipeline cleaning programs based on individual client pipeline configurations and conditions. Inspection data quality, asset integrity and pipeline profitability are all threatened by pipeline cleanliness.",
+        "keyword": ""
+    },
+    "hero": {
+        "title": "Pipeline Cleaning",
+        "subtitle": "DEXON offers extensive Pipeline Cleaning to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+    },
+    "body": {
+        "content1": {
+            "title": "Pipeline Cleaning PIGs, Methods, and Benefits.",
+            "subtitle": "Pipeline cleaning is an integral part of routine pipeline maintenance programs. Any accumulation of debris or deposits inside a pipeline will reduce the transmission of product and compromise the integrity of the asset over time.  Dexon specializes in the development and implementation of customized pipeline cleaning programs based on individual client pipeline configurations and conditions. Inspection data quality, asset integrity and pipeline profitability are all threatened by pipeline cleanliness."
+        },
+        "content2": {
+            "title": "Pipeline Cleaning Methods",
+            "sublist": [{
+                    "title": "Mechanical Vs Chemical Pipeline Cleaning",
+                    "subtitle": [
+                        {
+                            "text": "There are generally two methods used for pipeline cleaning, mechanical and chemical. The chosen method depends on individual pipeline conditions although a combination of both methods is usually used."
+                        }
+                    ]
+                },
+                {
+                    "title": "Mechanical Pipeline Cleaning ",
+                    "subtitle": [
+                        {
+                            "text": "Mechanical pipeline cleaning uses a variety of cleaning PIGs to break up, swab, and push materials through the pipeline.  Cleaning PIGs can be made from a range of materials from soft foam and plastics to steal. A list of pipeline cleaning PIGs for different applications can be seen below."
+                        }
+                    ],
+                    "list": [
+                        {
+                            "title": "Foam (Poly) PIGs",
+                            "subtitle": "Foam (Poly) PIGs can be either spherical or cylindrical and are used for light routine pipeline cleaning and de-watering. Foam pigs are generally polyethylene and may incorporate wire brushes of differing strengths protruding from the circumference of the PIG body."
+                        },
+                        {
+                            "title": "Spherical foam PIGs",
+                            "subtitle": "Spherical foam PIGs are used for condensate removal and pipeline drying."
+                        },
+                        {
+                            "title": "Mandrel PIGs",
+                            "subtitle": "Mandrel PIGs consist of a steel body core allowing for the complete customization of driving cups, gaging plates, and brushes. They are adaptable to many types of cleaning with extended tool life."
+                        },
+                        {
+                            "title": "Pinwheel and studded PIGs",
+                            "subtitle": "Pinwheel and studded PIGs utilize tungsten studs molded into polyurethane disks to break up scale buildup on the pipe wall."
+                        },
+                        {
+                            "title": "Plough blade PIGs",
+                            "subtitle": "Plough blade PIGs consist of steel blades that can be set to varying tensions to break up scale on the pipe wall."
+                        },
+                        {
+                            "title": "Magnetic PIGs",
+                            "subtitle": "Magnetic PIGs collect and remove metal debris left in a pipeline such as welding rods from construction and corroded metal from the pipe wall"
+                        }
+                    ]
+                },
+                {
+                    "title": "Chemical Pipeline Cleaning",
+                    "subtitle": [
+                        {
+                            "text": "Chemical pipeline cleaning uses liquid and gas chemical compounds to dissolve and dislodge deposits and buildup from the pipe wall before being flushed out by water or mechanical cleaning PIG’s."
+                        }
+                    ]
+                },
+                {
+                    "title": "Solvents",
+                    "subtitle": [
+                        {
+                            "text": "Solvents are diluted with other liquids such as petrol, diesel, or water to create a cleaning solution.  These solutions are then either pumped through a pipeline in combination with mechanical cleaning PIG’s or, pumped into a pipeline to soak for an extended period to loosen and dissolve deposits on the pipe wall."
+                        }
+                    ]
+                },
+                {
+                    "title": "Nitrogen Flushing and Nitrogen Purging",
+                    "subtitle": [
+                        {
+                            "text": "Nitrogen flushing and purging are used to remove all liquids and gases from launchers and receivers prior to operations. Dangerous chemicals such as Hydrogen Sulfide (H2S) and Mercury (Hg) can pose health risks to operators and the environment.  In addition, oxygen mixed with flammable liquids and explosive fumes can produce ignition sources."
+                        },
+                        {
+                            "text": "Nitrogen Flushing: All liquids are removed from the pipe by pumping nitrogen into the pipe at a pressure of 5 bar.  The pressure is then used to expel all liquids out of the pipe via a drain line located at the 6 o’clock position."
+                        },
+                        {
+                            "text": "Nitrogen Purging: All gases are removed by pumping a steady flow of nitrogen into the pipe and out of a waste valve."
+                        }
+                    ]
+                },
+                {
+                    "title": "Product Transmission Reductions and Efficiency",
+                    "subtitle": [
+                        {
+                            "text": "Reduced bore decreases throughput, requiring increased pressures to maintain a given flow rate.  Irregular deposits introduce turbulence into the flow of product and require further increases in pressure to maintain efficiency."
+                        },
+                        {
+                            "text": "The figures below outline the effects of smooth and rough bore reductions of 5% I.D."
+                        }
+                    ]
+                },
+                {
+                    "title": "When should pipelines be cleaned?",
+                    "subtitle": [
+                        {
+                            "text": "Cleaning is required throughout the lifespan of a pipeline from post-asset fabrication to decommissioning. A list of the stages in the pipeline life cycle can be seen below. The frequency of cleaning depends on operations characteristics."
+                        }
+                    ],
+                    "list": [
+                        {
+                            "subtitle": "Post asset fabrication"
+                        },
+                        {
+                            "subtitle": "Pre-commissioning"
+                        },
+                        {
+                            "subtitle": "Operating"
+                        },
+                        {
+                            "subtitle": "Prior to inspection runs"
+                        },
+                        {
+                            "subtitle": "Prior to maintenance and repair"
+                        },
+                        {
+                            "subtitle": "Changing of product type"
+                        },
+                        {
+                            "subtitle": "Decommissioning"
+                        }
+                    ]
+                },
+                {
+                    "title": "Accuracy of Inspection Data",
+                    "subtitle": [
+                        {
+                            "text": "The accuracy of intelligent pigging inspection data can be heavily affected by deposit buildup. Deposits can fill in corrosion returning false wall thicknesses as well as creating irregular angles that can deflect ultrasonic waves causing a loss of data. Dexon provides comprehensive pipeline cleaning programs and recommendations as part of pipeline integrity programs.  Cleaning programs are designed specifically for each pipeline scenario."
+                        },
+                        {
+                            "text": "Two examples can be seen below of loss of ultrasonic signal due to deposit build-up."
+                        }
+                    ]
+                },
+                {
+                    "title": "Loss of UT Inline Inspection Data Due to Deposit Buildup",
+                    "subtitle": [
+                        {
+                            "text": "The data sample shows ultrasonic inspection data with two nominal wall thicknesses (12.7mm and 6.35mm) and a loss of ultrasonic signal due to deposit buildup.  The initial green area to the left shows a wall thickness of 12.7mm.  A sudden change in wall thickness is represented by the change in color from dark green to yellow.  The loss of ultrasonic inspection signal can be seen in white due to the buildup of deposits inside the pipe wall."
+                        }
+                    ],
+                    "sublist": [
+                        {
+                            "text": "Show scale on the data"
+                        },
+                        {
+                            "text": "Define A-Scan B-Scan and C-Scan"
+                        },
+                        {
+                            "text": "Make data easy to understand"
+                        }
+                    ]
+                },
+                {
+                    "title": "Loss of UT Inspection Data Due to Debris",
+                    "subtitle": [
+                        {
+                            "text": "The above ultrasonic in-line inspection data shows C-Scan and A-Scan data of a high density polyethylene (HDPE) pipeline.  The data shows 25% erosion at 6 o’clock along the pipe and loss of inspection data due to debris. C-Scan data shows nominal wall thickness shown in dark green with 25% wall thickness loss represented in yellow.  Loss of ultrasonic signal and inspection data due to debris can be seen in black. The A-Scan Data to the right shows the internal wall measurement (I.D.) in light blue with the external wall measurement (O.D.) in light orange.  Figure C shows a loss of ultrasonic A-Scan signal due to residue and debris in the pipe."
+                        }
+                    ]
+                },
+                {
+                    "title": "How often should pipelines be cleaned?",
+                    "table1": {
+                        "title": "Liquid Product Pipelines",
+                        "header": [
+                            {
+                                "text": "Pipeline Internal Diameter"
+                            },
+                            {
+                                "text": "Volume of Debris Collected in the Receiver"
+                            }
+                        ],
+                        "body": [
+                            {
+                                "content1": "6” to 10”",
+                                "content2": "3 Liters"
+                            },
+                            {
+                                "content1": "12” to 18”",
+                                "content2": "5 Liters"
+                            },
+                            {
+                                "content1": "20” to 30”",
+                                "content2": "15 Liters"
+                            },
+                            {
+                                "content1": "32” to 56”",
+                                "content2": "25 Liters"
+                            }
+                        ]
+                    },
+                    "table2": {
+                        "title": "Gas Product Pipelines",
+                        "header": [
+                            {
+                                "text": "Pipeline Internal Diameter"
+                            },
+                            {
+                                "text": "Volume of Debris Collected in the Receiver"
+                            }
+                        ],
+                        "body": [
+                            {
+                                "content1": "6” to 10”",
+                                "content2": "1 Liters"
+                            },
+                            {
+                                "content1": "12” to 18”",
+                                "content2": "3 Liters"
+                            },
+                            {
+                                "content1": "20” to 30”",
+                                "content2": "5 Liters"
+                            },
+                            {
+                                "content1": "32” to 56”",
+                                "content2": "10 Liters"
+                            }
+                        ]
+                    },
+                    "subtitle": [{
+                            "text": "Depending on the product being transported and the cleaning method in question cleaning PIG’s can be run as frequently as 2-3 times per week.   The number of cleaning runs to reach the desired cleanliness depends on the volume of debris in a pipeline and the cleaning method used. As many as 60 to 100 runs can be required."
+                        },
+                        {
+                            "text": "Pipeline cleanliness is determined when the volume of debris present in the receiver at the end of a cleaning run is below the following thresholds."
+                        }
+                    ]
+                }
+            ]
+        },
+        "content3": {
+            "title": "Dexon Pipeline Cleaning Services",
+            "subtitle": "Dexon Technology provides extensive pipeline cleaning services in addition to the distribution of cleaning and utility PIG’s. Cleaning services cover routine pipeline cleaning as well as cleaning prior to intelligent pigging inspection runs as part of the inspection process to ensure adequate inspection data quality. In addition to standard industry pipeline cleaning methods, Dexon specializes in customized cleaning solutions to address individual pipeline requirements when necessary."
+        }
+    }
+}

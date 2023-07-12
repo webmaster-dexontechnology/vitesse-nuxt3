@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "title": "Time of Flight Diffraction (TOFD)",
+        "description": "The Time of Flight Diffraction (TOFD) technique is rapidly gaining importance as a stand-alone inspection technique. Time of Flight Diffraction is an advanced ultrasonic inspection technique that fulfils a need for reliable inspections. It is a powerful technique because it can simultaneously detect and size defects. TOFD inspection employs two longitudinal wave (L-wave) angle beam transducers arranged symmetrically opposite facing each other, straddling the weld or base material under test. One probe acts like a transmitter of ultrasonic energy while the other probe receives the ultrasound energy. TOFD is now routinely used in a wide range of applications such as inspection of piping and pressure vessels.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Time of Flight Diffraction (TOFD)",
+        "content1": {
+            "title": "What does our Time of Flight Diffraction (TOFD) do ?",
+            "subtitle1": "The Time of Flight Diffraction (TOFD) technique is rapidly gaining importance as a stand-alone inspection technique. Time of Flight Diffraction is an advanced ultrasonic inspection technique that fulfils a need for reliable inspections. It is a powerful technique because it can simultaneously detect and size defects. TOFD inspection employs two longitudinal wave (L-wave) angle beam transducers arranged symmetrically opposite facing each other, straddling the weld or base material under test. One probe acts like a transmitter of ultrasonic energy while the other probe receives the ultrasound energy. TOFD is now routinely used in a wide range of applications such as inspection of piping and",
+            "subtitle2": "pressure vessels."
+        },
+        "content2": {
+            "title": "A routine TOFD inspection provides the operator with the following information:",
+            "subtitle1": [{
+                    "text": "location of indications along the weld"
+                },
+                {
+                    "text": "position of indications with respect to the scanning surface (depth information)"
+                },
+                {
+                    "text": "through thickness extent, if exceeding a certain value (typical 2-mm), which means that porosity and slag will generally be detected as “indications without measurable height”"
+                },
+                {
+                    "text": "information on “embedded” or “surface breaking” character of a defect"
+                }
+            ],
+            "subtitle2": [{
+                    "text": "Information on the type of defect is limited, similar to both manual and mechanised ultrasonic inspection. This is not necessarily a problem, because from a fracture mechanics point of view, many defects that are normally regarded as volumetric such as slag inclusions, may be sharp enough to be able to act as crack initiators. Also this aspect is compensated to a certain extent by the ability of TOFD to distinguish between “defects without measurable height” and “defects with measurable height”. This, in combination with the high probability of detection (POD) and a low false call rate (FCR), makes Time of Flight Diffraction a valuable tool for routine NDT."
+                },
+                {
+                    "text": "Dexon understands the need for high operator proficiency in order to get the best results from advanced inspection techniques such as Time of Flight Diffraction and so all of our Inspectors receive ongoing training and are experienced in the field with the TOFD technique. Contact us today for more information or quotation."
+                }
+            ]
+        }
+    }
+}

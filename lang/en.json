@@ -1,0 +1,655 @@
+{
+  "home": "Home",
+  "header": [
+    {
+      "name": "Inspection Services",
+      "submenu": [{
+          "name": "Integrity Services",
+          "description": "Pipeline Integrity Solutions",
+          "list_menu": [{
+              "name": "Risk Based Inspection"
+            },
+            {
+              "name": "Fitness For Service (FFS)"
+            },
+            {
+              "name": "Inspection Databases",
+              "list_submenu": [{
+                "name": "3D Scanning"
+              }]
+            }
+          ]
+        },
+        {
+          "name": "Advanced NDT Services",
+          "description": "We can provide a full range of services",
+          "list_menu": [{
+              "name": "Drone Services"
+            },
+            {
+              "name": "Tube Inspection Services",
+              "list_submenu": [{
+                "name": "Remote Field Technology"
+              }]
+            },
+            {
+              "name": "Advanced Ultrasonic (UT) Inspection",
+              "list_submenu": [{
+                  "name": "Phased Array Ultrasonic Testing (PAUT)"
+                },
+                {
+                  "name": "Time Of Flight Diffraction (TOFD)"
+                },
+                {
+                  "name": "Long Range Ultrasonic Testing (LRUT)"
+                },
+                {
+                  "name": "Corrosion Under Support (CUS)"
+                }
+              ]
+            },
+            {
+              "name": "Other Advanced",
+              "list_submenu": [{
+                  "name": "Pulsed Eddy Current/LYFT"
+                },
+                {
+                  "name": "Alternating Current Field Measurement (ACFM)"
+                },
+                {
+                  "name": "Eddy Current Array Testing"
+                },
+                {
+                  "name": "Computed and Digital Radiography"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dexon Training Center",
+          "description": "We continuously work on setting up new courses and trainings",
+          "list_menu": [{
+              "name": "Training schedule",
+              "list_submenu": [{
+                  "name": "API (TH)"
+                },
+                {
+                  "name": "API (EN)"
+                },
+                {
+                  "name": "ASME"
+                },
+                {
+                  "name": "NDT"
+                },
+                {
+                  "name": "GWO"
+                },
+                {
+                  "name": "IRATA"
+                },
+                {
+                  "name": "FIRST AID"
+                }
+              ]
+            },
+            {
+              "name": "Training Registration",
+              "list_submenu": [{
+                "name": "Training Registration"
+              }]
+            },
+            {
+              "name": "Training Courses",
+              "list_submenu": [{
+                  "name": "Penetrant testing"
+                },
+                {
+                  "name": "Magnetic particle testing"
+                },
+                {
+                  "name": "Ultrasonic testing"
+                },
+                {
+                  "name": "Ultrasonic thickness"
+                },
+                {
+                  "name": "Visual inspection"
+                },
+                {
+                  "name": "Eddy current testing"
+                },
+                {
+                  "name": "Radiographic testing"
+                },
+                {
+                  "name": "API Training"
+                },
+                {
+                  "name": "ASNT Basic training level 3"
+                },
+                {
+                  "name": "Advanced NDT techniques"
+                },
+                {
+                  "name": "API Certification"
+                },
+                {
+                  "name": "Rope Access Training"
+                },
+                {
+                  "name": "ASME Training"
+                },
+                {
+                  "name": "GWO Training"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Inspection Services (RMI)",
+          "description": "Dexon’s API inspection and testing services",
+          "list_menu": [{
+              "name": "Pressure Vesel and Sphere Tank Inspection (API 510)"
+            },
+            {
+              "name": "Piping Inspection (API 570)"
+            },
+            {
+              "name": "Tank Inspection (API 653)"
+            },
+            {
+              "name": "Boiler Inspection (ASME)"
+            },
+            {
+              "name": "Crane Inspection (API 2D)"
+            },
+            {
+              "name": "Oil Tank Truck Inspection"
+            },
+            {
+              "name": "Flare Inspection",
+              "list_submenu": [{
+                "name": "Rope Access"
+              }]
+            },
+            {
+              "name": "Lifting Gear Inspection (LEEA)"
+            },
+            {
+              "name": "Wind Turbine Inspection"
+            },
+            {
+              "name": "Paint and Coating Inspection Services (NACE)"
+            }
+          ]
+        },
+        {
+          "name": "Basic NDT Service",
+          "description": "highly skilled, experienced and motivated personnel qualified",
+          "list_menu": [{
+              "name": "Hardness Testing"
+            },
+            {
+              "name": "Magnetic Particle Inspection"
+            },
+            {
+              "name": "Penetrant Testing (PT)"
+            },
+            {
+              "name": "Positive Material Identification"
+            },
+            {
+              "name": "Conventional Radiographic Testing"
+            }
+          ]
+        },
+        {
+          "name": "Research, Development & Engineering",
+          "description": "Developing In-line Inspection Technology, Robotics And Customized Inspection.",
+          "list_menu": [{
+            "name": "Research, Development & Engineering"
+          }]
+        }
+      ]
+    },
+    {
+      "name": "Pipeline Services",
+      "submenu": [{
+        "name": "Intelligent pigging",
+        "description": "Intelligent “Smart” Pipeline Pigging Services",
+        "list_menu": [{
+            "name": "Pipeline Pigging"
+          },
+          {
+            "name": "Inline Inspection"
+          },
+          {
+            "name": "Ultrasonic In-Line Inspection"
+          },
+          {
+            "name": "Ultrasonic Rotary (UT-R) In-Line Inspection"
+          },
+          {
+            "name": "Ultrasonic Multi-Channel Ring (UT-MC Ring) In-Line Inspection"
+          },
+          {
+            "name": "Ultrasonic Multi-Channel Octopus (UT-MC Octopus) In-Line Inspection"
+          },
+          {
+            "name": "Ultrasonic Multi-Channel Hawk In-Line Inspection System (Crack Detection and Sizing)"
+          },
+          {
+            "name": "Caliper In-Line Inspection"
+          },
+          {
+            "name": "Magnetic Flux Leakage (MFL) In-Line Inspection"
+          },
+          {
+            "name": "Pipeline Cleaning"
+          },
+          {
+            "name": "Pig Tracking"
+          },
+          {
+            "name": "Unpiggable Pipeline In-line Inspection Solutions"
+          },
+          {
+            "name": "Well Casing In-Line Inspection"
+          },
+          {
+            "name": "Dexon Scorpion In-Line Inspection"
+          }
+        ]
+      }]
+    },
+    {
+      "name": "Industries",
+      "description": "Dexon Technology is working throughout various Industries.",
+      "submenu": [{
+          "name": "Oil & Gas"
+        },
+        {
+          "name": "Petrochemical"
+        },
+        {
+          "name": "Refining"
+        },
+        {
+          "name": "Power Plant"
+        },
+        {
+          "name": "Renewable energy"
+        },
+        {
+          "name": "Mining"
+        }
+      ]
+    },
+    {
+      "name": "Investor Relations"
+    },
+    {
+      "name": "Sustainability",
+      "description": "Grow to ESG Strategy for Sustainability in Business",
+      "submenu": [{
+          "name": "Environmental Commitment"
+        },
+        {
+          "name": "Summary Carbon Footprint"
+        },
+        {
+          "name": "Social Commitment"
+        },
+        {
+          "name": "Governance Commitment"
+        }
+      ]
+    },
+    {
+      "name": "News"
+    },
+    {
+      "name": "About us",
+      "description": "DEXON Technology PLC is a leading technology company providing non-destructive testing, in-line inspection, and asset integrity management services globally.",
+      "list_submenu": [{
+          "name": "About us",
+          "description": "Headquartered in Thailand our journey began 38 years ago in Norway from where we have grown to be one off Asia’s leading Inspection Services"
+        },
+        {
+          "name": "Our History",
+          "description": "Dexon Inspection Services was originally incorporated in Oslo, Norway in 1979 as a diving and sub sea inspection company. After initial involvement in several development projects in the early days of oil exploration in the North Sea, Dexon was contracted in 1984 by Elf to develop the world’s first ROV deployed internal Well head inspection tool."
+        },
+        {
+          "name": "Global Operations",
+          "description": "DEXON is a global service provider with an expanding network of dedicated partner companies to support your local inspection needs."
+        },
+        {
+          "name": "Career at Dexon",
+          "description": "Based out of Rayong, Dexon Inspection Technologies Co., Ltd. has over the last 15 years developed into one of Thailand and the regions leading."
+        }
+      ]
+    },
+    {
+      "name": "Contact"
+    }
+  ],
+  "footer": {
+    "address": {
+      "label": {
+        "phone": "Phone",
+        "email": "Email",
+        "fax": "Fax"
+      },
+      "name": "78/4-5 Moo 6, Sukhumvit Road, Ban Chang, Rayong, 21130, THAILAND",
+      "phone": "+66(0) 33-012484-7",
+      "email": "info{'@'}dexon-technology.com",
+      "fax": "+66 33 012530"
+    },
+    "company": {
+      "name": "Company",
+      "item": [{
+          "text": "Inspection Services"
+        },
+        {
+          "text": "Pipeline Services"
+        },
+        {
+          "text": "Industries"
+        },
+        {
+          "text": "Investor Relations"
+        },
+        {
+          "text": "Case Studies"
+        }
+      ]
+    },
+    "about": {
+      "name": "About",
+      "item": [{
+          "text": "About Dexon"
+        },
+        {
+          "text": "News"
+        },
+        {
+          "text": "Career"
+        },
+        {
+          "text": "Resources"
+        }
+      ]
+    },
+    "support": {
+      "name": "Support",
+      "item": [{
+          "text": "Contact Us"
+        },
+        {
+          "text": "Help & FAQ"
+        },
+        {
+          "text": "Code of Conduct"
+        },
+        {
+          "text": "GWO CSS"
+        },
+        {
+          "text": "Satisfaction Survey"
+        }
+      ]
+    },
+    "follow": {
+      "name": "Follow",
+      "subscribe": "Subscribe to our newsletter",
+      "email": "Enter email address"
+    },
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies",
+    "sitemap": "Sitemap",
+    "copyright": "Copyright 2023 © Dexon Technology PLC"
+  },
+  "button": {
+    "click_here": "Click here to learn more",
+    "submit_app": "Submit your application",
+    "share": "Share",
+    "watch": "Watch now",
+    "quote": "Get a quote",
+    "proposal": "Get a proposal",
+    "career": "Career at Dexon",
+    "more": "Read more",
+    "learn": "Learn more",
+    "aboutus": "Learn more about us",
+    "tel": "+66(0) 33-012484-7",
+    "started": "Get started",
+    "explore": "Explore more",
+    "talk": "Let's talk",
+    "apply": "Apply Now",
+    "questions": "Submit Questions",
+    "submit": "Submit",
+    "seejobs": "See jobs at Dexon",
+    "search": "Dexon Search",
+    "previos": "Previos",
+    "next": "Next Step",
+    "services": "Dexon Services",
+    "contact": "Contact us",
+    "studie": "Case Studies",
+    "download": "Download",
+    "view": "View All",
+    "course": "Join Course",
+    "register": "Register",
+    "view_service": "View Service",
+    "overview": "Overview",
+    "phone": "+66 (0) 33-012484-7",
+    "brochure": "Download brochure",
+    "document": "Download document",
+    "findjobs": "Find Jobs",
+    "gohome": "go to homepage"
+  },
+  "career": {
+    "header": "Open Positions",
+    "title": "Current Career Opportunities At Dexon",
+    "page": {
+      "jobs": "Jobs",
+      "header": "join our team",
+      "title": "Career at"
+    },
+    "form": {
+      "placeholder": {
+        "enter": "Enter your",
+        "upload_cv": "Upload resume as .PDF file",
+        "upload_doc": "Upload other documents as .PDF file",
+        "url": "Add URL"
+      },
+      "apply": "Aplly Now",
+      "title": "Time to join us",
+      "first_name": "first name",
+      "last_name": "last name",
+      "email": "e-mail address",
+      "phone": "phone number",
+      "language": "preferred communication language",
+      "salary": "salary expectations",
+      "cv": "your CV",
+      "optional": "optional documents",
+      "upload_title": "upload your documents",
+      "upload_subtitle": [{
+          "text": "Please upload your CV and optionally three further documents like your cover letter or certificates as .PDF files with a max. size of"
+        },
+        {
+          "text_bold": "14 MB"
+        },
+        {
+          "text": "each. Additionally, you can add a URL in case you would like to show us your portfolio or similar."
+        }
+      ],
+      "ihave": "I agree with the",
+      "privacy": "privacy policy.",
+      "term": "I consent to my data being stored for 12 months for the purpose of further consideration and to being contacted for potential other suitable job offers. I can revoke this consent at any time."
+    },
+    "all": "All",
+    "assistant": "Assistant",
+    "programmer": "Programmer",
+    "accounting": "Accounting",
+    "business": "Business",
+    "sales": "Sales",
+    "marketing": "Marketing",
+    "engineer": "Engineer",
+    "electronics": "Electronics",
+    "search": {
+      "title": "job keyword",
+      "search": "search for jobs"
+    },
+    "category": {
+      "title": "job category",
+      "all": "all job categories",
+      "select": "selecct category"
+    },
+    "location": {
+      "title": "location",
+      "all": "all locations",
+      "select": "select location",
+      "th": "Thailand",
+      "nl": "The Netherlands"
+    }
+  },
+  "training": {
+    "form": {
+      "title": "training registration",
+      "fill": {
+        "first_name": "first name",
+        "last_name": "last name",
+        "email": "email address",
+        "phone": "phone number",
+        "training_course": "Training Course",
+        "other_course": "Other Courses",
+        "interest": "Please select other course below. If your interest.",
+        "available": "Available training plan",
+        "participants": "Number of participants",
+        "preferred": "Preferred Training Courses",
+        "agree": "Agree that DEXON Technology Public Company Limited. can collect the information I have provided. To contact and present product information",
+        "policy": "Privacy Policy",
+        "select_course": "Select Your Training Courses",
+        "select_other_course": "Select Your Other Courses"
+      },
+      "placeholder": {
+        "first_name": "enter your first name",
+        "last_name": "enter your last name",
+        "email": "yourname{'@'}example.com",
+        "phone": "enter your phone number",
+        "training_course": "enter your training Course",
+        "participants": "enter your number of participants",
+        "preferred": "enter your preferred Training Courses"
+      }
+    }
+  },
+  "global_operations": {
+    "header": "Our Global Service",
+    "title": "Dexon Operations Around The World",
+    "subtitle": "The Dexon Group operates a number of business entities in order to best serve our customer’s needs. Each entity serves a specific part of our overall market and complements our own operations and the products and services we provide."
+  },
+  "testimonial": [{
+      "review": "Selecting Dexon for our turnaround inspection project was the right choice. Not only are they maintaining high-quality standards and commitment to customers but also provide reliable and detailed inspection reports. Dexon was able to reliably complete the work within a limited time-frame using coordination, speed and efficient communication with GLYCOL.",
+      "author": "Andy Guscott",
+      "position": "Enterprise Architecture"
+    },
+    {
+      "review": "Dexon’s work on UBE’s turnaround inspection project did not disappoint. They provided high-quality basic NDT services at a reasonable price. One thing that stood out for me was their effective task allocation procedure which clearly divided scopes and duties. And their well-organized procedures and management ensured that all inspection processes went safely and smoothly.",
+      "author": "UBE Chemicals (Asia) PublicCompany Limited"
+    },
+    {
+      "review": "BLCP Sees Continues Innovations from Dexon, reducing our cost and subsequently our shutdowns.",
+      "author": "BLCP Power Limited"
+    }
+  ],
+  "form": {
+    "question": {
+      "heading": "Qestions",
+      "title1": "You still have questions?",
+      "title2": "We have the answers.",
+      "subtitle": "Fill out the form below to ask about our culture, what position is right for you, events or our hiring process.",
+      "fill": {
+        "name": {
+          "label": "Fullname",
+          "placeholder": "Your name..."
+        },
+        "company": {
+          "label": "Company",
+          "placeholder": "Company Name"
+        },
+        "email": {
+          "label": "Email Address",
+          "placeholder": "yourname@email.com"
+        },
+        "phone": {
+          "label": "Phone",
+          "placeholder": "Phone Number"
+        },
+        "service": {
+          "label": "What Service Do You Want?",
+          "placeholder": "Please select"
+        },
+        "tellus": {
+          "label": "How Can We Help Your Business",
+          "placeholder": "Tell us more..."
+        }
+      }
+    },
+    "auth": {
+      "login_title": "Login your account",
+      "login": "Login",
+      "forgot": "Forgot password?",
+      "fill": {
+        "username": "username",
+        "password": "password"
+      },
+      "placeholder": {
+        "username": "Your username",
+        "password": "Your password",
+        "register": "Create Account",
+        "remember": "Remember me"
+      }
+    }
+  },
+  "banner": {
+    "proposal": {
+      "title1": "Ready to get started?",
+      "title2": "Get a Proposal with us"
+    },
+    "pdf": {
+      "title": "PDF File Document"
+    }
+  },
+  "error_page": {
+    "title": "Page not found"
+  },
+  "case_studies": {
+    "banner": {
+      "title": "Explore Our Case Studies"
+    }
+  },
+  "breadcrumbs": {
+    "dexon_services": "Dexon Services",
+    "dexon_traning": "Dexon Training Center",
+    "training": "Training",
+    "solutions": "Solutions",
+    "sustainability": "Sustainability"
+  },
+  "contact": {
+    "contact_dexon": "Contact Dexon today to learn more about how we can help you to protect your most valuable assets with certainty and save money through predictable outcomes."
+  },
+  "thanksPage": {
+    "title":{
+      "text1": "Thanks for",
+      "text2": "submitting"
+    },
+    "description": "your message has been sent!"
+  },
+  "language": {
+    "th": "Thailand",
+    "en": "English"
+  }
+}

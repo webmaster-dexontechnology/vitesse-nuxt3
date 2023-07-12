@@ -1,0 +1,802 @@
+{
+    "meta": {
+        "title": "Resource",
+        "description": "",
+        "keyword": ""
+    },
+    "menu": [
+        {
+            "text": "flyer"
+        },
+        {
+            "text": "presentation"
+        },
+        {
+            "text": "guidebook"
+        },
+        {
+            "text": "datasheet"
+        },
+        {
+            "text": "video"
+        }
+    ],
+    "content": [{
+            "title": "Company Profile",
+            "text": "More details can be downloaded at Document.",
+            "path": "/resources/company-profile",
+            "document": [
+                {
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "DEXONTechnology Main Brochure",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Company-Profile-1st-draft-small_compressed_fwhc42.pdf"
+                        }
+                    ],
+                    "presentation": [
+                        {
+                            "id": "presentation",
+                            "text": "DEXON Company Overview",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Company-Overview-Presentation_compressed_tpzzbq.pdf"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dacon Project & Manpower Reference Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Project-Manpower-Reference-Presentation_compressed_oeswxx.pdf"
+                        }
+                    ],
+                    "video": [
+                        {
+                            "id": "video",
+                            "text": "Corporate Video",
+                            "url": "https://www.youtube.com/embed/5Cgv47cWvd8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "In-Line Inspection (Intelligent Pigging)",
+            "text": "More details can be downloaded at Document.",
+            "path": "/resources/in-line-inspection-intelligent-pigging",
+            "document": [
+                {
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "DEXON In-Line Inspection Technologies 2022",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-ILI-flyer-compressed_compressed_bvmgmy.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Dexon ILI Brochure 2021",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-ILI-Brochure-full_compressed_qgx3yl.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Caliper Pigging",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Caliper-Piggingrevise_tcvkyw.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Pipeline Cleaning (Pig)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Pipeline-Cleaning-Pig_2020_enusn7.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Pipeline Test Yard",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Pipeline-Test-Yard_2020_zbnnx1.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Pipeline Thickness Inspection / Intelligent Pigging",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Pipeline-Thickess-Inspection_Intelligent-Pigging_2020_t436cs.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Video Pig",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Video-Pig_2020_z2tlu3.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Magnetic Flux Leakage Pigging (MFL)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Magnetic-Flux-Leakage-Pigging-MFL_2020_uq10zc.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Ultrasonic Intelligent Pigging",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-ULTRASONIC-IN-LINE-INSPECTION-ILI-PIGGING_2020_sfny4j.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Furnace Heater Boiler Tubes Inspection Brochure",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Furnace.Heater.Boiler-Tubes-Inspection-Brochure-Rev.B-1_compressed_afnwbz.pdf"
+                        }
+                    ],
+                    "presentation": [
+                        {
+                            "id": "presentation",
+                            "text": "Dexon HDPE Pipeline Inspections Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-HDPE-Pipeline-Inspections-Presentation_compressed_l0ug8z.pdf"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Caliper Pig Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Caliper-Pig-Presentation_compressed_m2ycb7.pdf"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Pipeline Services Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Pipeline-Services-Presentation_compressed_twqtwj.pdf"
+                        }
+                    ],
+                    "datasheet": [
+                        {
+                            "id": "datasheet",
+                            "text": "Ultrasonic Rotating Head In-Line Inspection Tool Specification Sheet",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Ultrasonic-Rotating-Head-In-Line-Inspection-Tool-Specification-Sheet_q33pi6.pdf"
+                        },
+                        {
+                            "id": "datasheet",
+                            "text": "Ultrasonic Multi-Channel In-Line Inspection Tool Specification Sheet",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Ultrasonic-Multi-Channel-In-Line-Inspection-Tool-Specification-Sheet_r9zlok.pdf"
+                        },
+                        {
+                            "id": "datasheet",
+                            "text": "MFL In-Line Inspection Tool Specification Sheet",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-MFL-In-Line-Inspection-Tool-Specification-Sheet_o94idn.pdf"
+                        },
+                        {
+                            "id": "datasheet",
+                            "text": "Geometry and Deformation Caliper Tool Specification Sheet",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Geometry-and-Deformation-Caliper-Tool-Specification-Sheet_feik56.pdf"
+                        }
+                    ],
+                    "video": [
+                        {
+                            "id": "video",
+                            "text": "Ultrasonic Intelligent Pigging",
+                            "url": "https://www.youtube.com/embed/SrhiQHnRPSs"
+                        },
+                        {
+                            "id": "video",
+                            "text": "Video Pig",
+                            "url": "https://www.youtube.com/embed/oVSZq_oMzYQ"
+                        },
+                        {
+                            "id": "video",
+                            "text": "Pipeline Cleaning (Pig)",
+                            "url": "https://www.youtube.com/embed/iww2zsp0y9c"
+                        },
+                        {
+                            "id": "video",
+                            "text": "Caliper Pigging",
+                            "url": "https://www.youtube.com/embed/DGxh5MRlIqE"
+                        }
+                    ]
+                }   
+            ]
+        },
+        {
+            "title": "Asset Integrity Management (AIM)",
+            "text": "More details can be downloaded at Document.",
+            "path": "/resources/asset-integrity-management-aim",
+            "document": [
+                {
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "Tank Inspection Database (TIDB)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Tank-Inspection-Database-TIDB_2020_rx4cnd.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "SIMS Tank Inspection Software",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-SIMS-Tank-Inspection-Software_2020_mgcoao.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "FPSO Integrity Management",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-FPSO-Integrity-Management_2020_tthjxh.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Risk Based Inspection (RBI)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Risk-Based-Inspection-RBI_2020_ksstuk.pdf"
+                        }
+                    ]
+                }   
+            ]
+        },
+        {
+            "title": "Rope Access Services",
+            "text": "More details can be downloaded at Document.",
+            "path": "/resources/rope-access-services",
+            "document": [
+               {
+                "flyer": [
+                    {
+                        "id": "flyer",
+                        "text": "Rope Access Inspection (RA)",
+                        "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Rope-Access-InspectionRA_2020_fasmgc.pdf"
+                    },
+                    {
+                        "id": "flyer",
+                        "text": "Mechanical Work by Rope Access",
+                        "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Mechanical-Work-by-Rope-Access_2020_bt3vja.pdf"
+                    },
+                    {
+                        "id": "flyer",
+                        "text": "Corrosion Under Support by Rope Access",
+                        "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Corrosion-Under-Support-by-Rope-Access_2020_iqrcz5.pdf"
+                    }
+                ],
+                "presentation": [
+                    {
+                        "id": "presentation",
+                        "text": "Dexon Rope Access Presentation",
+                        "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Rope-Access-Presentation_compressed_cfowzk.pdf"
+                    },
+                    {
+                        "id": "presentation",
+                        "text": "Dexon Rope Access CUI Presentation",
+                        "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Rope-Access-CUI-Presentation_compressed_ayz1ed.pdf"
+                    }
+                ],
+                "video": [
+                    {
+                        "id": "video",
+                        "text": "Corrosion under Support by Rope Access",
+                        "url": "https://www.youtube.com/embed/Jlg8I-KznIE"
+                    }
+                ]
+               }
+            ]
+        },
+        {
+            "title": "Inspection Programs",
+            "text": "More details can be downloaded at Document.",
+            "path": "/resources/inspection-programs",
+            "document": [
+                {
+                    "title": "API Inspection Programs",
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "API 510 Pressure Vessel Inspection and Certification",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-API-510-Pressure-Vessel-Inspection-and-Certification_2020_uvoopd.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "API 570 Piping Inspection and Certification",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-API-570-Piping-Inspection-and-Certification-2020_gt2y7l.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "API 579 Fitness for Service (FSS)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-API-579-Fitness-for-Service-FSS_2020_oy2i7b.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "API 580 Risk Based Inspection Services (RBI)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-API-580-Risk-Based-Inspection-Services-RBI_2020_pqujuv.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "API 653 Aboveground Storage Tank Inspection and Certification",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-API-653-Aboveground-Storage-Tank-Inspection-and-Certification_2020_tlkfmo.pdf"
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Inspection Programs",
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "Sea Chest Inspection",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Sea-Chest-Inspection_compressed_lrp0l4.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Wind Turbine Inspections",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Wind-Turbine-Inspections_compressed_dzonm1.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Crane & Lifting Gear Inspections",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Crane-Lifting-Gear-Inspections_compressed_y5pyp8.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "UAV Inspection",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-UAV-Inspection_compressed_x2znw8.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Flare Inspection",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Flare-Inspection_compressed_pgvmgr.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Boiler Inspection",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Boiler-Inspection_compressed_ika57l.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Sphere Tank inspections",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Sphere-Tank-inspections_compressed_wpnjro.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Tank Calibration Services",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Tank-Calibration-Services_compressed_nqtkat.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Paint / Coating Inspection (DFT, TG, HD) – (NACE)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Paint_Coating-Inspection-DFT-TG-HD-_-NACE_vd6jxf.pdf"
+                        }
+                    ],
+                    "presentation": [
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Helideck Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Helideck-Presentation_compressed_w2xhat.pdf"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Corrosion Under Insulation Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Corrosion-Under-Insulation-Presentation_compressed_dumjr6.pdf"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Shutdown Management Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Shutdown-Management-Presentation_compressed_rilpxp.pdf"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Mechanical Works Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Mechanical-Works-Presentation_compressed_bhpg1i.pdf"
+                        }
+                    ],
+                    "video": [
+                        {
+                            "id": "video",
+                            "text": "UAV Inspection",
+                            "url": "https://www.youtube.com/embed/ZX7DnUYe9c0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Non-destructive Testing",
+            "text": "More details can be downloaded at Document.",
+            "path": "/resources/non-destructive-testing",
+            "document": [
+                {
+                    "title": "Conventional NDT",
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "Visual Inspection (VI",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Visual-Inspection-VI_compressed_ogaouc.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Dye Penetrant Testing (PT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Dye-Penetrant-Testing-PT_compressed_f123zm.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Fluorescent Dye Penetrant Testing (FPT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Fluorescent-Magnet-Particle-Testing-FMT_compressed_ba1emk.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Magnetic Particle Testing (MT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Fluorescent Magnet Particle Testing (FMT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Fluorescent-Dye-Penetrant-Testing-FPT_compressed_i2akrr.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Magnetic Particle Testing – Coil",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Magnetic-Particle-Testing-_-Coil_compressed_otp5ru.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Radiographic Testing (RT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Radiographic-Testing-RT_compressed_aknvfb.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Surface Hardness Testing (HT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Surface-Hardness-Testing-HT_compressed_swye1f.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Surface Roughness Testing (VT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Surface-Roughness-Testing-VT_compressed_igqncq.pdf"
+                        }
+                    ],
+                    "presentation": [
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Computed Radiography Presentation,",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Computed-Radiography-Presentation._compressed_vzgoyg.pdf"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon SCAR Radiography Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-SCAR-Radiography-Presentation_compressed_yonrlz.pdf"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Visual Testing Theory Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Visual-Testing-Theory-Presentation_compressed_wvy1gc.pdf"
+                        }
+                    ],
+                    "video": [
+                        {
+                            "id": "video",
+                            "text": "Magnetic Particle Testing (MT)",
+                            "url": "https://www.youtube.com/embed/q61owS66CkU"
+                        },
+                        {
+                            "id": "video",
+                            "text": "Dye Penetrant Testing (PT)",
+                            "url": "https://www.youtube.com/embed/WaxVbEoCPdU"
+                        }
+                    ]
+                },
+                {
+                    "title": "Ultrasonic Techniques",
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "Ultrasonic Thickness Measurement (UTM)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Ultrasonic-Thickness-Measurement-UTM_compressed_jyp6ey.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Ultrasonic Flaw Testing (UT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Ultrasonic-Flaw-Testing-UT_compressed_bjdigq.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Ultrasonic Flaw Testing (B-scan)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Ultrasonic-Flaw-Testing-B-scan_compressed_rfdcxh.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Ultrasonic Flaw Testing – Corrosion mapping (C-scan)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Ultrasonic-Flaw-Testing-_-Corrosion-mapping-C-scan_compressed_bhy59g.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Ultrasonic Time of Flight Diffraction (TOFD)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Ultrasonic-Time-of-Flight-Diffraction-TOFD_compressed_vmswsn.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Corrosion Mapping by Hydroform (PAUT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Corrosion-Mapping-by-Hydroform-PAUT_2020_compressed_zbvqih.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Flooded Member Detection (FMD)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Flooded-Member-Detection-FMD_compressed_jhqpgg.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "High Frequency Long Range Ultrasonic Testing",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-High-Frequency-Long-Range-Ultrasonic-Testing_compressed_zrhfii.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Long Range Guided Wave Ultrasonic Inspection System",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Long-Range-Guided-Wave-Ultrasonic-Inspection-System_compressed_nf6m1w.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Ultrasonic Phased Array (PA)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Ultrasonic-Phased-Array-PA_2020_compressed_bbphvs.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Ultrasonic Phased Array (PAUT) at elevated temperature",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Ultrasonic-Phased-Array-PAUT-at-elevated-temperature_compressed_plsw2b.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Automated Corrosion Mapping",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Automated-Corrosion-Mapping_compressed_nwbstd.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "FlexoFORM Elbow Scanning",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-FlexoFORM-Elbow-Scanning_compressed_epy8o6.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Corrosion Under Support (CUS)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Corrosion-Under-Support-CUS_compressed_vo6nlx.pdf"
+                        }
+                    ],
+                    "presentation": [
+                        {
+                            "id": "presentation",
+                            "text": "Dexon C-Scan Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon PAUT Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon TOFD Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon TOFD on HDPE Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon AUT Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Corrosion Under Support Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Long Range UT Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        }
+                    ],
+                    "video": [
+                        {
+                            "id": "video",
+                            "text": "Ultrasonic Thickness Measurement (UTM)",
+                            "url": "https://www.youtube.com/embed/uyjiY9nLn5U"
+                        },
+                        {
+                            "id": "video",
+                            "text": "Corrosion under support (CUS)",
+                            "url": "https://www.youtube.com/embed/wTlX4zNx2E0"
+                        },
+                        {
+                            "id": "video",
+                            "text": "Ultrasonic Phased Array (PA)",
+                            "url": "https://www.youtube.com/embed/pFbfpRD0xY8"
+                        }
+                    ]
+                },
+                {
+                    "title": "Tube Inspection Techniques",
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "Tubular Eddy Current Testing (ECT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-API-510-Pressure-Vessel-Inspection-and-Certification_2020_compressed_pscahb.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Tubular Magnetic Flux Leakage Testing (MFL)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Tubular-Magnetic-Flux-Leakage-Testing-MFL_compressed_nji0pt.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Tubular Partial Saturation Eddy Current Testing (PSEC)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Tubular-Partial-Saturation-Eddy-Current-Testing-PSEC_compressed_kmrrae.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Tubular Remote Field Testing (RFT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Tubular-Remote-Field-Testing-RFT_compressed_zgvfpi.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Tubular Ultrasonic Internal Rotating Inspection System (IRIS)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Super-iris-v4_small_compressed_oq8mpm.pdf"
+                        }
+                    ],
+                    "presentation": [
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Tube Inspection Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-Tube-Inspection-Presentation_compressed_gotsmb.pdf"
+                        }
+                    ],
+                    "guidebook" : [
+                        {
+                            "id": "guidebook",
+                            "text": "Dacon Tube Inspection Guidebook",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Tube-Inspection-Guidebook_compressed_trlizw.pdf"
+                        }
+                    ]
+                },
+                {
+                    "title": "Electromagnetic Techniques",
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "Eddy Current Surface Testing (ET)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Eddy Currents Array Testing (ECA)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Pulsed Eddy Current (PEC)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Alternating Current Field Measurement (ACFM)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "MFL Tank Floor Scanner 3Di",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        }
+                    ],
+                    "presentation": [
+                        {
+                            "id": "presentation",
+                            "text": "Dexon ET Array Surface And Tube",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "presentation",
+                            "text": "Dexon Pulsed Eddy Current Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Remote Visual Inspection",
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "Dacon Video Probe",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Video-Probe_compressed_hlbatv.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Dacon Micro Camera",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Micro-Camera_compressed_jffbgr.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Dacon Crawler Camera",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Crawler-Camera_compressed_gz5v6t.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Dacon Explosion Proof Cameras",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Explosion-Proof-Cameras_compressed_fxyn3h.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Dacon Special Purpose Cameras",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Special-Purpose-Cameras_compressed_bkcuhw.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Dacon Video Pigs",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Video-Pigs_compressed_qnoqmj.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Dacon XLGO Handheld Camera",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-XLGO-Handheld-Camera_compressed_xtm7lo.pdf"
+                        }
+                    ],
+                    "presentation": [
+                        {
+                            "id": "presentation",
+                            "text": "Dexon RVI Presentation",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dexon-RVI-Presentation_compressed_ypfupw.pdf"
+                        }
+                    ],
+                    "guidebook": [
+                        {
+                            "id": "guidebook",
+                            "text": "Dacon Remote Visual Inspection Guidebook",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Remote-Visual-Inspection-Guidebook_compressed_eplxsd.pdf"
+                        }
+                    ]
+                },
+                {
+                    "title": "Other NDT Techniques",
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "Positive Material Identification Equipment (PMI)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Positive-Material-Identification-Equipment-PMI_compressed_doe6y5.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Thermal Camera Inspection",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Thermal-Camera-Inspection_compressed_ogafjp.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Thermoscan",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Thermoscan_compressed_m73z3p.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Helium Leak Detection (HLD)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Helium-Leak-Detection-HLD_compressed_j3wdj6.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Pressure Testing (PAT)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Pressure-Testing-PAT_compressed_vvprjf.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Demanetizing (De-Gauss)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Demanetizing-De-Gauss_compressed_wyrgtp.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Hydrostatic Testing",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Hydrostatic-Testing_compressed_otudrb.pdf"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Inertial Measurement",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/Dacon-Inertial-Measurement_compressed_tnisdc.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Other",
+            "text": "More details can be downloaded at Document.",
+            "path": "/resources/other",
+            "document": [
+                {
+                    "flyer": [
+                        {
+                            "id": "flyer",
+                            "text": "Dacon Training Institute (DTI)",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        },
+                        {
+                            "id": "flyer",
+                            "text": "Gas Monitor Equipment",
+                            "url": "https://res.cloudinary.com/dfovim3lo/image/upload/v1/dexon/assets/pdf/resources/"
+                        }
+                    ],
+                    "video": [
+                        {
+                            "id": "video",
+                            "text": "Dacon Acquires New Cutting Edge Machine to Develop Inspection Technologies",
+                            "url": "https://www.youtube.com/embed/BCo_8LPuZgI"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

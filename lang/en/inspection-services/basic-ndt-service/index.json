@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "title": "Basic NDT Service",
+        "description": "Non Destructive Testing (NDT) is the branch of engineering concerned with all methods of detecting and evaluating flaws in materials without causing damage. Flaws can affect the serviceability of the material or structure, so NDT is important in guaranteeing safe operation as well as in quality control and assessing plant life.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Basic NDT Service",
+        "content1": {
+            "title": "What does our Basic NDT Service do ?",
+            "subtitle": [{
+                    "text": "Non Destructive Testing (NDT) is the branch of engineering concerned with all methods of detecting and evaluating flaws in materials without causing damage. Flaws can affect the serviceability of the material or structure, so NDT is important in guaranteeing safe operation as well as in quality control and assessing plant life."
+                },
+                {
+                    "text": "Flaws may be cracks or inclusions in welds and castings, or variations in structural properties that can lead to loss of strength or failure in service. The essential feature of NDT is that the test process itself produces no deleterious effects on the material or structure under test."
+                },
+                {
+                    "text": "Dexon provides highly skilled, experienced and motivated personnel qualified and certified in accordance with international certification schemes (e.g. PCN (EN 473/ IS0 9712), ANSI CP-189 and SNT-TC 1A) in the conventional techniques that have underpinned the NDT industry from its earliest days."
+                }
+            ]
+        }
+    }
+}

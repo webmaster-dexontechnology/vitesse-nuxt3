@@ -1,0 +1,166 @@
+{
+    "meta": {
+        "title": "Industries",
+        "description": "Dexon Technology is working throughout various Industries. We made a selection for you with specific case studies. Please ask for more reference when required.",
+        "keyword": ""
+    },
+    "overview": "Overview",
+    "solution": "Solutions",
+    "hero": {
+        "title": "Industries",
+        "subtitle": "Dexon Technology is working throughout various Industries. We made a selection for you with specific case studies. Please ask for more reference when required."
+    },
+    "body": {
+        "title": "Our Industries",
+        "subtitle": "Dexon Technology is working throughout various Industries. We made a selection for you with specific case studies. Please ask for more reference when required.",
+        "content": [
+            {
+                "id": "oil-gas",
+                "hero": {
+                    "title": "Oil & Gas",
+                    "url": "/case-studies/riser-inspection-offshore-platform/",
+                    "image": "/dexon/industries/oil_gas_qcmptk.webp"
+                },
+                "title": "Protecting The Assets That Fuel Our Tomorrow",
+                "subtitle": [{
+                        "text": "For many decades DEXON has its roots in the Oil & Gas Industry. From the beginning, we have been assisting our clients with their assets integrity programs to optimize their plant safety and performance."
+                    },
+                    {
+                        "text": "In both onshore and offshore facilities, we have proven track records were our clients have benefitted from our advance inspections technologies."
+                    },
+                    {
+                        "text": "Customers come to DEXON because they know we will not shy away from challenging opportunities that often occur in these harsh environments."
+                    },
+                    {
+                        "text": "In addition to the regular services we also do extensive research and are working together with the major Oil & Gas Companies to jointly develop new inspection methodologies and techniques."
+                    }
+                ]
+            },
+            {
+                "id": "petrochemical",
+                "hero": {
+                    "title": "Petrochemical",
+                    "image": "/dexon/industries/petrohemical_atqiik.webp"
+                },
+                "subtitle": [{
+                        "text": "DEXON has a strong connection to the Petrochemical Industry. Having close ties with the largest Petrochemical Companies in the world, we have consistently developed inspections tools and technologies globally."
+                    },
+                    {
+                        "text": "Deep knowledge of the processes and inspection requirements allow us to service the industry efficiently and quickly."
+                    },
+                    {
+                        "text": "Reliability and cost drivers are essential for the downstream industry and offering Risk Based Inspections often give the client the satisfaction they require."
+                    }
+                ]
+            },
+            {
+                "id": "refining",
+                "hero": {
+                    "title": "Refining",
+                    "image": "/dexon/industries/refining_p6gnvy.webp"
+                },
+                "subtitle": [{
+                        "text": "Conventional and advanced NDT Services combined is giving our clients all the assistance they require. Whether they are refining sugar, crude oil, cooking oil or raw natural gas, Dexon has inspected each application that requires thorough and preventive inspection services."
+                    },
+                    {
+                        "text": "Often refineries come with tank storage facilities. In addition, here Dexon is not only providing inspection services but also Asset Integrity Software Management Tools, ensuring the latest plant status is available to key personnel."
+                    }
+                ]
+            },
+            {
+                "id": "power-plant",
+                "hero": {
+                    "title": "Power Plant",
+                    "image": "/dexon/industries/power_plant_rxihle.webp"
+                },
+                "subtitle": [{
+                        "text": "Dexon offers a complete range of conventional and advanced non-destructive testing (NDT) services to ensure the safety and efficiency of power plants and their assets."
+                    },
+                    {
+                        "text": "Our clients rely on us and trust in our extensive history and track record of providing reliable and accurate inspection data and assessments. In addition to bespoke one-off asset inspections, Dexon also caters for entire plant shutdowns with over 350 permanent inspection personnel on hand."
+                    },
+                    {
+                        "text": "Contact a Dexon inspection expert to find out how we can ensure the integrity of your facility."
+                    }
+                ],
+                "list": [
+                    {
+                        "title": "Asset Type",
+                        "sublist": [
+                            {
+                                "text": "Boilers"
+                            },
+                            {
+                                "text": "Heat Exchangers"
+                            },
+                            {
+                                "text": "Furnace Inspection"
+                            },
+                            {
+                                "text": "Tube Inspection"
+                            },
+                            {
+                                "text": "Tank Inspection"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Inspection Technology",
+                        "sublist": [
+                            {
+                                "text": "Remote field testing (RFT)"
+                            },
+                            {
+                                "text": "Internal Rotary Inspection System (IRIS)"
+                            },
+                            {
+                                "text": "Helium leak detection (HLD)"
+                            },
+                            {
+                                "text": "Drone Inspection"
+                            },
+                            {
+                                "text": "Magnetic Flux Leakage"
+                            },
+                            {
+                                "text": "Ultrasonic Thickness Measurement (UTM)"
+                            },
+                            {
+                                "text": "Vacuum Testing"
+                            },
+                            {
+                                "text": "Inline Inspection"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "renewable-energy",
+                "hero": {
+                    "title": "Renewable Energy",
+                    "image": "/dexon/industries/renewable_energy_u4suol.webp"
+                },
+                "subtitle": [{
+                        "text": "Dexon Experiences in the Power Industry ranges throughout the whole segment. Whether it for renewable energy or fossil fuel plants, Dexon has assisted their clients keeping them providing reliable and consistently to the grid."
+                    },
+                    {
+                        "text": "Having skilled teams that can inspect and provide maintenance services at altitude has made us also strong partners for Wind Energy Solutions. As the Power Industry continuously demands cost saving and optimization, DEXON’s Latest Advanced Drone Inspections is just one of the services that can fulfill that requirement."
+                    }
+                ]
+            },
+            {
+                "id": "mining",
+                "hero": {
+                    "title": "Mining",
+                    "url": "/case-studies/hdpe-pipelines-mining-site/",
+                    "image": "/dexon/industries/mining_tg0nbp.webp"
+                },
+                "subtitle": [{
+                        "text": "The Mining Industry has its own challenges. Abrasive medium, temperature variations, accessibility and many more. Dexon has supported clients into the most rural and harsh environments on the planet and successfully assessed the pipeline integrity. We also have extensive experience with HDPE tailing lines and specifically coated lines that are often used in the industry."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "meta": {
+        "title": "Case Studies",
+        "description": "Dexon was called on to perform an offline inspection of a 6” riser on an offshore platform. Visual inspection confirmed that severe corrosion was likely at the position of the hanging riser clamp and that external ultrasonic inspection was not possible due to the location and extent of the corrosion.",
+        "keyword": ""
+    },
+    "overview": "Overview",
+    "solution": "Solutions",
+    "hero": {
+        "title": "Case Studies",
+        "subtitle": "Dexon was called on to perform an offline inspection of a 6” riser on an offshore platform. Visual inspection confirmed that severe corrosion was likely at the position of the hanging riser clamp and that external ultrasonic inspection was not possible due to the location and extent of the corrosion."
+    },
+    "body": {
+        "title": "Our Case Studies",
+        "content": [
+            {
+                "id": "riser-inspection-offshore-platform",
+                "hero": {
+                    "title": "Riser Inspection – Offshore Platform",
+                    "image": "/dexon/industries/riser_wvnczy.webp"
+                },
+                "subtitle": [
+                    {
+                        "text": "Dexon was called on to perform an offline inspection of a 6” riser on an offshore platform. Visual inspection confirmed that severe corrosion was likely at the position of the hanging riser clamp and that external ultrasonic inspection was not possible due to the location and extent of the corrosion."
+                    },
+                    {
+                        "text": "Using a tethered Ultrasonic Intelligent Pig system it was possible to inspect the line over a length of 50 meters and provide a highly accurate assessment of the extent of the corrosion at the position of the hanging riser clamp which had external corrosion down to 3.58 mm, representing 79.5% metal loss."
+                    },
+                    {
+                        "text": "This critical wall loss was identified and reported to the customer within 30 minutes of tool retrieval and our API qualified inspection personnel recommended that the pipeline be shut down and repaired. A comprehensive dig sheet was provided highlighting all areas of concern with recommendations."
+                    }
+                ]
+            },
+            {
+                "id": "hdpe-pipelines-mining-site",
+                "hero": {
+                    "title": "HDPE Pipelines – Mining Site",
+                    "image": "/dexon/industries/hdpe_ypxyh6.webp"
+                },
+                "subtitle": [
+                    {
+                        "text": "Dexon was contracted to develop and build a pipeline inspection tool capable of measuring the condition and remaining wall thickness of high-density polyethylene (HDPE) pipelines used to transport tailings for a major US mining corporation at their flagship mine site in Indonesia. Left is the HDPE Test Line. Here we test our tools and to proof to the client the anomalies are found"
+                    },
+                    {
+                        "text": "These high wear lines are 40” in diameter and run for 3.4kms before finishing on the seabed at a depth of 160 meters. Our tools were developed with both the capability to accurately assess the integrity of the pipelines and also to be retrievable when exiting the pipeline on the ocean floor."
+                    }
+                ]
+            },
+            {
+                "id": "bulk-storage-terminal-airport",
+                "hero": {
+                    "title": "Bulk Storage Terminal – Airport",
+                    "image": "/dexon/industries/airport_qilkv0.webp"
+                },
+                "subtitle": [
+                    {
+                        "text": "When precise measurements for verification of the remaining wall thickness of jet fuel lines running from bulk storage tanks at an offloading terminal to storage tanks at an airport terminal were required Dexon’s ultrasonic intelligent pigging system was put into action."
+                    },
+                    {
+                        "text": "The lines were 8” in diameter and 22km and 3.5kms in length. There were further challenges as one line had an obstruction that was identified during a foam pig cleaning run. After assessing the obstruction using our progressive pigging system we were able to recommend running the intelligent pig."
+                    },
+                    {
+                        "text": "The expertise and experience of our team was critical in the successful completion of the work as the obstruction did not impede the intelligent pig and complete data was acquired without incident. After assessing the data on site recommendations were made to allow for continued safe use of the lines."
+                    }
+                ]
+            },
+            {
+                "id": "fpso-to-platform-offshore-oil-gas",
+                "hero": {
+                    "title": "Fpso To Platform – Offshore Oil & Gas",
+                    "image": "/dexon/industries/offshore_badw5o.webp"
+                },
+                "subtitle": [
+                    {
+                        "text": "Inspecting a pipeline from a platform to an FPSO is particularly challenging when passing through the flexible riser and turret into the receiver. This 2.7km 6” line carries condensate and there were concerns about wax build up as this was the first time that the line had been inspected."
+                    },
+                    {
+                        "text": "A specialized compact and light weight, twin bodied tool was developed for easy launching and receiving in the restricted access space available. Gel pigs were run as the first step to provide confidence that the lines were not obstructed by wax build up."
+                    },
+                    {
+                        "text": "Close cooperation between marine, operations and Dexon were required when the FPSO turret needed to be perfectly aligned with the riser to allow for the pipeline cleaning and inspection tools to pass through. Data was successfully acquired after an obstruction and incident free online run."
+                    }
+                ]
+            }
+        ]
+    }
+}

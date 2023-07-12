@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "title": "Pig Tracking Services",
+        "description": "During the course of a pipeline cleaning or inspection run there is always a small risk of a pig getting stuck or lost inside the pipeline. For this purpose Dexon has adapted the TRAXALL 770, an advanced pipeline pig tracking and locating system developed and perfectionized over 20 years of tracking know-how.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Pig Tracking Services",
+        "content1": {
+            "title": "What do Pig Tracking Services Work ?",
+            "subtitle": [{
+                    "text": "During the course of a pipeline cleaning or inspection run there is always a small risk of a pig getting stuck or lost inside the pipeline. For this purpose Dexon has adapted the TRAXALL 770, an advanced pipeline pig tracking and locating system developed and perfectionized over 20 years of tracking know-how."
+                },
+                {
+                    "text": "The devices sophisticated Digital Signal Processing (DSP) technology enables it’s users to track up to 7 different transmitter frequencies at the same time while a precise user interface allows for easy pig location to within centimeters."
+                }
+            ],
+            "sublist": [{
+                    "title": "MFL",
+                    "subtitle": "Furthermore TRAXALL 770’s advanced permanent magnet tracking and locating capabilities allow easy Passage detection, Pinpointing, and launch/receive verification of Magnetic Flux Leakage inspection tools. The 770’s graphical interface for Magnetic Flux Leakage or MFL shows familiar zero-crossing signals with full Pinpointing, recording and passage monitoring."
+                },
+                {
+                    "title": "GPS",
+                    "subtitle": "The TRAXALL 770 is equipped with a high speed GPS system allowing arbitrary points of interest to be Waypointed and stored in the systems memory as GPS coordinates. Routes taken to and from hard-to-find locations can be trackpoint recorded for easy reference. Returning to a pig’s Waypoint location or retracing your path along a pipeline with Trackpoints can be achieved through built-in Navigate to Waypoint capabilities. Waypoint and Trackpoints can also be downloaded and viewed with Google Maps for desktop PC viewing of navigation data."
+                },
+                {
+                    "title": "Bluetooth and Satellite Notification",
+                    "subtitle": "The 770’s Bluetooth wireless feature allows downloading of recorded passages, Waypoints, Trackpoints, and remote viewing of the system from a vehicle in unfavorable weather conditions. The device may also be equipped with a radio system that provides the 770 with the capability to autonomously monitor for pig passages and send remote notifications as emails or text messages. As the system works through satellite from anywhere in the world it requires no cellular telephone network."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "title": "Paint and Coating Inspection Services (NACE) ",
+        "description": "Dexon provides all required paint and coating inspection services, whether for marine environments or plant service. Inspection,verification and reporting is done in accordance with NACE procedures by certified inspectors. Client consultation and QA/QC on paint/coating related matters is also provided.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Paint and Coating Inspection Services (NACE) ",
+        "content1": {
+            "title": "What does our Paint and Coating Inspection do ?",
+            "subtitle": [
+                {
+                    "text": "Dexon provides all required paint and coating inspection services, whether for marine environments or plant service. Inspection,verification and reporting is done in accordance with NACE procedures by certified inspectors. Client consultation and QA/QC on paint/coating related matters is also provided."
+                },
+                {
+                    "text": "One of the techniques we use is the wet sponge technique. The wet sponge technique is used for locating pinholes through a nonconductive coating to a conductive substrate. A sponge moistened with a wetting agent, is supplied with a low voltage. When the sponge is moved over a pinhole, liquid penetrates to the substrate and completes the electrical circuit. The resulting current flow generates an audible alarm in the detector. This method is both an economical and cost effective method of testing for coating flaws in tank linings and pipework."
+                }
+            ]
+        },
+        "content2": {
+            "title": "There are several advantages and disadvantages to this inspection method as outlined below:",
+            "subtitle": [{
+                    "text": "It is a very low cost method"
+                },
+                {
+                    "text": "It is easy to use and extensive training is not needed"
+                },
+                {
+                    "text": "It is a non-destructive test."
+                },
+                {
+                    "text": "The inspection area must be dry and free of moisture"
+                },
+                {
+                    "text": "Locating a holiday after indication can be time consuming"
+                }
+            ]
+        }
+    }
+}

@@ -1,10 +1,29 @@
 {
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
   "prettier.enable": false,
+  "[json]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
   "files.associations": {
     "*.css": "postcss"
   },
+  "vetur.validation.template": false,
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "vetur.completion.scaffoldSnippetSources": {
+    "workspace": "💼",
+    "user": "🗒️",
+    "vetur": "✌"
+  },
+  "vetur.format.defaultFormatter.js": "none",
+  "vetur.format.defaultFormatter.html": "none",
+  "vetur.format.enable": false,
   "editor.formatOnSave": false
 }

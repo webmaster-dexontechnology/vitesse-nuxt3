@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "title": "Ultrasonic In-Line Inspection",
+        "description": "Dexon Technology provides Ultrasonic (UT) based In Line Inspection tools for all types of liquid filled pipelines and includes Ultrasonic MultiChannel ILI’s (UT-MC) for high speed long length pipeline corrosion (metal loss) inspection.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Ultrasonic In-Line Inspection",
+        "content1": {
+            "title": "Ultrasonic In-Line Inspection Pigging",
+            "subtitle": [{
+                    "text": "Dexon Technology provides Ultrasonic (UT) based In Line Inspection tools for all types of liquid filled pipelines and includes Ultrasonic MultiChannel ILI’s (UT-MC) for high speed long length pipeline corrosion (metal loss) inspection."
+                },
+                {
+                    "text": "Ultrasonic Rotary ILI’s (UT-R) for super high resolution in short to medium length pipelines (<30km) for corrosion (metal loss) inspection. Recommended for old and/or severely corroded pipelines to provide a higher level of detail and accuracy in corroded areas."
+                },
+                {
+                    "text": "Ultrasonic Crack Detection and Sizing ILI’s (CS) for detecting and measurements of axial (ERW) and circumferential cracks larger than 1.0 mm. The Ultrasonic ILI’s require a liquid in the pipeline in order to operate (diesel, crude, water, Naphtha, etc.) and offer direct and accurate measurements in mm/thousand of an inch, as opposed to volumetric measurements in % of other types of ILI’s, thereby offering greater detail and accuracy."
+                },
+                {
+                    "text": "All Dexon Ultrasonic ILI’s are tested and proven in full scale test loops and infinity loops to ensure performance as a minimum comply with the POF-2016 standard."
+                }
+            ]
+        },
+        "content2": {
+            "title": "Dexon’s UT Intelligent Pigs can be used to inspect any diameter of pipelines, with any6 thickness and of virtually any type of material, such as:",
+            "subtitle": [{
+                    "text": "Carbon Steel"
+                },
+                {
+                    "text": "Austenitic Steel"
+                },
+                {
+                    "text": "High-Density Polyethylene (HDPE)"
+                },
+                {
+                    "text": "HDPE or PE Lined"
+                },
+                {
+                    "text": "GRE/GRP pipelines"
+                },
+                {
+                    "text": "Subsea or Above Ground"
+                },
+                {
+                    "text": "Bare, Coated or Insulated"
+                },
+                {
+                    "text": "Cladded or lined pipelines"
+                }
+            ]
+        }
+    }
+}

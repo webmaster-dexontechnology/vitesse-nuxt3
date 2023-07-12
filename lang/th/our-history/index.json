@@ -1,0 +1,143 @@
+{
+    "meta": {
+        "title": "Dexon's Evolution",
+        "description": "From a small NDT service provider to a leading international technology company",
+        "keyword": ""
+    },
+    "hero": {
+        "header": "Our History",
+        "title": "Dexon's Evolution",
+        "subtitle": "From a small NDT service provider to a leading international technology company"
+    },
+    "content": [
+        {
+            "title": "2022",
+            "subtitle": [
+                {
+                    "text": "Dacon Inspection Technologies changes its company name to DEXON Technology PLC"
+                }
+            ],
+            "image": "/dexon/our-history/2022_ulhet2.webp"
+        },
+        {
+            "title": "2021",
+            "subtitle": [
+                {
+                    "text": "The Dacon Europe BV office opens in the Netherlands allowing DEXON to better serve clients in Europe"
+                }
+            ],
+            "image": "/dexon/our-history/2021_ajduv0.webp"
+        },
+        {
+            "title": "2018",
+            "subtitle": [
+                {
+                    "text": "With increased attention and global notoriety Dacon expands further through Asia and South America, offering services in Japan as well as in South America including Peru, Brazil, and various U.S. military projects"
+                },
+                {
+                    "text": "Dacon is the first company in Thailand to receive Global Wind Organization (GWO) certification allowing for expansion into the inspection, testing, and repair of wind turbine farms throughout Asia"
+                },
+                {
+                    "text": "Dacon Inspection Company Services Co.,Ltd changes its company name to Dacon Inspection Technologies Co., Ltd to more accurately reflect the nature of the companies changing business objectives from a service provider to also being a technology and software development company"
+                }
+            ],
+            "image": "/dexon/our-history/2018_zmvung.webp"
+        },
+        {
+            "title": "2017",
+            "subtitle": [
+                {
+                    "text": "Dacon’s head office facilities are expanded by a further 7 acres"
+                }
+            ],
+            "image": "/dexon/our-history/2017_tefp1i.webp"
+        },
+        {
+            "title": "2016",
+            "subtitle": [
+                {
+                    "text": "Dacon becomes a full member of the Industrial Rope Access Trade Association (IRATA)"
+                }
+            ],
+            "image": "/dexon/our-history/2016_ixnrzx.jpg"
+        },
+        {
+            "title": "2013",
+            "subtitle": [
+                {
+                    "text": "Dacon is awarded international in-line inspection contacts in Nigeria, Malaysia, and Myanmarsubsidiary of Dacon Inspection Company Service Co.,Ltd"
+                }
+            ],
+            "image": "/dexon/our-history/2013_q5uu1q.webp"
+        },
+        {
+            "title": "2012",
+            "subtitle": [
+                {
+                    "text": "Dacon Inspection Company Services PTE Limited (DITS) is registered in Singapore as a subsidiary of Dacon Inspection Company Service Co.,Ltd"
+                }
+            ],
+            "image": "/dexon/our-history/2012_pevugu.webp"
+        },
+        {
+            "title": "2011",
+            "subtitle": [
+                {
+                    "text": "Dacon is certified by the ThaiDepartment of Energy for Non-Destructive Testing (NDT) services"
+                }
+            ],
+            "image": "/dexon/our-history/2011_wapjzc.webp"
+        },
+        {
+            "title": "2010",
+            "subtitle": [
+                {
+                    "text": "Dacon invests in Phased ArrayUltrasonic Testing (PAUT) an advancednon-destructive testing NDT techniqueallowing for the inspection of pipes andpressure vessels in the petroleum andpetrochemical industries across Asia"
+                }
+            ],
+            "image": "/dexon/our-history/2010_jms5kv.webp"
+        },
+        {
+            "title": "2009",
+            "subtitle": [
+                {
+                    "text": "Dacon relocates to a larger 2-acre Facility in Ban Chang including on-site research laboratories and a larger pipeline inspection test yard"
+                },
+                {
+                    "text": "Dacon launches the Dacon Training Center (DTC) offering conventional and advanced NDT training throughout Southeast Asia"
+                },
+                {
+                    "text": "Dacon is the only company in Thailand to offer American Petroleum Institute (API) certified training"
+                }
+            ],
+            "image": "/dexon/our-history/2009_xus8ek.webp"
+        },
+        {
+            "title": "2008",
+            "subtitle": [
+                {
+                    "text": "Dacon receives ISO 9001:2000 certification"
+                }
+            ],
+            "image": "/dexon/our-history/2008_kii850.webp"
+        },
+        {
+            "title": "2006",
+            "subtitle": [
+                {
+                    "text": "Dacon relocates to a 1-acre facility including a pipeline test yard for the testing and verification of in-line inspection tool data"
+                }
+            ],
+            "image": "/dexon/our-history/2006_ta7xh8.webp"
+        },
+        {
+            "title": "1996",
+            "subtitle": [
+                {
+                    "text": "Dacon Inspection Company Services Co.,Ltd is formed in Ban Chang, on Thailand’s eastern seaboard. Offering conventional non-destructive testing services"
+                }
+            ],
+            "image": "/dexon/our-history/1996_pik61k.webp"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "title": "Corrosion Under Support (CUS)",
+        "description": "Dexon has developed a unique tool for detecting corrosion in pipelines at support areas. Our Corrosion Under Support system is able to quantify corrosion and measure the remaining wall thickness at the inaccessible areas where the pipe is resting on supports or held by clamps.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Corrosion Under Support (CUS)",
+        "content1": {
+            "title": "What does our Corrosion Under Support Inspection do ?",
+            "subtitle1": [{
+                    "text": "Pipeline corrosion control is crucial to ensure pipeline longevity and productivity. But how can you know the extent of the corrosion where the pipeline rests on the pipeline support without the expense and logistical commitment of lifting the pipeline? These areas are susceptible to higher corrosion rates for many reasons and inspecting them historically has involved costly and time consuming operations to lift the pipe or cut the supports, but can now be done on site quickly, cost effectively and simply."
+                },
+                {
+                    "text": "Dexon has developed a unique tool for detecting corrosion in pipelines at support areas. Our Corrosion Under Support system is able to quantify corrosion and measure the remaining wall thickness at the inaccessible areas where the pipe is resting on supports or held by clamps."
+                },
+                {
+                    "text": "The system has an independently verified accuracy of +/- 0.3mm and can be used to gain significant cost advantage when assessing pipeline integrity and planning shutdowns and scheduled maintenance. Tried and tested in the field by a number of the world’s largest oil and gas companies this tool should form an important part of any inspection program."
+                },
+                {
+                    "text": "Previously available tools have been able to quantify corrosion under support areas whilst Dexon’s tools are the only system capable of measuring the actual remaining wall thickness. After testing and verification and a number of years in commercial use Dexon Corrosion Under Support has proven to be the perfect tool to precisely assess wall loss at pipe support areas thus minimizing the time and expense involved in lifting up the pipe."
+                }
+            ],
+            "subtitle2": "Commercially available and in continuous use on various projects around the world we would be happy to address your questions about pipeline corrosion control in more detail.",
+            "sublist": {
+                "title": "How Does It Work?",
+                "subtitle": [{
+                        "text": "Longitudinal waves are converted into shear waves"
+                    },
+                    {
+                        "text": "Signal is comprised of a combination of shear waves and longitudinal waves"
+                    },
+                    {
+                        "text": "UT probe shoe is cut at 35 degree angle for optimal signal delivery and capture"
+                    },
+                    {
+                        "text": "Dexon algorithm calculates Time of Flight to give remaining wall thickness"
+                    },
+                    {
+                        "text": "Qualified and experienced UT Level 2 inspector interprets the data and gives final analysis."
+                    }
+                ]
+            }
+        }
+    }
+}

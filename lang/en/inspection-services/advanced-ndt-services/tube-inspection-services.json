@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "title": "Tube Inspection Services",
+        "description": "One of DEXON’s specialties is inspection of heat exchanger tubes. Offering a complete package of tube inspection techniques, DEXON has the right solution for almost every possible tube that can be found in boilers, condensers, air fin coolers and other heat exchangers. For every specific tube and situation the suitable technique or combination of techniques can be chosen.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Tubing inspection services",
+        "content1": {
+            "title": "What does our tube inspection service do?",
+            "subtitle": [
+                {
+                    "text": "One of DEXON’s specialties is inspection of heat exchanger tubes. Offering a complete package of tube inspection techniques, DEXON has the right solution for almost every possible tube that can be found in boilers, condensers, air fin coolers and other heat exchangers. For every specific tube and situation the suitable technique or combination of techniques can be chosen."
+                },
+                {
+                    "text": "Eddy Current (EC): EC offers inspection in non–carbon content (non-ferrous) tubes, including non-ferrous finned tubes. Local defects as well as overall wall-loss can be detected and quantified. EC can detect both internal and external defects and can distinguish between them. Cracks can be detected depending on their size and orientation. Normally only a basic cleaning of the tubes is sufficient. EC is notably the fastest of the available tools. Approximately 450 tubes with a standard 6 meter length can be done on a first inspection day. Speed can go up to as many as 700 tubes per day on additional days of inspection."
+                },
+                {
+                    "text": "Remote Field Technique (RFT): Because EC is not possible to be used in ferrous tubes, a different technique and approach should be applied. One of the more popular used methods is the Remote Field Technique. This technique is very well suited for detecting and quantification of overall wall-loss. Local defects can be detected and quantified as long as they have some volume (diameter pit >5 mm). The Remote Field Method can also detect both internal and external defects but it is not able to distinguish between them. Defects beneath or close to the tube sheet are hard or impossible to detect. Only a simple cleaning of the tubes will be sufficient. RFT is slightly slower than EC. Approximately 300 tubes, with a common 6 meter length, can be done on a first inspection day. Speed can go up to as many as 450 tubes on following inspection days."
+                },
+                {
+                    "text": "In addition to the above techniques DEXON provides every available tube inspection technique available and you can find out more about each technique listed on this site. DEXON is also proud to have the largest assortment of tube inspection calibration pieces in Asia and has calibration pieces for every tube type and material."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "title": "Computed and Digital Radiography",
+        "description": "Computed Radiography (CR) provides the digital equivalent of the conventional X-ray film while simultaneously providing the enormous advantages that consumables are virtually eliminated and the time to image is reduced considerably.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Computed and Digital Radiography",
+        "content1": {
+            "title": "HD – CR 35 NDT",
+            "subtitle": [{
+                "text": "Computed Radiography (CR) provides the digital equivalent of the conventional X-ray film while simultaneously providing the enormous advantages that consumables are virtually eliminated and the time to image is reduced considerably."
+            },
+            {
+                "text": "In addition the digital images can easily be archived and shared freely with other users. We emphasize the easy work flow and the ability to optimise the images by means of image software, there by assuring improved analyses."
+            },
+            {
+                "text": "The CR technology consists of a three step process. The Image (storage) Plate is exposed with X-ray or Gamma radiation, which causes the IP phosphor layer in the plate to store the X-ray image. During the reading process of the plate in the scanner, a focused laser beam triggers the release of the stored X-ray image in the form of visible light."
+            },
+            {
+                "text": "The emitted light is captured and detected, then converted into electrical signals which are digitised and finally displayed as digital images on the monitor of the associated computer."
+            },
+            {
+                "text": "The internal in-line eraser purges the residual data from the IP, which is then ready for the next exposure."
+            },
+            {
+                "text": "Basically, the CR technology is understood to be the digital replacement for film. In conventional X-ray film, different resolutions due to the film and in part by differing exposure times are achieved. In the CR technology, however not only do the IPS, the film replacements plan an important role, but also the scanner and its resolution is of  high importance."
+            }
+        ]
+        },
+        "content2": {
+            "title": "Imaging plates",
+            "subtitle": "Custom shapes and formats We are able to provide imaging plates from 2 – 35 cm in width and virtually unlimited length. Custom shapes are also possible, e.g. for specific workpieces or maintenance. Lifespan Imaging plates which are properly handled and maintained can typically be used up to 1000 times or more depending on the application. Selection of a suitable imaging plate For example, to test welds according to ISO 17636-2 Class B with a penetrated wall thickness of 2 mm, a basic spatial resolution (SRb) of 50 μm or better is required. Therefore, the use of HD/XHD imaging plates (which are capable of a SRb of 40 μm) is recommended as they easily fulfill this requirement. For corrosion under insulation (CUI) evaluation, the challenge is the lower incoming radiation dose on the imaging plate due to the large penetrated wall thickness (tangential). Therefore, a higher sensitivity imaging plate should be used to allow short exposure times. This high sensitivity can be provided by the CR/GCR imaging plates which still gives a 100 μm SRb to meet the requirements of EN 16407-1."
+        }
+    }
+}

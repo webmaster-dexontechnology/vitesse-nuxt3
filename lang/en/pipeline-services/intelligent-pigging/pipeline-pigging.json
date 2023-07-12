@@ -1,0 +1,386 @@
+{
+    "meta": {
+        "title": "Pipeline Pigging",
+        "description": "Pipeline Pigging Definition/Meaning Pipeline pigging refers to the use of pigging equipment/machines more specifically Pipeline Integrity Gauges or “PIGs” for the routine cleaning, maintenance, and inspection of pipelines. PIGs are propelled through the pipeline by differential pressure and product flow.  There are two types of Pipeline Integrity Gauges, Utility PIGs and Intelligent PIGs.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Pipeline Pigging",
+        "content1": {
+            "title": "Pipeline Pigging Definition/Meaning:",
+            "subtitle": "Pipeline Pigging Definition/Meaning Pipeline pigging refers to the use of pigging equipment/machines more specifically Pipeline Integrity Gauges or “PIGs” for the routine cleaning, maintenance, and inspection of pipelines. PIGs are propelled through the pipeline by differential pressure and product flow.  There are two types of Pipeline Integrity Gauges, Utility PIGs and Intelligent PIGs.",
+            "sublist": {
+                "content1": {
+                    "title": "Utility PIGs:",
+                    "subtitle": "Utility PIGs also referred to as Mechanical PIGs are used for pipeline cleaning and gauging and can be made from a range of materials including carbon steel, foam, and Plastics."
+                },
+                "content2": {
+                    "title": "Intelligent PIGs:",
+                    "subtitle": "Intelligent PIGs also referred to as Smart PIGs utilize onboard sensors to collect and record information about the internal physical characteristics of a pipeline including ovality and geometric deformations, cracking, metal loss, and physical geographic location mapping."
+                }
+            }
+        },
+        "content3": {
+            "title": "“Unpiggable” or Challenging Pipeline Inspection",
+            "subtitle": "Challenging pipeline inspection or the term “unpiggable” refers to the ease of inspection of a pipeline using standard inline inspection tools.  Pipeline features, conditions, and configurations can all pose difficulties to standard inline inspection methods.  The pigging and inspection of challenging pipelines require the modification of pigging tools to navigate individual pipeline conditions. "
+        },
+        "content4": {
+            "title": "Launchers and Receivers",
+            "subtitle": "Launchers and receivers are sections of pipe that can be connected to pipelines and used to insert or remove PIGs from a pipeline for pigging purposes.  The design may vary although the basic components remain the same. Click here for more on launchers and receivers."
+        },
+        "content5": {
+            "title": "How, Why, and When is Pigging Used?",
+            "subtitle": "Pigging is performed throughout the lifecycle of a pipeline from pre-commissioning all the way through to decommissioning.  The most common uses of pigging are routine cleaning, maintenance, and inspection of the asset’s internal characteristics. Launchers and receivers are installed at the beginning and at the end of the pigging section allowing for the insertion and removal of the PIG.  Differential pressure is used to propel the PIG through the pipeline."
+        },
+        "content6": {
+            "title": "Pigging Uses",
+            "subtitle": "Pigging is used across a variety of pipeline activities.",
+            "product_list": {
+                "content1": {
+                    "title": "Pipeline cleaning:",
+                    "subtitle": "Deposits and buildups within a pipeline are removed via chemical and mechanical pigging operations."
+                },
+                "content2": {
+                    "content_list": [
+                        {
+                            "title": "Pre-commissioning cleaning"
+                        },
+                        {
+                            "title": "Removal of debris left over from construction"
+                        },
+                        {
+                            "title": "Prior to in-line inspection to ensure accurate inspection data"
+                        },
+                        {
+                            "title": "Prior to and after hydrostatic testing"
+                        },
+                        {
+                            "title": "Decoking: Removal of hard scale"
+                        },
+                        {
+                            "title": "Removal of wax, dust, and rust"
+                        },
+                        {
+                            "title": "Maintenance and repair:",
+                            "subtitle": "Pigging is an important part of routine pipeline maintenance programs."
+                        },
+                        {
+                            "title": "Drying"
+                        },
+                        {
+                            "title": "Dewatering"
+                        },
+                        {
+                            "title": "Gauging to determine internal bore restrictions:",
+                            "subtitle": "PIGs are fitted with soft metal disks that bend when they come in to contact with obstruction in the pipeline."
+                        },
+                        {
+                            "title": "Pipeline inspection and integrity management:",
+                            "subtitle": "PIGs fitted with onboard sensors are used to gather information on the internal and external condition of the pipe wall.",
+                            "sublist": [{
+                                    "text": "Ovality"
+                                },
+                                {
+                                    "text": "Geometric deformations"
+                                },
+                                {
+                                    "text": "Cracking"
+                                },
+                                {
+                                    "text": "Metal loss"
+                                },
+                                {
+                                    "text": "Corrosion"
+                                },
+                                {
+                                    "text": "Erosion"
+                                },
+                                {
+                                    "text": "Geographical 3D mapping"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "content3": {
+                    "title": "PIG Propulsion",
+                    "content_list": [{
+                            "title": "Differential Pressure (dP):",
+                            "subtitle": [{
+                                    "text": "Differential pressure represents the difference in pressure between two points. In pigging differential pressure is used to show the difference in pressure in the pipeline in front of and behind the PIG.  Pigging differential pressure is calculated by subtracting gauge pressure (bar(g)) in front of the PIG from gauge pressure behind the PIG resulting in a positive pressure driving the PIG forward through the pipeline. A differential pressure of 0 results in the PIG being stationary.  During launching differential pressure within the launcher across the minor and major barrel is balanced. To launch the tool, pressure is increased behind the PIG increasing the differential pressure and launching the PIG forward out of the launcher and into the pipeline. Many factors influence the dP required to launch a PIG such as friction and product medium however the dP required to move a PIG through a pipeline is usually between 0.5 and 1.5 bar(g)."
+                                },
+                                {
+                                    "text": "The equation for calculating differential pressure or dP can be seen below."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Calculating Differential Pressure",
+                            "calculate": [{
+                                    "text": "Pressure at the Rear of the PIG bar(g) – Back Pressure bar(g) = Differential Pressure (dP)"
+                                },
+                                {
+                                    "text": "7 bar(g) – 5 bar(g) = 2 bar(g) dP"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Back Pressure (BP):",
+                            "multiple_subtitle": [{
+                                    "text": "Back pressure or"
+                                },
+                                {
+                                    "text_bold": "backpressure"
+                                },
+                                {
+                                    "text": "refers to the resistance in a pipe acting against the direction of flow. In"
+                                },
+                                {
+                                    "text_bold": "Pigging, back pressure"
+                                },
+                                {
+                                    "text": "is used to describe the pressure or force in a pipeline opposing the PIG.  Back pressure is often confused with the pressure behind the PIG that is used to push the PIG through the pipeline."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "PIG Speed Excursion:",
+                            "subtitle": [
+                                {
+                                    "text": "Speed excursion in pigging refers to the sudden acceleration of the PIG due to inconsistencies and fluctuations in pipeline pressure.  Gas compressibility is the main cause of speed excursion. While pressure increases in the pipeline gas is compressed until there is enough force to overcome friction and move the tool.  Once the PIG moves there is a sudden increase in speed as the PIG accelerates although as the gas decompresses so does the pressure acting on the PIG and the tool speed decreases rapidly."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "content4": {
+                    "title": "The Origin of the Term “Pipeline Pigging”",
+                    "subtitle": "There are several theories as to why the process is called “pipeline pigging”. As none of the theories have been confirmed there remains controversy around the term.",
+                    "content_list": [{
+                            "title": "Pipeline Integrity Gauge:",
+                            "subtitle": "Pipeline Integrity Gauge Many believe the term is the verb form of the abbreviation of the term Pipeline Integrity Gauge or “PIG” for short."
+                        },
+                        {
+                            "title": "Leather and Straw PIGs:",
+                            "subtitle": "Leather and Straw PIGs Many believe the term originated from the first PIGs that were ever made. The original PIGs were either made from leather or straw bales wrapped in barbed wire. As a result, they made an eerie, load, high-pitched squealing sound as they passed through the line similar to that of a pig."
+                        },
+                        {
+                            "title": "The First PIGs Were Cleaning PIGs:",
+                            "subtitle": "The First PIGs Were Cleaning PIGs Another popular theory is that upon receiving cleaning pigs the receiver is usually full of debris that looks like mud, similar to that a pig would be happy to sit in."
+                        }
+                    ]
+                },
+                "content5": {
+                    "title": "Types of Utility PIGs",
+                    "content_list": [
+                        {
+                            "title": "Metal Body or Mandrel PIGs:",
+                            "subtitle": "Mandrel PIGs use a metal tool body design that can be fitted with interchangeable components. The mandrel PIGs ability to be fitted with multiple components makes it extremely versatile while extending tool life.",
+                            "sublist": [
+                                {
+                                    "title": "Driving Cups:",
+                                    "subtitle": "Driving cups are polyurethane cup-shaped disks that create a seal with the internal pipe wall propelling the PIG through the pipeline with product flow. Cupped disks can only be used for single directional pigging because the seal will be compromised with reversed product flow."
+                                },
+                                {
+                                    "title": "Driving Disks:",
+                                    "subtitle": "Driving disks are flat polyurethane disks that create a seal with the internal pipe wall propelling the PIG through the pipeline. Driving disks are used for bidirectional pigging because the disk can maintain a seal regardless of the direction of product flow."
+                                },
+                                {
+                                    "title": "Brushes:",
+                                    "subtitle": "Brushes with metal or plastic bristles of varying strengths are used to dislodge deposits from the inside of the pipe wall."
+                                },
+                                {
+                                    "title": "Gauging Plates:",
+                                    "subtitle": "Aluminum plates that bend on contact with internal pipe diameter reductions. Gauging PIGs are run before intelligent pigging inspection runs to ensure that the smart PIG can pass through the pipe and complete the inspection without becoming stuck."
+                                },
+                                {
+                                    "title": "Plow Blades:",
+                                    "subtitle": "Plow blades are used to break up hard deposits and scale stuck to the inside of the pipe wall."
+                                },
+                                {
+                                    "title": "Spacing Disks:",
+                                    "subtitle": "Spacing Disks are polyurethane disks that are used to center the PIG in the pipeline. Ensuring the PIG is centralized in the pipe is especially important when using smart PIGs with onboard sensors such as caliper, ultrasound, and magnetic flux leakage tools."
+                                },
+                                {
+                                    "title": "Pinwheel and Studded PIGs:",
+                                    "subtitle": "Strengthened studs are used to break up hard scale stuck to the internal pipe wall."
+                                },
+                                {
+                                    "title": "Plough blade PIGs:",
+                                    "subtitle": "Plow PIGs are fitted with blades that scrape scale and other hard residues off the internal pipe wall for removal."
+                                },
+                                {
+                                    "title": "Scraper PIGs:",
+                                    "subtitle": "Scraper PIGs are mandrel PIGs that utilize interchangeable plough blades to remove hard scale deposits from the inside of the pipe wall."
+                                },
+                                {
+                                    "title": "Magnetic PIGs:",
+                                    "subtitle": "Magnetic PIGs use powerful magnets to collect ferrous (magnetic) debris in the pipeline such as welding rods left over from construction and scale flakes."
+                                },
+                                {
+                                    "title": "Brush PIGs:",
+                                    "subtitle": "Brush PIGs are used to remove soft debris and deposits from the inside of the pipe wall such as wax."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Foam PIGs:",
+                            "sublist": [
+                                {
+                                    "title": "Foam Density:",
+                                    "subtitle": "Foam PIGs are available in low, medium, and high-density polyurethane foam. The density of the foam used is dependent on the intended purpose.",
+                                    "list": [
+                                        {
+                                            "title": "Low-density foam PIGs",
+                                            "subtitle": "Low-density foam PIGs are used for dry and dewatering due to their ability to absorb liquids."
+                                        },
+                                        {
+                                            "title": "Medium and high-density foam PIGs",
+                                            "subtitle": "Medium and high-density foam PIGs offer the ability to move greater volumes of water and debris over low-density PIGs."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Brush Foam PIGs:",
+                                    "subtitle": "Foam PIGs can incorporate metal or plastic brush bristles that help to dislodge deposits on the inside of the pipe wall."
+                                },
+                                {
+                                    "title": "Coated vs Non-Coated Foam PIGs:",
+                                    "subtitle": "Foam PIGs are available with and without polyurethane coatings. Polyurethane coatings are used to increase durability and extend the lifetime of the PIG"
+                                },
+                                {
+                                    "title": "Open and Closed Cell Foam PIGs:",
+                                    "subtitle": "Foam PIGs are available in both open cell and closed cell formats. Open-cell foam contains air bubbles that are interconnected making them softer and allowing for water absorption.  Open-cell foam PIGs are used for pipeline drying."
+                                },
+                                {
+                                    "title": "Crisscross Coating:",
+                                    "subtitle": "Crisscross coatings allow water to travel in a helictical path around the circumference of the PIG, spinning the PIG as it moves through the pipeline creating increased lateral friction with the pipe wall."
+                                },
+                                {
+                                    "title": "Silicone-Carbide:",
+                                    "subtitle": "Silicone-Carbide PIGs offer an abrasive outer shell for the cleaning of scale buildup on the inner pipe wall as well as the removal of rust and mill scale."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Spherical PIGs:",
+                            "subtitle": "Spherical PIGs are available in all the same materials and formats as foam PIGs including crisscross, silicon-carbide, and with both wire and plastic brush bristles. Spherical PIGs are used for their ability to pass tight bends and are predominantly used in automated launching systems.",
+                            "sublist": [
+                                {
+                                    "title": "Solid Spherical PIGs:",
+                                    "subtitle": "Solid spherical PIGs can be made of either closed or open-cell polyurethane depending on absorption and density requirements."
+                                },
+                                {
+                                    "title": "Inflatable Spherical PIGs:",
+                                    "subtitle": "Inflatable PIGs are filled with water rather than air. Because water is not compressible spherical PIGs are able to withstand the greater pressures present in gas pipelines."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Solid and Cast PIGs:",
+                            "subtitle": "Solid cast PIGs are made from molded polyurethane. Because the entire PIG is molded in one piece cast PIGs can be designed with an increased number of seals which is helpful during batching. "
+                        }
+                    ]
+                },
+                "content6": {
+                    "url": "/pipeline-services/intelligent-pigging/",
+                    "title": "Types of Intelligent PIGs",
+                    "content_list": [
+                        {
+                            "title": "Intelligent/Smart PIGs",
+                            "sublist": [
+                                {
+                                    "url": "/pipeline-services/intelligent-pigging/ultrasonic-multi-channel/",
+                                    "title": "Ultrasonic PIGs"
+                                },
+                                {
+                                    "url": "/pipeline-services/intelligent-pigging/mfl-pigging/",
+                                    "title": "Driving Disks:"
+                                },
+                                {
+                                    "url": "/pipeline-services/intelligent-pigging/caliper-pigging/",
+                                    "title": "Caliper PIGs"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "content7": {
+                    "title": "Intelligent Pigging PIG Components",
+                    "sublist": [
+                        {
+                            "title": "Driving Cups:",
+                            "subtitle": "Driving cups are cup-shaped polyurethane disks that are approximately 3% larger than the internal diameter of the pipeline. A seal is created between the internal pipe wall and PIG which propels the PIG through the pipeline."
+                        },
+                        {
+                            "title": "Driving Plates:",
+                            "subtitle": "Driving plates/disks are flat polyurethane disks that create a seal with the pipe wall. Driving plates are used for bi-directional pigging, pigging operations that require the PIG to travel in both directions through a pipeline."
+                        },
+                        {
+                            "title": "Sensors:",
+                            "subtitle": "There are 3 main types of inspection technology used with intelligent pigging. Ultrasound, Magnetic Flux Leakage, and mechanical caliper sensors."
+                        },
+                        {
+                            "title": "Spacing Disks:",
+                            "subtitle": "Spacing disks are flat polyurethane disks that are just smaller than the internal diameter of the pipeline and are used to center the PIG in the pipe."
+                        },
+                        {
+                            "title": "Batteries:",
+                            "subtitle": "On-board battery units can be customized to accommodate individual tool power requirements as well as varying inspection run lengths and times."
+                        },
+                        {
+                            "title": "Odometer Sensors:",
+                            "subtitle": "Odometers are used to track the PIG’s speed and distance traveled through the pipeline. Defect location can then be determined based on odometer data."
+                        },
+                        {
+                            "title": "3 Axis Inertial Measurement Unit:",
+                            "subtitle": "On-board inertial measurement units are used for 3D mapping services. Data on the tool’s movement along the 3 axes are used to plot the geographical location of a pipeline between the launcher and receiver. Above ground markers are used for increased accuracy as the tool can use this data as a frame of reference to plot a course using physical location data."
+                        }
+                    ]
+                },
+                "content8": {
+                    "title": "Specialty PIG Characteristics",
+                    "sublist": [
+                        {
+                            "title": "Transmitter Cavities:",
+                            "subtitle": "Both Utility and Intelligent PIGs can be fitted with tracking equipment allowing pipeline operators to track the movement of PIGs through the pipeline."
+                        },
+                        {
+                            "title": "Single Directional PIGs:",
+                            "subtitle": "Single directional PIGs are used when receivers are present on a pipeline for extraction."
+                        },
+                        {
+                            "title": "Bidirectional Pigging:",
+                            "subtitle": "Bidirectional PIGs are used in pipelines that are not equipped with receivers.  Many subsea pipelines end in Pipeline End Manifolds (PLEMs) and require the flow to be reversed once the PIG reaches the end of the pipeline, sending the PIG back to the launcher for extraction."
+                        }
+                    ]
+                },
+                "content9": {
+                    "title": "Specialty PIGs",
+                    "sublist": [
+                        {
+                            "title": "Dual Diameter Driving Cups:",
+                            "subtitle": "Dual diameter driving cups use special folding driving disks allowing intelligent and mandrel PIGs to maintain a seal with the pipe wall across multiple internal pipe diameters."
+                        },
+                        {
+                            "title": "Gel Slugs:",
+                            "subtitle": "Gel slugs or PIGs allow for multiple diameter changes and the navigation of tight irregular bends."
+                        },
+                        {
+                            "title": "Plug PIGs:",
+                            "subtitle": "Plug PIGs allow an operator to insert a temporary blockage stopping the flow of product through a pipeline while maintenance can be carried out. "
+                        },
+                        {
+                            "title": "Hyperbaric PIGs:",
+                            "subtitle": "Sudden pressure changes within intelligent PIGs can cause problems for onboard sensors and hardware.  Hyperbaric PIGs allow for the balance and release of extreme internal pressures."
+                        },
+                        {
+                            "title": "Pressure By-Pass PIGs:",
+                            "subtitle": "By-pass PIGs allow for controlled predetermined amounts of product to “by-pass” the sealing cup or sealing disks, resulting in a decrease in tool velocity while maintaining product flow."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

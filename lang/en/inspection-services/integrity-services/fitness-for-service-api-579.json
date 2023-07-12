@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "title": "Fitness For Service (API 579)",
+        "description": "Dexon Technology Inspection Services employs over 80 API certified inspection experts covering Asia Pacific, Africa and Europe and is perfectly positioned to offer API 579 Fitness for Service.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Fitness For Service (API 579)",
+        "content1": {
+            "title": "API 579 FITNESS FOR SERVICE",
+            "subtitle": "Dexon Technology Inspection Services employs over 80 API certified inspection experts covering Asia Pacific, Africa and Europe and is perfectly positioned to offer API 579 Fitness for Service."
+        },
+        "content2": {
+            "title": "Dexon’s Approach",
+            "subtitle": "API 579 is a quantitative engineering evaluation to determine if an in-service piece of equipment is safe and Reliable to operate at specific conditions during a determined time."
+        },
+        "content3": {
+            "title": "Fitness for Service is needed when:",
+            "subtitle1": [
+                {
+                    "text": "An asset lacks original design information or it may have exceeded its useful life."
+                },
+                {
+                    "text": "Assets manufactured before 1987, equipment operate at relatively low temperature – exposed to self-refrigeration"
+                },
+                {
+                    "text": "Decommissioned asset that may be used in a different service"
+                },
+                {
+                    "text": "Equipment operating in either high temperature and/or cyclic Service"
+                },
+                {
+                    "text": "Assets that have undergone any event that might have affected its serviceability like: temperature excursions, overloads, different feed/external environment or a fire."
+                },
+                {
+                    "text": "Inspection findings revealed a condition that may impact the future operation of the asset, such as metal loss, distortion (misalignment, out of roundness, bulges or dents), laminations, cracking or blisters."
+                }
+            ],
+            "subtitle2": "Dexon uses the diversity of its qualified, certified and multidiscipline workforce to deliver Fitness for Service programs across all assets and operations."
+        }
+    }
+}

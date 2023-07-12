@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "title": "About Us | We are Dexon Intelligent Pigging Company",
+        "description": "Dexon Technology PLC to be an international leader in technology innovation while providing comprehensive ethical engineering and inspection services.",
+        "keyword": ""
+    },
+    "hero": {
+        "header": "About us",
+        "title": "We are Dexon Intelligent Pigging Company",
+        "subtitle": "The Company Behind The Successful Product"
+    },
+    "video": "https://www.youtube.com/embed/GrQFW3AaObo",
+    "body": {
+        "content1": {
+            "header": "Who We Are",
+            "title": "About us",
+            "subtitle": [
+                {
+                    "text": "Dexon Technology PLC to be an international leader in technology innovation while providing comprehensive ethical engineering and inspection services."
+                }
+            ],
+            "experience": {
+                "header": "Experience",
+                "title": "Inline Inspection Experience"
+            },
+            "card": [
+                {
+                    "value": "471",
+                    "text": "Number Of Pipelines Inspected"
+                },
+                {
+                    "value": "94%",
+                    "text": "First Run Success Percentage"
+                },
+                {
+                    "value": "4155",
+                    "text": "Total Km Of Pipelines Inspected"
+                }
+            ]
+        },
+        "content2": {
+            "header": "Future",
+            "title": "Where We Are Going",
+            "subtitle": [{
+                    "text": "Creating and developing cutting-edge technological innovations to meet customer needs while fostering trust and adhering to strict agreed quality standards"
+                }
+            ]
+        },
+        "content3": {
+            "header": "Development",
+            "title": "DEXON Technology",
+            "subtitle": [{
+                    "text": "Inspection tools are developed onsite from initial inspection technique research all the way through to testing and implementation."
+                },
+                {
+                    "text": "In-house research development and engineering teams are responsible for tool development as well as offering customized tool modification for the inspection of challenging pipelines. Continuously pushing the limits of what is thought to be possible and innovating to meet client inspection needs and ensure the safe efficient operation of client assets."
+                }
+            ]
+        },
+        "content4": {
+            "header": "Our Job",
+            "title": "Career Opportunities",
+            "subtitle": [{
+                    "text": "DEXON Technology PLC is a leading technology company providing non-destructive testing, in-line inspection, and asset integrity management services globally. Located on Thailand’s eastern seaboard, DEXON’s headquarters houses over 400 personnel in addition to extensive testing and research development and engineering facilities."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "title": "Dexon Technology - Inline Inspection Technology",
+    "description": "DEXON provides inspection solutions, pipeline integrity management and NDT services to many of the worlds leading multinational companies in the Oil Gas, Mining, Petrochemical, Refinery and Fabrication industries.",
+    "keyword": "dexon,dexon technology,ndt,ndt services,Pipeline Inspection,Integrity Services,Smart pigging,pigging,pipeline pigging,intelligent pigging,pipeline pigging products,pipeline pigging and integrity management,pipeline pigging companies"
+  },
+  "content": {
+    "hero": {
+      "header": "Intelligent pigging",
+      "title": "We are Dexon Technology",
+      "subtitle": "Dexon Technology PLC to be an international leader in technology innovation while providing comprehensive ethical engineering and inspection services."
+    },
+    "section1": {
+      "title": "More Than 20 Years of Inspection Experience",
+      "subtitle": "Guaranteed Inspection results you can trust, with the following international certifications, awards, and memberships"
+    },
+    "section2": {
+      "header": "Our Technology",
+      "title": "Dexon in-line Inspection Technology",
+      "subtitle": "Dexon Technology provides a full range of Intelligent Pigging solutions for pipelines of any diameter and length. Our tools and technologies covers both liquid and gas product, carbon and stainless steels, plastic materials, and pipelines internally lined with HDPE, cement or CRA."
+    },
+    "section3": {
+      "header": "Our Service",
+      "title": "We provide the best services",
+      "card": [{
+          "title": "Dexon Inspection Services",
+          "subtitle": "Dexon specializes in providing global Inspection Services to the Oil & Gas, Petrochemical, Refinery, Fabrication, and Mining Industries."
+        },
+        {
+          "title": "Dexon Pipeline Services",
+          "subtitle": "Intelligent pigging utilizes an inspection probe commonly known as a “smart” pig to identify, size and locate defects"
+        },
+        {
+          "title": "Research, Development & Engineering",
+          "subtitle": "Developing In-line Inspection Technology, Robotics And Customized Inspection."
+        },
+        {
+          "title": "Dexon Training Center (DTC)",
+          "subtitle": "We continuously work on setting up new courses and trainings"
+        }
+      ]
+    },
+    "section4": {
+      "header": "Our Experience",
+      "title": "Inline Inspection Experience",
+      "subtitle1": "Why is the success rate not 100%?",
+      "subtitle2": "Many of the pipelines Dexon inspect are “unpiggable pipelines”, “non-standard pipelines” or pipelines that have never been inspected before. This increases the risk of not achieving a successful inspection on the first try. Dexon will however never give up until successful completion has been achieved.",
+      "card": [{
+          "text": "NUMBER OF PIPELINES INSPECTED"
+        },
+        {
+          "text": "FIRST RUN SUCCESS PERCENTAGE"
+        },
+        {
+          "text": "TOTAL KM OF PIPELINES INSPECTED"
+        }
+      ]
+    },
+    "section5": {
+      "header": "Our Development",
+      "title": "Research, Development & Engineering",
+      "subtitle1": "Dexon’s Research, Development and Engineering team specializes in the development of unique world first intelligent inline inspection solutions.",
+      "subtitle2": "Contact our RD&E team to discuss tailored solutions to secure your asset integrity and meet your unique inspection needs."
+    },
+    "section6": {
+      "header": "News & Projects",
+      "title": "Explore our news and events",
+      "subtitle": "Follow news and activities from Dexon Technology",
+      "card": [{
+          "title": "Live Furnace In-line Inspection Demonstration",
+          "subtitle": "Dexon Technology hosts integrity engineers from Thai Oil for a live furnace In-Line Inspection (ILI) demonstration and facilities tour"
+        },
+        {
+          "title": "Dexon’s Challenging Pipeline Inspection Archive",
+          "subtitle": "Small Diameter (3”) Long-Range Unpiggable In-line Inspection in South America – DEXON’s Challenging Inspection Archive"
+        },
+        {
+          "title": "Dexon Sports Day Team Building and New Years Party",
+          "subtitle": "On Friday the 20th of January 2023 Dexon Technology held the annual Dexon sports day"
+        }
+      ]
+    },
+    "section7": {
+      "header": "Case Studies",
+      "title": "Explore Our Case Studies",
+      "card": [{
+          "title": "Live Furnace In-line Inspection Demonstration",
+          "subtitle": "Dexon was called on to perform an offline inspection of a 6” riser on an offshore platform. Visual inspection confirmed that severe corrosion was likely"
+        },
+        {
+          "title": "Dexon’s Challenging Pipeline Inspection Archive",
+          "subtitle": "Dexon was contracted to develop and build a pipeline inspection tool capable of measuring the condition and remaining wall thickness of high-density polyethylene (HDPE) pipelines"
+        },
+        {
+          "title": "Bulk Storage Terminal - Airport",
+          "subtitle": "When precise measurements for verification of the remaining wall thickness of jet fuel lines running from bulk storage tanks"
+        }
+      ]
+    },
+    "section8": {
+      "header": "Our Customer",
+      "title": "Global Operetions"
+    }
+  }
+}

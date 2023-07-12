@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "title": "Oil Tank Truck inspection",
+        "description": "Oil Tank Truck need to be periodically inspected follow regulation of Department of Energy Business, TheMinistry of Energy of the Kingdom of Thailand.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Oil Tank Truck inspection",
+        "content1": {
+            "title": "What does our Oil Tank Truck inspection do ?",
+            "sublist": {
+                "content1": {
+                    "title": "Oil Tank Truck",
+                    "subtitle": [
+                        {
+                            "text": "The moving of fuel oil from one location to another either by land, water, pipeline or other means."
+                        },
+                        {
+                            "text": "Oil Tank Truck need to be periodically inspected follow regulation of Department of Energy Business, TheMinistry of Energy of the Kingdom of Thailand."
+                        }
+                    ]
+                },
+                "content2": {
+                    "title": "Oil Tank Truck Inspection By Laws",
+                    "subtitle1": "Regulation of Department of Energy Business, The Ministry of Energy of the Kingdom of Thailand following",
+                    "subtitle2": [
+                        {
+                            "text": "Annual Inspection"
+                        },
+                        {
+                            "text": "6 Yearly Inspection"
+                        }
+                    ]
+                },
+                "content3": {
+                    "title": "Annual Inspection",
+                    "subtitle1": "Inspection Methods for Annual Inspection",
+                    "subtitle2": "Visual Inspection at Tank shell, Fuel pipe system and external welding"
+                },
+                "content4": {
+                    "title": "6 Yearly Inspection",
+                    "subtitle1": "Inspection Methods for 6 Yearly Inspection",
+                    "subtitle2": [
+                        {
+                            "text": "Visual Inspection at Tank shell, Fuel pipe system and external welding"
+                        },
+                        {
+                            "text": "Leak testing on shell, pipe system, safety system and Ventilation."
+                        },
+                        {
+                            "text": "Leak testing will be used inert gas or hydrostatic testing"
+                        }
+                    ]
+                },
+                "content5": {
+                    "title": "Inspection Part",
+                    "subtitle": [
+                        {
+                            "text": "Compartment"
+                        },
+                        {
+                            "text": "Manhole"
+                        },
+                        {
+                            "text": "Vent"
+                        },
+                        {
+                            "text": "Top Loading"
+                        },
+                        {
+                            "text": "Bottom Loading"
+                        },
+                        {
+                            "text": "Dome Cover Close"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

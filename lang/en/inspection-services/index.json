@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "title": "Inspection Services",
+        "description": "Dexon specializes in providing global Inspection Services to the Oil & Gas, Petrochemical, Refinery, Fabrication, and Mining Industries. With highly qualified inspectors in all disciplines and a focus on Advanced Inspection techniques, we are able to tailor inspection solutions to meet our clients’ needs no matter where the location or what the circumstances.",
+        "keyword": ""
+    },
+    "body": {
+        "explore": "Explore Our Inspection Services",
+        "title": "Inspection Services",
+        "content1": {
+            "header": "Over 38 year experiences in Non Destructive Inspection Services",
+            "title": "INSPECTION & MAINTENANCE SERVICES",
+            "subtitle": "Dexon specializes in providing global Inspection Services to the Oil & Gas, Petrochemical, Refinery, Fabrication, and Mining Industries. With highly qualified inspectors in all disciplines and a focus on Advanced Inspection techniques, we are able to tailor inspection solutions to meet our clients’ needs no matter where the location or what the circumstances."
+        },
+        "card": [
+            {
+                "title": "Integrity Services",
+                "subtitle": "Maintaining your assets in a fit-for-service condition is crucial in today’s competitive environment. The most efficient way to achieve a safe and reliable operation of your facilities and equipment is through an effective asset management program that ensures maximum safety, high reliability and technical integrity in combination with regulatory compliance."    
+            },
+            {
+                "title": "Inspection Services (RMI)",
+                "subtitle": "The American Petroleum Institute (API) establishes standards that are used internationally within the oil and gas industry and are designed to help users improve the efficiency and cost-effectiveness of their operations, comply with legislative and regulatory requirements, and safeguard health, ensure safety, and protect the environment. Dexon uses these standards to maximize the efficiency and value of it’s API inspection services and to ensure the safety of all personnel involved in API related work activities."
+            },
+            {
+                "title": "Advanced NDT Services",
+                "subtitle": "Engineering industries often find that problems arise for which existing methods fail to provide the immediate answer. To solve these kinds of problem, innovative thinking that can produce novel techniques and new equipment is often required."
+            },
+            {
+                "title": "Basic NDT Service",
+                "subtitle": "Non Destructive Testing (NDT) is the branch of engineering concerned with all methods of detecting and evaluating flaws in materials without causing damage. "
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "meta": {
+        "title": "Sustainability Strategy",
+        "description": "Dexon Technology Public Company Limited (“Company”) and its subsidiaries Give importance to the operation business and create sustainable growth for the business By taking into account the impact on the economy, environment and society in all aspects under good corporate governance with ethics along the value chain and taking into account the impact on There are stakeholders of all parties involved. The Company therefore has established a sustainable development policy.",
+        "keyword": ""
+    },
+    "btn": "Sustainability Document",
+    "hero": {
+        "header": "Goals",
+        "title": "Sustainability",
+        "title_bottom": "Strategy",
+        "card": {
+            "header": "Watch Video",
+            "title_top": "grow to esg",
+            "title_bottom": "strategy"
+        }
+    },
+    "body": {
+        "content1": {
+            "header": "Sustainability",
+            "title": "Objectives of Sustainable Development Policy",
+            "subtitle": [{
+                "text": "Dexon Technology Public Company Limited (“Company”) and its subsidiaries Give importance to the operation business and create sustainable growth for the business By taking into account the impact on the economy, environment and society in all aspects under good corporate governance with ethics along the value chain. and taking into account the impact on There are stakeholders of all parties involved."
+                },
+                {
+                    "text": "The Company therefore has established a sustainable development policy. as a guideline for operates the business of the Company and its subsidiaries in various fields to be in the same direction and respond to goals Sustainable development in line with international standards according to the Sustainable Development Goals of the United Nations (UN Sustainable Development Goals 2030: SDG2030), including the framework or level standards other sustainable development-related international standards Combined with the philosophy and commitment to development. the company’s sustainability to become a standard for use in business operations with stability and sustainability"
+                }
+            ]
+        },
+        "content2": {
+            "header": "Overview",
+            "title": "Grow to ESG Strategy for Sustainability in Business",
+            "card": [
+                {
+                    "id": "environment-commitment",
+                    "title": "Environment",
+                    "subtitle": "The company operates its business with responsibility to all groups of stakeholders and society as a whole. Give importance to human resource development both inside and outside the company. Encourage employees to develop Potential and advancement in work knowledge support or activities in the community to improve the quality of life run business with the aim that the industry can co-exist with the community and happy society and raise the quality of society together"
+                },
+                {
+                    "id": "social-commitment",
+                    "title": "Social",
+                    "subtitle": "The company operates its business with attention to the impact on the environment. meet opportunities and challenges effectively preventing business from environmental factors such as climate change limited natural resources by supporting and promoting the cost-effective and efficient use of resources, as well as supporting environmentally friendly business operations. and support environmental activities"
+                },
+                {
+                    "id": "governance-commitment",
+                    "title": "Governance",
+                    "subtitle": "The company will conduct business in accordance with the principles of ethics in business operations. Fostering a strong corporate governance and risk management culture Under the framework of business ethics and support guidelines for compliance with laws, rules, regulations, methods, international standards and anti-corruption guidelines. Including transparent and verifiable operations."
+                }
+            ]
+        },
+        "content3": {
+            "header": "Partnership",
+            "title": "Sustainable Development Policy",
+            "subtitle": "The company aims to create a balance between the business operations of the organization. And take into account the economic, social and environmental impacts that occur throughout the business chain. and bring the knowledge gained from business operations to transfer to the stakeholders All stakeholders to contribute to society and sustainability The Company therefore has established a sustainable development policy as a guideline for business operations of the Company and its subsidiaries. that covers various important points"
+        },
+        "content4": {
+            "header": "Documents",
+            "title": "Sustainability reports, policies and documents"
+        }
+    }
+}

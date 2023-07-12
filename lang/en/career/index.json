@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "title": "Career Opportunities",
+        "description": "",
+        "keyword": ""
+    },
+    "hero": {
+        "header": "dexon technology",
+        "title": "Career Opportunities",
+        "subtitle": ""
+    },
+    "btn": {
+        "see": "See jobs at Dexon",
+        "show": "Show Location"
+    },
+    "body": {
+        "content1": {
+            "header": "Who We Are",
+            "title": "We International Leader Providing Non-Destructive Testing, In-Line Inspection Services.",
+            "subtitle": [{
+                    "text": "DEXON Technology PLC is a leading technology company providing non-destructive testing, in-line inspection, and asset integrity management services globally."
+                },
+                {
+                    "text": "Located on Thailand’s eastern seaboard, DEXON’s headquarters houses over 400 personnel in addition to extensive testing and research development, and engineering facilities. Inspection tools are developed onsite from initial inspection technique research all the way through to testing and implementation."
+                }
+            ]
+        },
+        "content2": {
+            "header": "Our Benefits",
+            "title": "Benefits of Working at Dexon Technology",
+            "subtitle": [{
+                    "title": "Competitive Compensation Packages Include:",
+                    "list": [{
+                            "text": "Annual Leave (14 days/year)"
+                        },
+                        {
+                            "text": "Traditional Holidays (15-18 days/year)"
+                        },
+                        {
+                            "text": "Marriage Leave / Military Leave / Priests Leave"
+                        },
+                        {
+                            "text": "Health Insurance"
+                        },
+                        {
+                            "text": "Accident Insurance"
+                        },
+                        {
+                            "text": "Social Security"
+                        },
+                        {
+                            "text": "The annual health check-up"
+                        },
+                        {
+                            "text": "Provident Fund"
+                        },
+                        {
+                            "text": "Maternity allowance / Funeral grants"
+                        },
+                        {
+                            "text": "Cover all and Safety Equipment (for Inspectors)"
+                        },
+                        {
+                            "text": "Fuel expense (in case use for company business)"
+                        },
+                        {
+                            "text": "Training (External/Internal)"
+                        },
+                        {
+                            "text": "Uniform"
+                        }
+                    ]
+                },
+                {
+                    "title": "What To Expect From Our Company",
+                    "list": [{
+                            "text": "International working environment"
+                        },
+                        {
+                            "text": "Friendly team based approach"
+                        },
+                        {
+                            "text": "Comprehensive health insurance package"
+                        },
+                        {
+                            "text": "Excellent career opportunities"
+                        },
+                        {
+                            "text": "Empowerment to make decisions"
+                        },
+                        {
+                            "text": "Relevant visas and work permit"
+                        },
+                        {
+                            "text": "Offices in Rayong and Singapore"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

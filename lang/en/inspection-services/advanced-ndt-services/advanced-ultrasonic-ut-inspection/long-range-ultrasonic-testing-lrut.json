@@ -1,0 +1,165 @@
+{
+    "meta": {
+        "title": "Long Range Ultrasonic Testing (LRUT)",
+        "description": "Long Range Ultrasonic Testing is an advanced technology for detecting and analysing corrosion where access is difficult.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Long Range Ultrasonic Testing (LRUT)",
+        "content1": {
+            "title": "Long Range Ultrasonic Testing – NDT Inspection Technique",
+            "subtitle": "Long Range Ultrasonic Testing is an advanced technology for detecting and analysing corrosion where access is difficult."
+        },
+        "content2": {
+            "title": "Benefits",
+            "subtitle": [{
+                    "text": "Low cost screening with 100% coverage"
+                },
+                {
+                    "text": "Focussing capability to evaluate corrosion distribution around pipe circumference"
+                },
+                {
+                    "text": "Typical test range 60m from single location, ideal conditions can achieve longer distance."
+                },
+                {
+                    "text": "Testing of pipes up to 48” diameter"
+                },
+                {
+                    "text": "Proven capability on pipe in service up to 125 oC"
+                },
+                {
+                    "text": "Detection of metal loss > 3%"
+                },
+                {
+                    "text": "Ideal where conventional testing is impossible or very costly e.g. clamped,insulated, elevated, sleeved or buried pipes."
+                }
+            ]
+        },
+        "content3": {
+            "title": "Process",
+            "subtitle": [{
+                    "text": "Low frequency ultrasound is transmitted and received from a single location"
+                },
+                {
+                    "text": "The guided waves used travel long distances, even in buried, submerged or insulated pipe"
+                },
+                {
+                    "text": "Reponse from flaws is a function of their depth and circumferential extent"
+                },
+                {
+                    "text": "Focussing allows ultrasound energy to be concentrated into a small region of pipe for detailed localised inspection"
+                },
+                {
+                    "text": "Teletest® uses ‘multi-mode’ technology to characterise and quantify any flaw detected"
+                },
+                {
+                    "text": "A laptop PC runs dedicated Teletest® data acquisition and analysis software. The flaw detector communicates with the PC via a high-speed data link"
+                }
+            ]
+        },
+        "content4": {
+            "title": "Applications",
+            "sublist": [{
+                    "title": "Pipe types",
+                    "subtitle": [
+                        {
+                            "text": "Seamless"
+                        },
+                        {
+                            "text": "Longitudinally and spiral welded"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pipe materials",
+                    "subtitle": [
+                        {
+                            "text": "Ferritic and stainless steels"
+                        },
+                        {
+                            "text": "Other metals"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pipe situations",
+                    "subtitle": [
+                        {
+                            "text": "Buried"
+                        },
+                        {
+                            "text": "Air-to-soil interface"
+                        },
+                        {
+                            "text": "Air-to-water interface"
+                        },
+                        {
+                            "text": "Elevated on racks"
+                        },
+                        {
+                            "text": "Sleeved in road crossings"
+                        },
+                        {
+                            "text": "Wall, bund or berm penetrations"
+                        }
+                    ]
+                },
+                {
+                    "title": "Flaws found",
+                    "subtitle": [
+                        {
+                            "text": "External corrosion"
+                        },
+                        {
+                            "text": "Corrosion under insulation (CUI)"
+                        },
+                        {
+                            "text": "Internal corrosion or erosion"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pipe coatings etc.",
+                    "subtitle": [
+                        {
+                            "text": "Foam or mineral wool"
+                        },
+                        {
+                            "text": "PVC, epoxy, coal tar epoxy"
+                        },
+                        {
+                            "text": "Paint"
+                        },
+                        {
+                            "text": "Bitumastic wrapping"
+                        },
+                        {
+                            "text": "Transmission and distribution lines"
+                        },
+                        {
+                            "text": "Refinery and Chemical plant"
+                        },
+                        {
+                            "text": "Offshore risers"
+                        },
+                        {
+                            "text": "Jetty lines"
+                        },
+                        {
+                            "text": "Tank farm link lines"
+                        },
+                        {
+                            "text": "Power plant service pipe"
+                        },
+                        {
+                            "text": "Storage sphere support legs"
+                        },
+                        {
+                            "text": "Headers"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

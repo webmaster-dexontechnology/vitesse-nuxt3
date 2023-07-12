@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "title": "Conventional Radiographic Testing",
+        "description": "In radiographic testing (RT), a source of X or gamma radiation is used to produce an image of the component on photographic film (by placing the radiation source on one side of the component and the film on the other). Following exposure to radiation, the film is then processed and then viewed on an illuminated screen for visual interpretation of the image. Radiography gives a permanent record (the exposed film), which is a major advantage of the method, and is widely used to detect volumetric flaws (surface and internal).",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Conventional Radiographic Testing",
+        "content1": {
+            "title": "Radiographic Testing (RT)",
+            "subtitle": [{
+                    "text": "In radiographic testing (RT), a source of X or gamma radiation is used to produce an image of the component on photographic film (by placing the radiation source on one side of the component and the film on the other). Following exposure to radiation, the film is then processed and then viewed on an illuminated screen for visual interpretation of the image. Radiography gives a permanent record (the exposed film), which is a major advantage of the method, and is widely used to detect volumetric flaws (surface and internal)."
+                },
+                {
+                    "text": "X-ray equipment ranges from about 20kV to 20MV (the higher the voltage the greater the penetrating power of the radiation and the greater the thickness of component that can be tested). Gamma radiography is carried out using radioactive isotope sources (e.g. Cobalt-60, lridium-192) although its sensitivity is generally less than that achievable by X-ray radiography. lt is widely used for fieldwork because of its greater portability."
+                },
+                {
+                    "text": "The reliability and interpretive value of radiographic images depend on their sharpness and contrast and this is important for the inspector to detect flaws accurately. An Image Quality Indicator (IQI) is placed on the part so that its image will be produced on the radiograph and a standard for sharpness and contrast can be determined."
+                },
+                {
+                    "text": "One drawback of Radiographic Testing is the inherent danger of using a radio-active source which requires stringent safety measures and means a large area around the RT testing site must be closed off before any inspection can start. Recent advances in technology have allowed for safer radiation sources that are suitable for many RT inspections and Dexon now offers these solutions as the core focus of our RT services."
+                },
+                {
+                    "text": "Dexon’s focus has always been on using technology to improve inspection services for our client’s needs and when it comes to Radiographic Testing there is no exception. Dexon combines Computed Radiography with Baby Scar source technology to increase inspection efficiencies and reduce down time on work sites."
+                },
+                {
+                    "text": "Computed radiography uses phosphor storage plates to capture and store images on a computer as opposed to traditional film. This allows for lower exposure times and easier image processing. Small Controlled Area Radiography (SCAR) is a safer form of radioactive source that reduces the field of exposure and thus minimizes disruption to other activities."
+                },
+                {
+                    "text": "By using computed radiography in combination with SCAR technology we are able to perform RT testing without the need to shut down a large area and thereby save our clients’ time and money. Contact Dexon to find out more about the latest Computer Radiography testing methods."
+                }
+            ]
+        }
+    }
+}

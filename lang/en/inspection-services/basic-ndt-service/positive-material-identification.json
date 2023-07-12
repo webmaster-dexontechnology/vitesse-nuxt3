@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "title": "Positive Material Identification",
+        "description": "The Dexon used X-MET 3000T is a portable, wide range Positive Material Identification (PMI) elemental analyser intended mainly for alloy applications. It is based on energy dispersive X-ray fluorescence technology and the use of X-ray tube. The unit provides a quick field or laboratory method for chemical analysis or sample identification (sorting) directly from metal samples of various forms. It obtains the grade ID of a sample in two to five seconds, with full report in five to 10 seconds. The reports are automatically generated and identify all main element groups.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Positive Material Identification",
+        "content1": {
+            "title": "What does our Positive Material Identification do ?",
+            "subtitle": [{
+                    "text": "The Dexon used X-MET 3000T is a portable, wide range Positive Material Identification (PMI) elemental analyser intended mainly for alloy applications. It is based on energy dispersive X-ray fluorescence technology and the use of X-ray tube. The unit provides a quick field or laboratory method for chemical analysis or sample identification (sorting) directly from metal samples of various forms. It obtains the grade ID of a sample in two to five seconds, with full report in five to 10 seconds. The reports are automatically generated and identify all main element groups."
+                },
+                {
+                    "text": "All stored data can be transferred to a PC via USVB cable. The unit is small and portable and ideal for data collection and storage in the field and is operated by only 1 inspector. The accuracy of the PMI unit is +/- 5%. The unit is calibrated by a 3rd party yearly and is accurate for elements including Cr, Ni, Mo, Ti, Cb, Ta, W, Co, V. Approximately 100 locations can be analysed per day. Grinding/preparations of sample surface are required prior to inspection."
+                }
+        ]
+        },
+        "content2": {
+            "title": "The X-MET 3000T is factory calibrated for:",
+            "subtitle": [{
+                    "text": "Low alloy steels"
+                },
+                {
+                    "text": "Stainless steels"
+                },
+                {
+                    "text": "Tool steels"
+                },
+                {
+                    "text": "Nickel alloys"
+                },
+                {
+                    "text": "Cobalt alloys"
+                },
+                {
+                    "text": "Copper alloys"
+                }
+            ]
+        }
+    }
+}

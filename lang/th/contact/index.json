@@ -1,0 +1,89 @@
+{
+    "meta": {
+        "title": "Contact us",
+        "description": "Let us know how we can help you with your existing or future projects, and one of our sales or support representatives will contact you shortly.",
+        "keyword": ""
+    },
+    "hero": {
+        "header": "Customer support",
+        "title": "How can we help you?",
+        "subtitle": "Let us know how we can help you with your existing or future projects, and one of our sales or support representatives will contact you shortly."
+    },
+    "form": {
+        "title": "How can we help you?",
+        "fill": {
+            "fullname": "full name",
+            "email": "email address",
+            "phone": "phone number",
+            "company_name": "Company Name",
+            "company_address": "Company Address",
+            "service_type": [
+                {
+                    "value": "Select Service Type"
+                },
+                {
+                    "value": "Inline Inspection Services (Pigging)"
+                },
+                {
+                    "value": "Conventional NDT"
+                },
+                {
+                    "value": "Advanced NDT"
+                },
+                {
+                    "value": "Training"
+                },
+                {
+                    "value": "Asset Integrity"
+                }
+            ],
+            "details": "Project Details",
+            "location": "Project Location",
+            "preferred": [
+                {
+                    "value": "Select Preferred Technology"
+                },
+                {
+                    "value": "Ultrasonic-Rotating (High Resolution Short lines 3 inch to 62 inch pipelines)"
+                },
+                {
+                    "value": "Ultrasonic-Multi Channel (High Resolution High Speed Longer Lines 3 to 62 inch pipelines)"
+                },
+                {
+                    "value": "Magnetic Flux Leakage (MFL Long distances)"
+                },
+                {
+                    "value": "Caliper without IMU"
+                },
+                {
+                    "value": "Caliper with STD IMU"
+                },
+                {
+                    "value": "Caliper with Military Grade IMU"
+                },
+                {
+                    "value": "UT crack tool"
+                }
+            ],
+            "personal_data": "I allow Dexon Technology Public Company Limited to collect and use the information I have provided to be used to contact and present product information. Click here to view our",
+            "privacy_policy": {
+                "url": "/privacy-policy",
+                "text": "Privacy Policy"
+            }
+        },
+        "placeholder": {
+            "fullname": "Enter full name",
+            "email": "yourname{'@'}example.com",
+            "phone": "Enter phone number",
+            "company_name": "Enter Company Name",
+            "company_address": "Enter Company Address",
+            "details": "Enter Project Details",
+            "location": "Enter Project Location",
+            "service_type": "Service Type",
+            "preferred_technology": "Preferred Technology",
+            "privacy_policy": {
+                "text": "Personal Data and Privacy Policy"
+            }
+        }
+      }
+}

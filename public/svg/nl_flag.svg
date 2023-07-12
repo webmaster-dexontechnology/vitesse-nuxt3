@@ -1,0 +1,14 @@
+<svg id="a" data-name="4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 33.6 19.6">
+  <defs>
+    <clipPath id="c">
+      <rect width="33.6" height="19.6" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="b" data-name="NETHERLANDS">
+    <g clip-path="url(#c)">
+      <rect width="33.6" height="19.6" fill="#314588"/>
+      <rect width="33.6" height="13.1" fill="#fff"/>
+      <rect width="33.6" height="6.5" fill="#9f1330"/>
+    </g>
+  </g>
+</svg>

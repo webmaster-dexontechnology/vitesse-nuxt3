@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "title": "Pulsed Eddy Current/LYFT",
+        "description": "Eddy current testing (EC) or Eddy Current Surface Testing is used to inspect metallic parts and perform highly reliable flaw detection and alloy sorting of surface and near-surface defects. Eddy current probes generate magnetic fields that induce current that flows in a test piece influencing the magnetic field and magnitude and phase of voltage in the coil.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Pulsed Eddy Current/LYFT",
+        "content1": {
+            "title": "EDDY CURRENT TESTING",
+            "subtitle1": [
+                {
+                    "text": "Eddy current testing (EC) or Eddy Current Surface Testing is used to inspect metallic parts and perform highly reliable flaw detection and alloy sorting of surface and near-surface defects. Eddy current probes generate magnetic fields that induce current that flows in a test piece influencing the magnetic field and magnitude and phase of voltage in the coil."
+                },
+                {
+                    "text": "Eddy current testing is widely used in the inspection industry and in other manufacturing and service environments that require inspection of thin metal for flaws and defects. In addition to crack detection in metal sheets and tubing, eddy current can be used for certain metal thickness measurements and one of its advantages is that surface coatings (up to a certain thickness) do not need to be removed prior to inspection."
+                }
+            ],
+            "subtitle2": {
+                "content1": "The Eddy Current Testing technique can be used to examine large areas quickly and doesn’t need couplant as is required in",
+                "content2": "UT inspections.",
+                "content3": "The method is limited to materials that conduct electricity and is primarily used for surface or near surface flaw detection and inspection of surfaces at high temperature is possible."
+            },
+            "subtitle3": "Dexon carries a full range of portable flaw detectors available to serve the broadest range of applications and out in-house inspectors are qualified and experienced in eddy current testing."
+        }
+    }
+}

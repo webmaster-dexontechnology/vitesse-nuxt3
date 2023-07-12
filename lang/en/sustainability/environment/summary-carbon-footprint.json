@@ -1,0 +1,61 @@
+{
+    "meta": {
+        "title": "Summary Carbon Footprint",
+        "description": "Summary of Dexon Technology Public Company Limited – From the results of the collection of greenhouse gas emissions from January to the present of September 2022, it was found that",
+        "keyword": ""
+    },
+    "body": {
+        "content1": {
+            "title": "Summary Carbon Footprint",
+            "list":[
+                {
+                    "title": "Summary for Jan- Sep 2022",
+                    "subtitle": [
+                        {
+                            "text": "Summary of Dexon Technology Public Company Limited – From the results of the collection of greenhouse gas emissions from January to the present of September 2022, it was found that",
+                            "sublist": [
+                                {
+                                    "text": "Direct greenhouse gas emissions 3,742.35 tons (or kg) CO2 equivalent"
+                                },
+                                {
+                                    "text": "The amount of indirect greenhouse gas emissions is 238.07 tons (or kilograms) of carbon dioxide equivalent."
+                                },
+                                {
+                                    "text": "Other indirect greenhouse gas emissions 15.19 tons (or kg)"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "It was found that the direct emissions of direct gas emissions were the largest. This is a fundamental factor that is necessary for the business of the organization. But at the same time, the company has tried Find practical guidelines and strategies to reduce greenhouse gas emissions as well as create awareness and participation among employees at all levels. to reduce greenhouse gas emissions at the same time.",
+                            "image": [
+                                {
+                                    "url": "/dexon/sustainability/chart_gseylx.webp"
+                                }
+                            ],
+                            "sublist": [
+                                {
+                                    "text": "Upgrading “Green Industry” Certificate to Level 3"
+                                },
+                                {
+                                    "text": "Participate “Waste Management” Project organized by the Department of Industrial Works"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Summary for 2023",
+                    "subtitle": [
+                        {
+                            "image": [
+                                {
+                                    "url": "/dexon/sustainability/dashboard_in1fdj.webp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

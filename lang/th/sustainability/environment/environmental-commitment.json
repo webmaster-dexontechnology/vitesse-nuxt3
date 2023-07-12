@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "title": "Environmental Commitment",
+        "description": "",
+        "keyword": ""
+    },
+    "body": {
+        "content1": {
+            "title": "Environmental Commitment",
+            "card": [{
+                    "text": "Carbon emissions"
+                },
+                {
+                    "text": "Energy efficiency"
+                },
+                {
+                    "text": "Waste management"
+                },
+                {
+                    "text": "Pollution mitigation"
+                }
+            ],
+            "list":[
+                {
+                    "title": "Greenhouse Gas Reduction Activities",
+                    "image": "/dexon/sustainability/environment_mxcfpr.webp"
+                },
+                {
+                    "title": "Year 2022 – 2023, the company will start collecting greenhouse gas emission data.",
+                    "sublist": [{
+                            "text": "To use as a base year for setting goals to reduce greenhouse gas emissions in 2024."
+                        },
+                        {
+                            "text": "To verify and certify the carbon footprint results from the Greenhouse Gas Management Organization. (public organization)"
+                        },
+                        {
+                            "text": "Upgrading “Green Industry” Certificate to Level 3"
+                        },
+                        {
+                            "text": "Participate “Waste Management” Project organized by the Department of Industrial Works"
+                        }
+                    ],
+                    "image": [
+                        {
+                            "url": "/dexon/sustainability/green_mzwuyg.webp"
+                        },
+                        {
+                            "url": "/dexon/sustainability/award_dso5eg.webp"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

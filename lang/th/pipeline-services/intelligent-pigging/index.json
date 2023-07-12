@@ -1,0 +1,235 @@
+{
+    "meta": {
+        "title": "Intelligent “Smart” Pipeline Pigging Services",
+        "description": "“Intelligent Pigging” also referred to as “Smart Pigging” is an advanced robotic technique that propels a purpose-built pipeline integrity gauge (PIG) unit fitted with a variety of probes and sensors through a pipeline to detect and measure corrosion, metal loss, cracks, dents, deformations, etc. An ILI report will detail all major concerns to the condition and integrity of a pipeline with exact location markers.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Intelligent “Smart” Pipeline Pigging Services",
+        "content1": {
+            "title": "What is Intelligent Pigging ?",
+            "subtitle1": [{
+                    "text_bold": "“Intelligent Pigging”"
+                },
+                {
+                    "text": "also referred to as"
+                },
+                {
+                    "text_bold": "“Smart Pigging”"
+                },
+                {
+                    "text": "is an advanced robotic technique that propels a purpose-built pipeline integrity gauge (PIG) unit fitted with a variety of probes and sensors through a pipeline to detect and measure corrosion, metal loss, cracks, dents, deformations, etc. An ILI report will detail all major concerns to the condition and integrity of a pipeline with exact location markers."
+
+                }
+            ],
+            "subtitle2": "Comparison of Intelligent Pigging Tool Anomaly Detection Capabilities",
+            "table_header": [
+                {
+                    "header": "",
+                    "title": ""
+                },
+                {
+                    "header": "(Metal Loss)",
+                    "title": "UT-R"
+                },
+                {
+                    "header": "(Metal Loss)",
+                    "title": "UT-MC Ring"
+                },
+                {
+                    "header": "(Metal Loss)",
+                    "title": "UT-MC Octopus"
+                },
+                {
+                    "header": "(Crack Detection Sizing & Metal Loss)",
+                    "title": "UT-CS Hawk"
+                },
+                {
+                    "title": "MFL"
+                },
+                {
+                    "title": "Calliper"
+                },
+                {
+                    "title": "UT-MC Furnace Inspection"
+                }
+            ],
+            "table": [
+                {
+                    "name": "ID pitting",
+                    "check1": true,
+                    "check2": true,
+                    "check3": true,
+                    "check4": true,
+                    "check5": true,
+                    "check6": false,
+                    "check7": true
+                },
+                {
+                    "name": "OD pitting",
+                    "check1": true,
+                    "check2": true,
+                    "check3": true,
+                    "check4": true,
+                    "check5": true,
+                    "check6": false,
+                    "check7": true
+                },
+                {
+                    "name": "Axial Cracking",
+                    "check1": true,
+                    "check2": true,
+                    "check3": true,
+                    "check4": true,
+                    "check5": false,
+                    "check6": false,
+                    "check7": false
+                },
+                {
+                    "name": "Circumfrencial Cracking",
+                    "check1": true,
+                    "check2": true,
+                    "check3": true,
+                    "check4": true,
+                    "check5": true,
+                    "check6": false,
+                    "check7": false
+                },
+                {
+                    "name": "ID Corrosion",
+                    "check1": true,
+                    "check2": true,
+                    "check3": true,
+                    "check4": true,
+                    "check5": true,
+                    "check6": false,
+                    "check7": true
+                },
+                {
+                    "name": "OD Corrosion",
+                    "check1": true,
+                    "check2": true,
+                    "check3": true,
+                    "check4": true,
+                    "check5": true,
+                    "check6": false,
+                    "check7": true
+                },
+                {
+                    "name": "Lamination",
+                    "check1": true,
+                    "check2": true,
+                    "check3": true,
+                    "check4": true,
+                    "check5": false,
+                    "check6": true,
+                    "check7": true
+                },
+                {
+                    "name": "Dents",
+                    "check1": true,
+                    "check2": true,
+                    "check3": false,
+                    "check4": false,
+                    "check5": false,
+                    "check6": true,
+                    "check7": true
+                },
+                {
+                    "name": "Buckling",
+                    "check1": true,
+                    "check2": true,
+                    "check3": false,
+                    "check4": false,
+                    "check5": false,
+                    "check6": true,
+                    "check7": true
+                },
+                {
+                    "name": "Ovalities",
+                    "check1": false,
+                    "check2": false,
+                    "check3": false,
+                    "check4": false,
+                    "check5": false,
+                    "check6": true,
+                    "check7": true
+                }
+            ]
+        },
+        "content2": {
+            "title": "ILI Services List",
+            "subtitle": "All intelligent pigging tools are developed in house at Dexon’s production facility and supported by an extensive Research & Development Engineering facility, as well as pipeline test yards where any configuration of pipeline can be simulated and tested prior mobilization to customer pipelines. This ensures that client requirements can be proven and fully met even before site operations begin. Customers defect mechanisms can also be tested to ensure and quantify what kind of defects that can be detected and measured to a certain level of accuracy.",
+            "sublist": [
+                {
+                    "url": "/pipeline-services/intelligent-pigging/ultrasonic-rotary/",
+                    "title": "Dexon’s Ultrasonic Rotary (UT-R) Inline Inspections Tools",
+                    "subtitle": "Offer ultra-high-resolution inspection in short to medium length pipelines. This ILI type has the capability to accurately detect and measure very small defects (smaller than 5mm in diameter). UT-R is especially recommended for older pipelines or pipelines with severe corrosion requiring a higher level of detail and accuracy in corroded areas. This technology is commonly used for offshore riser and mineshaft riser inspection. The system is bi-directional and can easily be adapted as tethered (pushed in/down by liquid and pulled back by the tether) or free swimming."
+                },
+                {
+                    "url": "/pipeline-services/intelligent-pigging/ultrasonic-multi-channel/",
+                    "title": "Dexon’s Ultrasonic Multi-Channel (UT-MC) Inline Inspections Tools",
+                    "subtitle": "offer high-resolution combined with high-speed inspection of pipelines with longer length or high velocity flowing liquid product. Like the UT-R tools this too can run bi-directional if needed and can achieve hundreds of kilometers in conventional mode. The UT-MC series like all Dexon ILI’s meet all requirements of the POF guidelines for accuracy and repeatability."
+                },
+                {
+                    "url": "/pipeline-services/intelligent-pigging/ultrasonic-multi-channel-octopus/",
+                    "title": "Dexon’s Ultrasonic Multi-Channel Octopus (UT-MC Octopus) Inline Inspections Tools",
+                    "subtitle": "were specifically designed to provide improved inspection in challenging products, such as heavy crude, fuel oil, LNG/LPG where high signal attenuation would limit conventional ILI pigging. materials and products such a heavy crude oil."
+                },
+                {
+                    "url": "/pipeline-services/intelligent-pigging/ultrasonic-crack-detection-and-sizing-inline-inspection-tool/",
+                    "title": "Dexon’s Hawk ILI Crack Detection and Sizing System",
+                    "subtitle": "is one of the most accurate crack detection and measurement ILI tools available in the market. The Dexon Crack detection system was developed to accurate detect and measure cracks smaller than 1mm in width and/or length, so that live cracks which are growing year on year can be accurately identified and monitored. This ultra-modern ILI system utilizes auto-analyzing and machine-learning to process big data quickly and allow for detailed verification of critical pipelines."
+                },
+                {
+                    "url": "/pipeline-services/intelligent-pigging/in-line-inspection/",
+                    "title": "Dexon’s Caliper Geometry/Deformation Inline Inspection tools",
+                    "subtitle": "utilize an array of sensors to measure the geometric condition of a pipeline ensuring maximum pipeline efficiency and movement of materials. Caliper pigging in usually used in conjunction with other forms of smart pigging such as MFL and UT ILI or as a quick “illegal hot-tap” detection solution."
+                },
+                {
+                    "url": "/",
+                    "title": "Dexon Technology",
+                    "subtitle": "is a world leader in the inspection of plastics and concrete material pipelines, such as High-Density Polyethylene (HDPE), PU lined pipes and internally concrete coated pipelines. Utilizing specially designed Ultrasonic ILI’s where no hard edges can damage the pipelines, defects such as erosion, tears, mechanical damage, ovality, etc. can readily be detected and measured."
+                },
+                {
+                    "title": "Ultrasonic Furnace (UT-Furnace) Inline Inspection Tools",
+                    "subtitle": "are small UTMC pigs made specifically to safely travel inside small-bore furnace tubes with 1D bends to accurately detect and measure internal and external corrosion, dents, and other types of defects common in furnace/boiler tubes. Specialized Crack detection and measurement tools are also available to support for cracking prone tubes."
+                },
+                {
+                    "url": "/pipeline-services/intelligent-pigging/mfl-pigging/",
+                    "title": "Magnetic Flux Leakage (MFL) Inline Inspection Tools",
+                    "subtitle": "is the most commonly used ILI technique, where magnetic fields are introduced to energize a pipeline and measure the magnetic field leak caused by defects or variations in the nominal wall thickness. MFL ILI is used to detect and quantify corrosion, metal loss as well as geometrical variations. MFL tools are able to travel at greater speeds – up to 5 meter/second in standard edition ILI, in both gas and liquid product pipelines, allowing for rapid inspection screening of very long pipelines."
+                }
+            ]
+        },
+        "content3": {
+            "title": "Pig Launchers and Receivers",
+            "subtitle": "Pig launchers and receivers are used to insert and remove pipeline integrity gauges (pigs) into and out of pipelines without stopping the flow of product. Pigs are propelled through the pipeline utilizing the medium that is in the pipeline eliminating the need shutdowns and allowing for continual pipeline operation. Prior to the use of intelligent pigs pipeline operators must first ensure that the pipeline is clean and free of blockages and debris that may cause the inspection tool to get stuck. To achieve this a variety utility pigs are used including foam pigs, cleaning pigs, and gauging pigs."
+        },
+        "content4": {
+            "title": "Utility Pipeline Inspection Gauging Services",
+            "sublist": [{
+                    "title": "Foam Pigs",
+                    "subtitle": "Foam Pigs are extremely versatile and used for cleaning, dewatering, and drying. Foam pigs are flexible and can navigate irregular pipe environments with a very low risk of getting stuck or cause blockage."
+                },
+                {
+                    "url": "/pipeline-services/intelligent-pigging/caliper-pigging/",
+                    "title": "Cleaning Pigs",
+                    "subtitle": "Cleaning Pigs are utilized throughout a pipeline’s life cycle, from commissioning to decommissioning. Ensuring that a pipeline is clean and free of deposits and build ups is crucial to ensure the pipeline operates at 100% capacity."
+                },
+                {
+                    "title": "Gauging Pigs",
+                    "subtitle": "Gauging Pigs are used during the pre-inspection phase of an inspection.  Gauging pigs are fitted with different sized aluminum discs that bend when coming in contact with obstacles inside of a pipeline.  For this reason, they are run through a pipeline and used to evaluate a pipelines pig passing ability prior to launching larger and more sophisticated Intelligent Pigs."
+                }
+            ]
+        },
+        "content5": {
+            "title": "Progressive Pigging and Unpiggable Pipelines",
+            "subtitle": "Dexon specializes in the development of customized ILI tools and strategies to ensure that any pipeline can be inspected. This refers to the difficulty of pigging older pipelines that weren’t built for modern pigging methods or that have lack of data relating to pipeline features leading to unknowns and possible obstacles to pigging. Dexon’s Progressive Pigging program is designed to ensure that tools never get stuck or stranded inside a pipeline, thus ensuring full operative status at all times. To Dexon there is no such thing as an “unpiggable pipeline”, as there are always options available to inspect and verify the integrity of any pipeline."
+        },
+        "content6": {
+            "title": "Inline Inspection Reporting",
+            "subtitle": "Dexon offers a comprehensive data driven reporting service for all inline inspection runs. All reporting and analysis conform to POF 2016 standard recommendations and specifications and all raw data as well as processed data is openly shared with the customer. An ILI report details all defects found in a pipeline, with detailed description for the top 10 defects being made immediately available for dig/site verification by secondary methods to prove the ILI performance."
+        }
+    }
+}

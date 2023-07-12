@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "title": "Pressure Vesel and Sphere Tank Inspection (API 510) ",
+        "description": "The code API 510 covers maintenance inspection, repair, alteration & operating procedures for pressure vessels used by petroleum & chemical process industries.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Pressure Vesel and Sphere Tank Inspection (API 510) ",
+        "content1": {
+            "title": "API 510 PRESSURE VESSEL INSPECTION",
+            "subtitle": [{
+                "text": "The code API 510 covers maintenance inspection, repair, alteration & operating procedures for pressure vessels used by petroleum & chemical process industries."
+            },
+            {
+                "text": "During an API 510 inspection the inspector will first perform a full visual inspection and understand the vessel history in terms of past inspections and any repairs undertaken. All surfaces must be cleaned and prepared prior to inspection so that visual inspection and UT inspection can be performed."
+            },
+            {
+                "text": "After visual inspection UT thickness measurements will be carried out on the shell, end caps and nozzles of each vessel. Internal surface cracking inspection using MT or PT will be carried out on a percentage of welds in the vessel with special emphasis on longitudinal welds due to their criticality. A full report of the inspection results will be provided outlining all findings and recommended corrective actions."
+            },
+            {
+                "text": "As one of Asia’s largest Inspection Companies Dexon now provide API 510 Pressure Vessel Inspection and Certification services. Accuracy is ensured by the use of high technology data acquisition equipment giving certainty of data integrity. In addition all data will be collected in an online database and handed to client for further monitoring by themselves to aid with future maintenance planning and scheduling."
+            }
+        ]
+        },
+        "content2": {
+            "title": "SPHERE TANK INSPECTIONS",
+            "subtitle": {
+                "content1": "Dexon Technology Services is certified to conduct Sphere Tank inspections in compliance with Thailand’s Department of Energy Business",
+                "content2": "DOEB",
+                "content3": "as well as API510 standards. Dexon provides the highest quality inspection and verification for safe and uninterrupted sphere tank operation."
+            }
+        },
+        "content3": {
+            "title": "Typical AST inspection and verification programs comply both with API and statutory requirements and will normally include the following tests:",
+            "subtitle1": [
+                {
+                    "text": "Sphere Dimension Checks"
+                   },
+                   {
+                    "text": "Sphere Internal and External Visual Inspection"
+                   },
+                   {
+                    "text": "Sphere Support Legs by VT and UTM and Pulsed Eddy Current"
+                   },
+                   {
+                    "text": "Sphere Nozzles and Shell thickness verification by UTM"
+                   },
+                   {
+                    "text": "Sphere Nozzles and Shell weld seams by UT"
+                   },
+                   {
+                    "text": "Sphere Shell Plate butt seams by PAUT"
+                   },
+                   {
+                    "text": "Sphere welds, HAZ and base material by Hardness testing"
+                   },
+                   {
+                    "text": "Sphere Nozzles butt joint which PAUT or UT cannot be performed, shall be performed by RT"
+                   },
+                   {
+                    "text": "Sphere Internal welding seams inspection by MT"
+                   },
+                   {
+                    "text": "Sphere Pressure test by Hydrostatic testing"
+                   },
+                   {
+                    "text": "Sphere witness Safety Relief Valves testing"
+                   },
+                   {
+                    "text": "Sphere Final inspection report to DOEB for approval"
+                   }
+            ],
+            "subtitle2": "With a focus on new and innovative inspection technologies Dexon has inspection systems to efficiently and accurately inspect and assess the integrity of the legs of the sphere tanks through concrete casing and also to tackle the traditional challenges of accessing the hard to reach areas inside the sphere tank.",
+            "subtitle3": {
+                "content1": "Dexon Technology Services has many multi-disciplined",
+                "content2": "API 510",
+                "content3": "certified inspectors and certifies several hundred AST’s every year. We maintain the most advanced inspection/survey systems and inspector training in order to conduct inspection and certifications to the highest standard."
+            }
+        }
+    }
+}

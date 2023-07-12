@@ -1,0 +1,2131 @@
+{
+    "header": {
+        "show": "Show more jobs",
+        "hide": "Hide jobs",
+        "skill": "Your skill",
+        "job": "Your job",
+        "other_job": "Your other job",
+        "who_we_are": "DEXON Technology PLC is a leading technology company providing non-destructive testing, in-line inspection, and asset integrity management services globally. Located on Thailand’s eastern seaboard, DEXON’s headquarters houses over 400 personnel in addition to extensive testing and research development, and engineering facilities. Inspection tools are developed onsite from initial inspection technique research all the way through to testing and implementation.",
+        "what_you_do": "What you do",
+        "what_you_are": "Who you are",
+        "what_other_you_do": "What other you do",
+        "what_competitive": "What you competitive compensation package"
+    },
+    "position": [{
+            "id": "assistant-chief-executive-officer",
+            "type": "assistant",
+            "title": "Assistant Chief Executive Officer",
+            "qualification": [{
+                    "text": "Master’s degree (or higher) from a recognized institution and at least 10 years of Executive Management experience"
+                },
+                {
+                    "text": "Experience in Public Limited Company executive management"
+                },
+                {
+                    "text": "Experience managing 1,000+ workforce"
+                },
+                {
+                    "text": "Executive Presence and ability maintain a calm demeanor in high-stress environments"
+                },
+                {
+                    "text": "Significant Project Management experience on behalf of senior executives."
+                },
+                {
+                    "text": "Superior research, analytical, planning, organizational skills, and detail-orientation"
+                },
+                {
+                    "text": "Strong customer-service orientation"
+                },
+                {
+                    "text": "Ability to manage multiple projects, and competing priorities while adhering to deadlines"
+                },
+                {
+                    "text": "Excellent oral and written communication skills"
+                },
+                {
+                    "text": "Ability to work independently, exercise mature professional judgment, and use discretion"
+                },
+                {
+                    "text": "Comfortable in a team-oriented environment based on open, transparent, continual communication, information sharing, and inclusive decision-making"
+                },
+                {
+                    "text": "Must be open to feedback and professional development"
+                },
+                {
+                    "text": "Must demonstrate utmost integrity; respect for confidential information"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Manage internal and external projects in coordination with other departments and/or organizations on behalf of the CEO."
+                },
+                {
+                    "text": "Develop credibility and authority for the finance leadership team by providing accurate analysis of budgets, reports and financial trends, and operational procedures."
+                },
+                {
+                    "text": "Provide expert financial guidance and advice to others within executive leadership."
+                },
+                {
+                    "text": "Responsibility for strategic policy development, implementation, and delivery, and consistent in regeneration and growth."
+                },
+                {
+                    "text": "Ensure that strategy is effectively delivered into organizational and team objectives and that resources are appropriately allocated against priority outcomes"
+                },
+                {
+                    "text": "Planning, managing, and controlling multiple project schedules and overseeing the completion of deliverables within budget and timescale deadlines."
+                },
+                {
+                    "text": "Managing complex and politically sensitive scenarios by ensuring effective dialogue between all parties."
+                },
+                {
+                    "text": "Ensuring good financial management of projects, overseeing the preparation of capital and revenue targets, monitoring reports, and financial returns to the company."
+                },
+                {
+                    "text": "Monitor organizational performance by tracking progress and ensuring delivery of plans and ensure the leadership team is aware of changes that may affect performance/services."
+                },
+                {
+                    "text": "Procuring the supply of services and works ensuring best practice, value for money, and adherence with legislative requirements, mandatory guidelines, processes, and Financial Regulations"
+                },
+                {
+                    "text": "Create a culture of achievement, fostering on-time, and on-budget quality outcomes in the organization."
+                },
+                {
+                    "text": "Be a key member of the Top Management team and work closely with the Chief Executive Officer."
+                },
+                {
+                    "text": "Ensure clean and transparent business ethics and a strong drive for Green solutions."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "business-development-engineer",
+            "type": "marketing",
+            "title": "Business Development Engineer",
+            "qualification": [{
+                    "text": "At least 3 years in sales and marketing in asset integrity services, inspection services or software development services."
+                },
+                {
+                    "text": "At least 5 years experienced in inspection of Pressure vessel, Piping, Storage Tank, and other static equipment."
+                },
+                {
+                    "text": "Have knowledge and expert in business development for integrity and inspection businesses."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Serves as the lead project engineer for business development in support of new proposals."
+                },
+                {
+                    "text": "Assesses the technical requirements of an RFP (request for proposal) or RFQ (request for quotation); presents to senior management or technical representative the expected technical to fulfill the proposal or quotation and supporting document."
+                },
+                {
+                    "text": "Works alongside engineering management and technical representative subject matter experts to determine systems and products to offer."
+                },
+                {
+                    "text": "Works with customers, sales directors, technical representative, and operation team to ensure a complete understanding and agreement on the technical statement of work."
+                },
+                {
+                    "text": "Determines NRE (non-recurring engineering) costs including items such as tooling, manpower, development fees, services fee etc."
+                },
+                {
+                    "text": "Works with the AI management to develop and specify a sales strategy achieving desired goal e.g., highest margin, lowest risk etc. according to management approval."
+                },
+                {
+                    "text": "Develops all technical content with the intention of a smooth handover of technical content after win the bidding."
+                },
+                {
+                    "text": "Identifies the new technical advantage over the competition or overcomes a known disadvantage."
+                },
+                {
+                    "text": "Prepares essential documents in business development, sales, and marketing to complete all processes."
+                },
+                {
+                    "text": "Prepares business development procedures, Sales and Marketing procedure and forms."
+                },
+                {
+                    "text": "Performs other duties as assignment of management or manager. To support Business Development Engineer in technical information for asset integrity services such as RBI, IDB, ITP and FFS."
+                },
+                {
+                    "text": "To establish the ITP and Integrity Management of static equipment."
+                },
+                {
+                    "text": "To review and collect the inspection data, the integrity level and damage mechanism of static equipment."
+                },
+                {
+                    "text": "To manage and implement the integrity, and optimize inspections frequency, maintenance cost and plant availability."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "crack-detection-analysis-and-reporting-specialist",
+            "type": "engineer",
+            "title": "Crack Detection Analysis and Reporting Specialist",
+            "qualification": [{
+                    "text": "Bachelor’s Degree in Engineering or related field or/and high vocational preferred."
+                },
+                {
+                    "text": "Must have excellent written and oral English communication skills"
+                },
+                {
+                    "text": "Computer literate"
+                },
+                {
+                    "text": "Minimum two-year experience in related field, experience in piping, welding, inspection with knowledge in industrial codes and standards e.g., AWS, ASME, API."
+                },
+                {
+                    "text": "Substantial experience and or ability to accurately size defects through TOF measurement."
+                },
+                {
+                    "text": "Certification in API QUSE / PCN UT Welds Critical Sizing preferred."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Carry out detailed crack data analysis from collected inspection data from A-scan interpretation"
+                },
+                {
+                    "text": "Verify the inspection data with Dexon Crack software"
+                },
+                {
+                    "text": "Complete reports in accordance with POF 2016 in a timely manner"
+                },
+                {
+                    "text": "Co-ordinate with Pipeline Engineers regarding problems of processing inspection"
+                },
+                {
+                    "text": "Inform and advise the Pipeline Engineers for necessary measures concerning deviated of inspection"
+                },
+                {
+                    "text": "Co-ordinate and provide detailed informative reports as the required standard needs."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Specialist"
+        },
+        {
+            "id": "data-analysis-and-reporting-officer",
+            "type": "engineer",
+            "title": "Data Analysis and Reporting Officer",
+            "qualification": [{
+                    "text": "Bachelor’s Degree in Engineering or related field or/and high vocational"
+                },
+                {
+                    "text": "Must have perfect written and oral English communication skills Computer literate"
+                },
+                {
+                    "text": "Minimum 1 year experience in related field, Experience in piping, welding, inspection with knowledge in industrial codes and standards e.g., AWS, ASME, API would be advantage"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Carry out detailed data analysis from collected inspection data"
+                },
+                {
+                    "text": "Verify the inspection data with the Dexon software"
+                },
+                {
+                    "text": "Complete reports in accordance with POF 2016 within the required timeframe"
+                },
+                {
+                    "text": "Co-ordinate with Pipeline Engineers regarding problems of processing inspection"
+                },
+                {
+                    "text": "Inform and advise the Pipeline Engineers for necessary measure on deviated of inspection"
+                },
+                {
+                    "text": "Co-ordinate and provide detailed informative reports as the required standard needs."
+                },
+                {
+                    "text": "Final check the final report"
+                },
+                {
+                    "text": "Ensure implementation of QAQC on all aspects of DPS Reporting"
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "dtc-sales-manager",
+            "type": "sales",
+            "title": "DTC Sales Manager",
+            "qualification": [{
+                    "text": "At least 7 years’ experience in Sales, negotiable, Technical or Inspection with 3 years in managerial level plus minimum of 5 years’ experience in learning and development or Training Specialist or any similar role."
+                },
+                {
+                    "text": "Experience for Engineering Inspection and Nondestructive Testing of pressure vessels, heat exchangers, boilers, piping and structure in the fields of oil refinery, power plant, petrochemical plant, ship building, offshore would be an advantage."
+                },
+                {
+                    "text": "Proficiency in designing training programs and workshops."
+                },
+                {
+                    "text": "Professional experience with learning management software."
+                },
+                {
+                    "text": "Ability to lead a full training cycle."
+                },
+                {
+                    "text": "Knowledge of various training and teaching methods."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Evaluate employees and identify weaknesses."
+                },
+                {
+                    "text": "Identify training needs according to needs."
+                },
+                {
+                    "text": "Based on research, plan an implement training programs that will prepare employees for the next step of their career paths."
+                },
+                {
+                    "text": "Recruit trainers."
+                },
+                {
+                    "text": "Present all the technical and supply training requirements."
+                },
+                {
+                    "text": "Prepare budget for training programs and workshops."
+                },
+                {
+                    "text": "Encourage employees for training."
+                },
+                {
+                    "text": "Oversee employee attendance and performance."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "electronics-specialist",
+            "type": "electronics",
+            "title": "Electronics Specialist",
+            "qualification": [{
+                    "text": "Bachelor’s Degree in Electronic Engineering or similar"
+                },
+                {
+                    "text": "At least 4-5 years’ experience in electronic field, Hand soldering experience"
+                },
+                {
+                    "text": "Electronic board debug and troubles hoot, electronic circuit, and schematic knowledge."
+                }
+            ],
+            "responsibility": [{
+                    "text": "To work closely with Electronics Engineer"
+                },
+                {
+                    "text": "Develop of electronic parts for pipeline and inspection equipment."
+                },
+                {
+                    "text": "Prepare all drawings, diagram, and documentation."
+                },
+                {
+                    "text": "Liaise with suppliers and quality control."
+                },
+                {
+                    "text": "Assembly and test inspection equipment."
+                },
+                {
+                    "text": "Report and create documentation."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Specialist"
+        },
+        {
+            "id": "fpfga-engineer",
+            "type": "electronics",
+            "title": "FPGA Engineer",
+            "qualification": [{
+                    "text": "Bachelor or master’s degree in Electronics Engineer or equivalence with 2+ years of relevant experience"
+                },
+                {
+                    "text": "Strong knowledge of Altera FPGAs and Quartus tools and be flexible to use FPGAs of other brands."
+                },
+                {
+                    "text": "High speed digital design using Verilog HDL or VHDL."
+                },
+                {
+                    "text": "Knowledge of digital hardware and systems"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Develop firmware for FPGA"
+                },
+                {
+                    "text": "Develop software for embedded processors."
+                },
+                {
+                    "text": "Involve in developing design of all acquisition boards based on FPGA for multichannel systems"
+                },
+                {
+                    "text": "Involve in all processes of firmware development for FPGA, i.e., designing, implementing, bugs fixing, and documenting."
+                },
+                {
+                    "text": "Work with UT signals and develop digital signal processing algorithms"
+                },
+                {
+                    "text": "Support the present FPGA design and firmware for pigging and SIRIS"
+                },
+                {
+                    "text": "Other related jobs as assigned by the supervisor"
+                },
+                {
+                    "text": "Follow up the quality and safety management system."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "general-manager",
+            "type": "business",
+            "title": "General Manager",
+            "qualification": [{
+                    "text": "Bachelor’s Degree or higher in Business administrative or related field."
+                },
+                {
+                    "text": "At least 8 years’ experience in Technical or Inspection with 3 years in management level."
+                },
+                {
+                    "text": "Experiences in managing medium to large sized organizations"
+                },
+                {
+                    "text": "Experienced and knowledgeable in engineering or NDT related services"
+                }
+            ],
+            "responsibility": [{
+                    "text": "To manage training department as a standalone unit under DITT."
+                },
+                {
+                    "text": "Objective is to develop DTC as a successful and profitable high quality training institute."
+                },
+                {
+                    "text": "Maintain excellent and preferential status (where possible) with API and other certifying bodies, relevant to DTC’s business."
+                },
+                {
+                    "text": "Develop strategies training and certification schemes, relevant to Thailand’s industry and DTC’s market."
+                },
+                {
+                    "text": "Plan and direct the organization’s activities to achieve goals/ agreed targets and standards for performances, culture and legislative adherences."
+                },
+                {
+                    "text": "Control the Company’s operate in a productivity, cost effective, profitable"
+                },
+                {
+                    "text": "Report to Chief Executive Officer to ensure the best development."
+                },
+                {
+                    "text": "Proactively develop and grow DTC’s services, capability and quality."
+                },
+                {
+                    "text": "Provide yearly and monthly budget, accounting and progress and status reports"
+                },
+                {
+                    "text": "Provide continuous update and control of all departments/employees regarding development, satisfaction levels and continuity."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "international-sales-and-business-development-specialist",
+            "type": "marketing",
+            "title": "International Sales and Business Development Specialist",
+            "qualification": [{
+                    "text": "Develop new and existing customers and markets, as well as business strategies."
+                },
+                {
+                    "text": "Act as focal point of contact for all marketing matters between sales, Operation and other related areas ensuring clear communication to all parties, liaising with colleagues as appropriate."
+                },
+                {
+                    "text": "Develop medium to long term strategic plans and budgets for the service product portfolio to meet objectives and satisfy customer needs"
+                },
+                {
+                    "text": "Analyze current and past expense budgets, sales, product deficiencies, and revenues. This enables him/her to provide recommendations for the company’s growth and resolution of problems"
+                },
+                {
+                    "text": "Following up new business opportunities and setting up meetings"
+                },
+                {
+                    "text": "Planning and preparing presentations"
+                },
+                {
+                    "text": "Monitoring competitors, market trend, technology trend to develop service product and pricing and Market price and feature update"
+                },
+                {
+                    "text": "Establish and implement innovative and cost effective (direct and indirect) marketing strategies, tools and systems to drive results"
+                },
+                {
+                    "text": "Develop and implement systems and processes to provide timely and accurate information on customers and customers so that marketing activities deliver maximum results in all trade channels"
+                },
+                {
+                    "text": "Update financial forecasts and customer segmentation evaluations to realize strategic plans."
+                },
+                {
+                    "text": "Develop and implement Marketing management plans, supervise execution through marketing staff for all service products."
+                },
+                {
+                    "text": "Monitoring competitors, market trend, technology trend to develop service product and pricing and Market price and feature update"
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Specialist"
+        },
+        {
+            "id": "programmer",
+            "type": "programmer",
+            "title": "Programmer",
+            "qualification": [{
+                    "text": "Responsible for database programming, administration, and management by using MS SQL tools or other"
+                },
+                {
+                    "text": "Organized, planned, coordinated, and applied security measures to ensure safe computer databases"
+                },
+                {
+                    "text": "Performed the tasks of testing and implementing new database to develop and update computer programs"
+                },
+                {
+                    "text": "Handled the tasks of designing and maintaining web applications and database applications"
+                },
+                {
+                    "text": "Assigned the tasks of writing specifications and configuration for the database applications"
+                },
+                {
+                    "text": "Receive requirement from the client or HOD or Senior Programmer for develop, design and implement both internal and external job of organization."
+                },
+                {
+                    "text": "Analyze and define document system requirements for data, workflow, logical processes, and interfaces with other systems."
+                },
+                {
+                    "text": "Design, develop and maintain database software following client requirement then present prototype database applications and receive additional requirement for resolve until will be finished and accurate within contract."
+                },
+                {
+                    "text": "Create scripts and packages for data integration, data maintenance or bug fixes."
+                },
+                {
+                    "text": "Analyze code for problem resolution and performance optimizations."
+                },
+                {
+                    "text": "Provide technical consulting or training and service when the client require or request while found problem and suspicion."
+                },
+                {
+                    "text": "Create and design software manual of each project."
+                },
+                {
+                    "text": "Monitor program and data after received latest inspection from inspector."
+                },
+                {
+                    "text": "Write and control procedure, form and all support documents which concerned in Database section."
+                },
+                {
+                    "text": "Strong problem solving and creative thinking skills."
+                },
+                {
+                    "text": "Able to multi-task and manage multiple project/task assignments simultaneously."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "sales-engineer",
+            "title": "Sales Engineer",
+            "qualification": [{
+                    "text": "Bachelor or higher Degree in engineering or relate."
+                },
+                {
+                    "text": "Total experience in both Sales and Service at least 3 years in Industrial Equipment’s, preferably"
+                },
+                {
+                    "text": "one or more of the following industry sectors, Petrochemicals, Oil & Gas, Oil Refining or Power plants and related industrial"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Contact with customers of both cooperate and Government."
+                },
+                {
+                    "text": "Manage customer’s contact and relationship."
+                },
+                {
+                    "text": "Grow transactions and revenue for assigned groups."
+                },
+                {
+                    "text": "Provide detailed information and highly ensure customer Satisfaction."
+                },
+                {
+                    "text": "Implement plan for sale promotion and marketing strategy."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "sap-business-one-specialist",
+            "title": "SAP Business One Specialist",
+            "qualification": [{
+                    "text": "Gather and analyze company business and functional specifications for translation into a detailed design document"
+                },
+                {
+                    "text": "Install, configure and optimize SAP Business One applications and add on program/project Management (Maringo Program) solutions as per the design document"
+                },
+                {
+                    "text": "Design and undertake system testing and support User Acceptance Testing (UAT) paying attention to versioning and transition from development and test to production phases"
+                },
+                {
+                    "text": "Present regular project updates to the management, as appropriate, throughout the project lifecycle"
+                },
+                {
+                    "text": "proactively identify and assess risk and escalate to the project manager as required"
+                },
+                {
+                    "text": "Rule out troubleshoot solution and implementation issues"
+                },
+                {
+                    "text": "Provide alternate solutions where technical constraints impede the business process"
+                },
+                {
+                    "text": "Ensure projects are timely delivered to user with satisfaction"
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Specialist"
+        },
+        {
+            "id": "simulation-engineer",
+            "title": "Simulation Engineer",
+            "qualification": [{
+                    "text": "Bachelor’s degree or Higher in Mechanical Engineering or similar"
+                },
+                {
+                    "text": "Experience in 2D&3D CAD software. For example: Autodesk Inventor, AutoCAD, Solid Works, or similar) at least 1 year."
+                },
+                {
+                    "text": "Experience in Simulation software (COMSOL, ANSYS) at least 1 year."
+                },
+                {
+                    "text": "Experience in machine construction and testing at least 1year"
+                },
+                {
+                    "text": "Experience in subsea equipment would be an advantage"
+                },
+                {
+                    "text": "Good in speaking English and writing command"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Develop simulation model, validation and generate final technical data for Dexon’s tools e.g. MFL, UT-MC, UT-R etc."
+                },
+                {
+                    "text": "Improve and check the models in close collaboration with design and test departments"
+                },
+                {
+                    "text": "Deal with issues in mechanics, physics, electronic and software/firmware"
+                },
+                {
+                    "text": "Evaluation of the patentability of inventions (analysis of their main components). Preparation, drafting and filing of patent applications."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "software-engineer",
+            "title": "Software Engineer",
+            "qualification": [{
+                    "text": "Bachelor’s Degree or higher in Engineering majoring in Electronics/Computer/Mechatronics/Physic"
+                },
+                {
+                    "text": "Solid programming experience in C/C++/C#."
+                },
+                {
+                    "text": "Programming experience in Delphi/mobile devices/embedded system is plus."
+                },
+                {
+                    "text": "Good communication skills in English."
+                },
+                {
+                    "text": "Proven working experience in software engineering."
+                },
+                {
+                    "text": "Degree in computer science, computer engineering, mechatronics, electronics, or a related"
+                },
+                {
+                    "text": "File (PhD is preferred)."
+                },
+                {
+                    "text": "Experienced programming in computer graphic or geometric processing by OpenGL."
+                },
+                {
+                    "text": "Experienced programming in parallel processing/multi-thread programming and/or open MP."
+                },
+                {
+                    "text": "Experiences in software version control."
+                },
+                {
+                    "text": "Strong analytical and mathematical ability working in 2D/3D problem spaces."
+                },
+                {
+                    "text": "Experience with the following is preferable: database and webpage programming."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Create, maintain, and enhance C/C++ software used with inspection tools."
+                },
+                {
+                    "text": "Conduct code reviews to follow development best practices and coding standards."
+                },
+                {
+                    "text": "Prepare software manual and technical report."
+                },
+                {
+                    "text": "Research and report about non-destructive inspection software and instrument"
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "sr-ili-engineer",
+            "title": "Sr. ILI Engineer",
+            "qualification": [{
+                    "text": "Bachelor’s degree or higher in engineering or related field."
+                },
+                {
+                    "text": "5 years’ experience in pipeline and /or maintenance and related field."
+                },
+                {
+                    "text": "Have a sound engineering background, inspection and /Or In-line Inspection."
+                },
+                {
+                    "text": "Have very good reading, writing and spoken English skills."
+                },
+                {
+                    "text": "Be computer skilled in MS Word, Excel, Power point, Auto Cad, Solid Work, etc."
+                },
+                {
+                    "text": "Possess an analytical and problem-solving ability."
+                },
+                {
+                    "text": "Show a willingness for continued learning"
+                },
+                {
+                    "text": "Be prepared to work as part of a team"
+                },
+                {
+                    "text": "Able to act as Supervisor of any projects for Pipeline Services"
+                },
+                {
+                    "text": "Review and finalize Pipeline Services reports after projects finished within SLA"
+                },
+                {
+                    "text": "Attend meeting with client for requirements and solution"
+                },
+                {
+                    "text": "Responsible for analyzing method statements, specific procedure, JSA’s, risk assessments and report"
+                },
+                {
+                    "text": "Be medically fit for work."
+                },
+                {
+                    "text": "BOSIET offshore survival certificate would be advantageous."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Work on site as Pipeline Engineer to carry out in-line inspection works when required, this may require offshore or overseas travel for extended periods of time."
+                },
+                {
+                    "text": "Carry out site surveys and compile site survey reports"
+                },
+                {
+                    "text": "To determine correct methods and compile method statements for carrying out pipeline inspection services."
+                },
+                {
+                    "text": "To assess, specify and test correct equipment for carrying out pipeline inspection services."
+                },
+                {
+                    "text": "Service, maintain and repair Dacon pipeline inspection equipment"
+                },
+                {
+                    "text": "Read, analyze, and understand inspection data."
+                },
+                {
+                    "text": "Compile inspection reports from received data."
+                },
+                {
+                    "text": "Attend job related training on an ongoing basis."
+                },
+                {
+                    "text": "Work in compliance with company quality procedures."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "test-engineer",
+            "title": "Test Engineer",
+            "qualification": [{
+                    "text": "Diploma or bachelor’s degree (Mechanical/Electrical) or any field"
+                },
+                {
+                    "text": "Experience in QC is advantage"
+                },
+                {
+                    "text": "Good command in English"
+                },
+                {
+                    "text": "Knowledgeable in MS Office"
+                },
+                {
+                    "text": "Good communication skills"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Minimum Diploma in Instrumentation Engineering/Electrical engineering/Mechanical engineering."
+                },
+                {
+                    "text": "Experience in QC inspection is a bonus."
+                },
+                {
+                    "text": "Knowledgeable in terms of using precision measuring equipment (micrometer, vernier caliper, etc.)."
+                },
+                {
+                    "text": "Knowledgeable in Microsoft Excel, Words."
+                },
+                {
+                    "text": "Capable of working under pressure, and able to manage time."
+                },
+                {
+                    "text": "Team player and hard worker."
+                },
+                {
+                    "text": "Open to learning new things, adaptable to new environment and open minded."
+                },
+                {
+                    "text": "Open to suggestions and criticism."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "transducer-technician",
+            "title": "Transducer Technician",
+            "qualification": [{
+                    "text": "High Vocational level in Electronics or Chemical"
+                },
+                {
+                    "text": "Male or Female"
+                },
+                {
+                    "text": "New Graduate are welcome or 2-3 experience in electronics."
+                },
+                {
+                    "text": "Fine handmade job skill with small parts"
+                },
+                {
+                    "text": "Assembly skill"
+                },
+                {
+                    "text": "Good hand soldering skills is a plus."
+                },
+                {
+                    "text": "A working knowledge of powder materials and epoxies is a plus."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Soldering and de-soldering of PZ ceramic materials, transducer assembly, weighing /mixing adhesives and epoxies using digital scales."
+                },
+                {
+                    "text": "Responsible for testing and calibration signal quality records."
+                },
+                {
+                    "text": "Ability to work the hours necessary to complete activities, as required."
+                },
+                {
+                    "text": "Other Responsibility"
+                },
+                {
+                    "text": "Other related jobs as assigned by the supervisor"
+                },
+                {
+                    "text": "Follow up the quality and safety management system."
+                }
+            ],
+            "other_responsibility": [{
+                    "text": "Other related jobs as assigned by the supervisor"
+                },
+                {
+                    "text": "Follow up the quality and safety management system."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "cash-management-specialist",
+            "title": "Cash Management Specialist",
+            "qualification": [{
+                    "text": "Bachelor’s or master’s degree in Accounting or Finance"
+                },
+                {
+                    "text": "At least 5 years’ experience in Accounting or Finance and experienced in cash management would be advantage"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Manage customer portfolio to ensure timely cash collection."
+                },
+                {
+                    "text": "Regular and prompt phone and email contact with customers who are approaching or have reached an overdue status to minimize bad debt risk"
+                },
+                {
+                    "text": "Provide weekly collections reporting to the direct supervisor."
+                },
+                {
+                    "text": "Attend and co-ordinate internal meetings to review status of customer collections"
+                },
+                {
+                    "text": "Work collaboratively with sales to drive best practices in collection procedure"
+                },
+                {
+                    "text": "Post cash receipts and reconcile daily cash receipts to the bank"
+                },
+                {
+                    "text": "Provide payment plan to suppliers"
+                },
+                {
+                    "text": "Assist accounting team with month end close activities relating to AR"
+                },
+                {
+                    "text": "Assist in special projects to improve AR process"
+                },
+                {
+                    "text": "Perform other ad hoc projects as needed."
+                }
+            ],
+            "other_responsibility": [{
+                    "text": "Support top management in all business analysis necessary to the effective management of the company."
+                },
+                {
+                    "text": "Otherrelated jobs as assigned by supervisory"
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Specialist"
+        },
+        {
+            "id": "machining-operator",
+            "title": "Machining Operator",
+            "qualification": [{
+                    "text": "Diploma in Machining/Manufacturing or similar"
+                },
+                {
+                    "text": "At least 3 years’ experience in prior supervisory experience by programming, setting up, and operating a computer numerical control (CNC) machine."
+                },
+                {
+                    "text": "Experience in milling and turning machine"
+                },
+                {
+                    "text": "Reads and interprets blueprints, drawing and work orders."
+                },
+                {
+                    "text": "Able to use CAD and CAM software would be an advantage."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Familiarity with CNC machine operation."
+                },
+                {
+                    "text": "Competent understanding and awareness of measurement and inspection tool usage."
+                },
+                {
+                    "text": "Lay out, position, Align, and secure part and assemblies prior to assembly, using straightedges."
+                },
+                {
+                    "text": "Understands, interprets and edits G-code programming"
+                },
+                {
+                    "text": "Performs daily and regular cleaning and light maintenance tasks on CNC machinery"
+                },
+                {
+                    "text": "Set up and operate fabricating machines, such as brakes, rolls, shears, flame cutters, grinders, and drill presses, to bend, cut, form, punch, drill, or otherwise form and assemble components."
+                },
+                {
+                    "text": "Records inspection and test results and prepares and submits reports to supervisor."
+                }
+            ],
+            "other_responsibility": [{
+                    "text": "Other related jobs as assigned by the supervisor."
+                },
+                {
+                    "text": "Maintaining quality and safety standards; keeping records; maintaining equipment and supplies."
+                },
+                {
+                    "text": "Follow up the quality and safety management system."
+                },
+                {
+                    "text": "Follow up their own KPI’s."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "connector-technician",
+            "title": "Connector Technician",
+            "qualification": [{
+                    "text": "High Vocational level in Electronics or Chemical"
+                },
+                {
+                    "text": "New Graduate are welcome or 1-2 experience in Electronics, Instrument or Mechatronics"
+                },
+                {
+                    "text": "Knowledge of cable and connector assembly or crimp &amp; connector assembly certification"
+                },
+                {
+                    "text": "Fine handmade job skill with small parts"
+                },
+                {
+                    "text": "Basic knowledge of E-test equipment"
+                },
+                {
+                    "text": "Precision soldering experience or good hand soldering skills is a plus."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Perform complex and advanced connector assembly of products according to established specifications and instructions."
+                },
+                {
+                    "text": "Perform hands-on electronics assembly and minor mechanical assembly."
+                },
+                {
+                    "text": "Work from engineering drawings and follow written and verbal instructions."
+                },
+                {
+                    "text": "Conduct product testing and performance testing and record the results."
+                },
+                {
+                    "text": "Ability to work the hours necessary to complete activities, as required."
+                }
+            ],
+            "other_responsibility": [{
+                    "text": "Other related jobs as assigned by the supervisor"
+                },
+                {
+                    "text": "Follow up the quality and safety management system."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "assembly-technician",
+            "title": "Assembly Technician",
+            "qualification": [{
+                    "text": "High vocational in Electronics, Mechanical, Mechatronics and all related field."
+                },
+                {
+                    "text": "Experience in soldering."
+                },
+                {
+                    "text": "Experience in electronics circuit debug and repair."
+                },
+                {
+                    "text": "Experience with various lab equipment such as oscilloscope, signal generator, power supply, etc."
+                },
+                {
+                    "text": "Ability to apply the electronics equipment’s and tooling for analysing and fix circuit problem."
+                },
+                {
+                    "text": "Resolves and analysis the assembly problems to meet specifications."
+                },
+                {
+                    "text": "Experience in process assembly, electronics box build or machine."
+                },
+                {
+                    "text": "Understanding of computer programming and Engineering software (AutoCAD, SolidWorks)(is a plus)."
+                },
+                {
+                    "text": "Available to work out of office hours, weekends and/or holidays."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Collect the materials and equipment needed to be the process."
+                },
+                {
+                    "text": "Electronics boards assemblies."
+                },
+                {
+                    "text": "Mechanical assemblies."
+                },
+                {
+                    "text": "Rework and troubleshooting (Electronics/Mechanical)."
+                },
+                {
+                    "text": "Assembles experimental circuitry or complete prototype model according to engineering. instructions, technical manuals, and knowledge of electronic systems and components."
+                },
+                {
+                    "text": "All job must be recorded and present a related report to superior."
+                },
+                {
+                    "text": "Qualification control as compare with specification and design."
+                }
+            ],
+            "other_responsibility": [{
+                    "text": "Other related jobs as assigned by the supervisor."
+                },
+                {
+                    "text": "Follow up the quality and safety management system."
+                },
+                {
+                    "text": "Follow up their own KPI’s."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "financial-capital-market-and-investor-relation-specialist",
+            "title": "Financial Capital Market and Investor Relation Specialist",
+            "qualification": [{
+                    "text": "Bachelor’s degree or higher in Finance, Accounting, Economics, Business"
+                },
+                {
+                    "text": "Positive attitude."
+                },
+                {
+                    "text": "Minimum 5 years’ experience in corporate finance, investment banking and investor relation, preferably within a listed company"
+                },
+                {
+                    "text": "Excellent in English proficiency; writing, listening, and reading, required TOEIC 650"
+                },
+                {
+                    "text": "Good understanding of the Securities and Exchange Commission (SEC) and Stock Exchange of Thailand (SET)’s laws and regulations on various disclosure requirements"
+                },
+                {
+                    "text": "Strong experience in financial analysis and planning, financial model, capital markets and business valuation"
+                },
+                {
+                    "text": "Able to build trust and maintain strong relationships with investors."
+                },
+                {
+                    "text": "High level of proficiency in Microsoft Office applications"
+                },
+                {
+                    "text": "Excellent written and verbal communication skills."
+                },
+                {
+                    "text": "Strong analytical and problem-solving skills"
+                },
+                {
+                    "text": "Able to work independently and work under pressure and limited timeframes."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Creating and presenting investment messages to the investment community on behalf of the company, monitoring and presenting outcomes to management"
+                },
+                {
+                    "text": "Developing and maintaining a company investor relations plan"
+                },
+                {
+                    "text": "Ensuring the proper disclosure of the company’s information in a timely manner"
+                },
+                {
+                    "text": "Developing IR website, update information, news, and announcements"
+                },
+                {
+                    "text": "Liaising as a key point of contact for investors, analysts, SEC, SET, and all related parties"
+                },
+                {
+                    "text": "Gathering and analyzing market data from both public and private industry data sources, developing an in-depth database, performing key economic analysis, market analysis, and competitor analysis"
+                },
+                {
+                    "text": "Building trust and maintaining strong relationships with the investment community from the stock exchange, regulators, financial institutions, investors and all related parties"
+                },
+                {
+                    "text": "Developing fundraising strategy and report/summarize to management."
+                },
+                {
+                    "text": "Monitoring the movement of the company’s share price, analyst reports and the market, and report/summarize to management."
+                },
+                {
+                    "text": "Analyzing and preparing materials about the company’s operating performance, financial information, financial projection and valuation"
+                },
+                {
+                    "text": "Organizing and preparing materials for conferences, road shows, conference calls, analyst meeting, investor/shareholders meetings, company visits, SET opportunity day, and all activities related to capital market."
+                },
+                {
+                    "text": "Coordinating with related departments in preparation for annual report/one report, information memorandum, press release, as well as other related reports."
+                },
+                {
+                    "text": "Promoting knowledge and understanding about capital market, and providing relevant information and materials"
+                },
+                {
+                    "text": "Arranging the meetings of the Board of Directors, shareholders meetings (AGM and EGM) as well as preparing meeting agendas, and meeting minutes for the Company and subsidiaries (Company Secretary)"
+                },
+                {
+                    "text": "Other related jobs as assigned by management."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Specialist"
+        },
+        {
+            "id": "international-sales-support",
+            "title": "International Sales Support",
+            "qualification": [{
+                    "text": "Person Specification:"
+                },
+                {
+                    "text": "Ability to work effectively under pressure and to meet challenging targets."
+                },
+                {
+                    "text": "Excellent interpersonal and people-management skills."
+                },
+                {
+                    "text": "Good organizational skills"
+                },
+                {
+                    "text": "Efficiency, accuracy, and attention to detail."
+                },
+                {
+                    "text": "Interpersonal relationship skills, ability to communicate with people of different cultures and background."
+                },
+                {
+                    "text": "Bachelor’s degree or higher in Engineering, Marketing, MBA, Finance or relate field."
+                },
+                {
+                    "text": "More than 1 year experience in corporate legal, compliance, experience in Oil & Gas and petrochemical industry is an advantage."
+                },
+                {
+                    "text": "More than 1 year experience in Tendering and bidding process, experience in Oil & Gas and petrochemical industry is an advantage."
+                },
+                {
+                    "text": "Good in English communication, writing and reading skills."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Review the tender document to ensure that the company’s business operation comply with relevant laws and regulation."
+                },
+                {
+                    "text": "Review term and condition in tender document, vendor registration or any relate field."
+                },
+                {
+                    "text": "Draft, review and revise legal contracts, letters of agreement or legal documentations to protect the organization’s legal and business interest."
+                },
+                {
+                    "text": "Provide legal advice to ensure that the company’s business operation comply with relevant laws and regulation."
+                },
+                {
+                    "text": "Coordinate and contact with all internal department, government authorities and external counsels that related to the company’s business."
+                },
+                {
+                    "text": "Prepare legal management report and provide management recommendation where required."
+                },
+                {
+                    "text": "Conduct legal know-how building session to related department for any update."
+                },
+                {
+                    "text": "Prepare supporting document for tender submission."
+                },
+                {
+                    "text": "Ensure that all relevant tender document and information complied during the tender work process and communicate with client for tender submission."
+                },
+                {
+                    "text": "Prepare special report, gathering and summarized data. Also maintain appropriate filing system."
+                },
+                {
+                    "text": "Follow up & collect the tender contracts/ agreement from client, then keep a record in Database."
+                },
+                {
+                    "text": "Capture data and maintain systems as is required by the sales process and sales team."
+                },
+                {
+                    "text": "Provide administrative support services and handles marketing administrative duties as assigned by immediate supervisor."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "quality-safety-management-system-department-manager",
+            "title": "Quality & Safety Management System Department Manager",
+            "qualification": [{
+                    "text": "Degree in Engineering, Safety Science or similar fields"
+                },
+                {
+                    "text": "At least 5-7 years of hand-on relevant working experience as a Safety, Quality and Environment Manager in Inspection Services Industry, or at least 5 years in Management level."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Coordinate and monitors the QSMS to ensure all aspects are fully implemented and maintained in accordance with the Internal Standard, Regulations and customer requirements."
+                },
+                {
+                    "text": "Liaise with all concerned department on the performance of the QSMS."
+                },
+                {
+                    "text": "Promotes awareness of the QSMS."
+                },
+                {
+                    "text": "External dealings concerning the QSMS."
+                },
+                {
+                    "text": "Responsible for establishing, documenting, implementing and monitoring  Quality & Safety Management System (QSMS)  and Quality Assurance nature that meet essential requirements of such  systems and practices."
+                },
+                {
+                    "text": "Oversee Document Control Center in Management System."
+                },
+                {
+                    "text": "Maintain and develop working systems and all documentation in Quality and Safety Management System."
+                },
+                {
+                    "text": "Follow up the quality and safety management system."
+                },
+                {
+                    "text": "Other Job Responsibility"
+                },
+                {
+                    "text": "Provide QSMS, QA and system related trainings and guidance for the concerned employees of the company."
+                },
+                {
+                    "text": "Assist in managing and executing all training programs as required for standards compliance, both in-house and outside, for inspectors and other employees of the company."
+                },
+                {
+                    "text": "Generate and implement ideas that improve quality indicators in line with cost, investment and service goals."
+                },
+                {
+                    "text": "Plan and implement the monitoring, measurement, analysis and improvement processes including control of all monitoring and measuring devices."
+                },
+                {
+                    "text": "Other assignments as assigned by the CAO/GM."
+                }
+            ],
+            "other_responsibility": [{
+                    "text": "Provide QSMS, QA and system related trainings and guidance for the concerned employees of the company."
+                },
+                {
+                    "text": "Assist in managing and executing all training programs as required for standards compliance, both in-house and outside, for inspectors and other employees of the company."
+                },
+                {
+                    "text": "Generate and implement ideas that improve quality indicators in line with cost, investment and service goals."
+                },
+                {
+                    "text": "Plan and implement the monitoring, measurement, analysis and improvement processes including control of all monitoring and measuring devices."
+                },
+                {
+                    "text": "Other assignments as assigned by the CAO/GM."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "transducer-engineer",
+            "title": "Transducer Engineer",
+            "qualification": [{
+                    "text": "Bachelor’s degree or Higher in Science of Materials, Electronic, Mechanical Engineering or similar"
+                },
+                {
+                    "text": "1-2 years of experience in transducer design and testing or equivalent"
+                },
+                {
+                    "text": "Proven experience in the areas of transducer production, manufacturing, and failure analysis: "
+                },
+                {
+                    "text": "Good communication skills in English and presentation skills including project planning, documentation of technical requirements, and technical presentations."
+                },
+                {
+                    "text": "Prefer experience with sourcing and/or production."
+                },
+                {
+                    "text": "Practical work with metal powders and epoxy materials where an experience in production of materials from metal powder is a plus."
+                },
+                {
+                    "text": "Strong attention to detail and resolution to solve complex problems."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Create and review transducer specifications; create work instruction document of transducer production, technical report writing and presentation reports."
+                },
+                {
+                    "text": "Analyze transducer data, test, and make suggestions on measures to optimize design."
+                },
+                {
+                    "text": "Guide and assist the Researcher and Mechanical Design Engineer to develop and improvement transducer production, provide technical training and support to transducer technician."
+                },
+                {
+                    "text": "Works closely with the transducer technician team leveraging their problem-solving skills and technical expertise."
+                },
+                {
+                    "text": "Perform root cause failure analysis with assistance team"
+                },
+                {
+                    "text": "Assist in coordinating and planning of projects to meet the team’s objectives"
+                },
+                {
+                    "text": "Lead of test automation solution designs and architectural decisions"
+                },
+                {
+                    "text": "Have knowledge building and maintaining with semi-automation/automation"
+                },
+                {
+                    "text": "Applies advanced analytical abilities in performing required analyses to identify problems, develop appropriate solutions and implement with available resources to complete complex assignments."
+                }
+            ],
+            "other_responsibility": [{
+                    "text": "Other assigned by the Transducer & Connector Section Manager"
+                },
+                {
+                    "text": "Follow up the quality and safety management system."
+                },
+                {
+                    "text": "Follow up their own KPI’s."
+                },
+                {
+                    "text": "Materials in research and development with Researcher upon assignment"
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "marketing-manager",
+            "title": "Marketing Manager",
+            "qualification": [{
+                    "text": "Bachelor/Master of Marketing/ Marketing Communication/ Corporate communication."
+                },
+                {
+                    "text": "Bachelor/Master of Business Administration or related field."
+                },
+                {
+                    "text": "8+ years’ experience in Marketing, Email Marketing, social media, Content Creationand Marketing role."
+                },
+                {
+                    "text": "Experience in Oil and Gas industry. (preferred)"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Build and implement a marketing strategy to effectively target Dexon’s existing and potential client base."
+                },
+                {
+                    "text": "Create and lead the execution of corporate communications strategy and marketing campaign."
+                },
+                {
+                    "text": "Organizing events including press conferences, exhibitions, open house and press tours and evaluate the result."
+                },
+                {
+                    "text": "Create and lead execution of corporate communications strategy."
+                },
+                {
+                    "text": "Create presentation media throughout the process."
+                },
+                {
+                    "text": "Reviewing and ensuring the update articles, case studies and website design"
+                },
+                {
+                    "text": "Monitor results of website analytic, SEO and SEM."
+                },
+                {
+                    "text": "Release news and updates to media outlets directly or through assigned agencies."
+                },
+                {
+                    "text": "Ensure that marketing messages and news updates are published and broadcast in the correct channels."
+                },
+                {
+                    "text": "Manage online marketing team including web master and graphic designer."
+                },
+                {
+                    "text": "Ensure website content is updated on a regular basis including weekly news updates and fresh content and update and refresh website, marketing material design."
+                },
+                {
+                    "text": "Liaising with and answering enquiries from media, individuals and other organization."
+                },
+                {
+                    "text": "Initiate CSR/ESG or event to reach target of Marketing and PR communication."
+                },
+                {
+                    "text": "Control event budget to maximize the highest company benefit."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "automation-engineer",
+            "title": "Automation Engineer",
+            "qualification": [{
+                    "text": "Bachelor’s Degree or Higher in Automation engineering, Mechanical engineering, Mechatronic engineer or similar field"
+                },
+                {
+                    "text": "Experience: 5+ years of experience in design schematics for automation components using CAD software and analyze production processes to assess automation’s best use"
+                },
+                {
+                    "text": "Prefer experience with designing and testing automated machinery and processes in order to complete exact tasks"
+                },
+                {
+                    "text": "Experience with robotics, AI and machine learning"
+                },
+                {
+                    "text": "Solid understanding of computer programming and software development"
+                },
+                {
+                    "text": "Creative thinking skills"
+                },
+                {
+                    "text": "Excellent communication skills in English verbal and written communication skills"
+                },
+                {
+                    "text": "Strong analytical, leadership and problem-solving skills"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Lead of automation/robotics development projects, design, develop and maintain automation standards, and perform feasibility studies, and prototype solutions."
+                },
+                {
+                    "text": "Work on custom automation solutions to support the team."
+                },
+                {
+                    "text": "Implement improvements with measurable results in savings, quality and productivity."
+                },
+                {
+                    "text": "Commissioning test and simulations to ensure the systems work as intended."
+                },
+                {
+                    "text": "Identify opportunities to increase efficiency with automation."
+                },
+                {
+                    "text": "Process and document automation test plans."
+                },
+                {
+                    "text": "Identifying quality issues and writing reports"
+                },
+                {
+                    "text": "Lead or participate in an estimation process."
+                },
+                {
+                    "text": "Ability to keep up with the latest technologies."
+                },
+                {
+                    "text": "A desire to continually upgrade technical knowledge."
+                },
+                {
+                    "text": "Collaborating with the design team to solve faults."
+                },
+                {
+                    "text": "Perform other duties as assigned."
+                },
+                {
+                    "text": "Understand safety procedures and train team members on safe work practices."
+                }
+            ],
+            "other_responsibility": [{
+                    "text": "Other assigned by the Transducer & Connector Section Manager"
+                },
+                {
+                    "text": "Follow up the quality and safety management system."
+                },
+                {
+                    "text": "Follow up their own KPI’s."
+                },
+                {
+                    "text": "Materials in research and development with Researcher upon assignment"
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "ms-power-platform-engineer",
+            "title": "MS Power platform Engineer",
+            "qualification": [{
+                    "text": "Bachelor’s degree or higher in Engineering majoring in    Electronics/Computer/Mechatronics /Physic      "
+                },
+                {
+                    "text": "Solid experience for Microsoft Power BI and SQL, Business Intelligent  "
+                },
+                {
+                    "text": "Solid experience for Microsoft SharePoint, Microsoft Power Automate and Microsoft Power App.  "
+                },
+                {
+                    "text": "Concept of data preparation, data gateway and data warehouse.  "
+                },
+                {
+                    "text": "Solid understanding of the software development life cycle, and software development with agile methodologies    "
+                },
+                {
+                    "text": "Programming experience in mobile devices/webpage programming is a plus.  "
+                },
+                {
+                    "text": "More than 1 year of Power platform development experience "
+                },
+                {
+                    "text": "Proven working experience in software engineering.  "
+                },
+                {
+                    "text": "Experience in software version control.  "
+                },
+                {
+                    "text": "Good communication skills in English.  "
+                }
+            ],
+            "responsibility": [{
+                    "text": "Design, develop, update, maintain, deploy Power BI Apps as per requirement.   "
+                },
+                {
+                    "text": "Design, develop an internal website (SharePoint)/ mobile app (Power Automate/ Power App) as per requirement.   "
+                },
+                {
+                    "text": "Design and develop the existing C++ /Delphi software as per requirement.  "
+                },
+                {
+                    "text": "Develop or guide site citizen developers to develop PowerApps and Power BI report to improve existing manual workflows. "
+                },
+                {
+                    "text": "Gather and document user requirements and identify new features; translate user requirements into Power platform design. "
+                },
+                {
+                    "text": "Assist in maintaining data resources, including databases, cloud storage, data sets and data models. "
+                },
+                {
+                    "text": "Develop and execute database queries and conduct analysis.   "
+                },
+                {
+                    "text": "Provide training of Power BI, PowerApps and Power Automate "
+                },
+                {
+                    "text": "Other tasks as assigned by superior."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "public-relation-specialist",
+            "title": "Public Relation Specialist",
+            "qualification": [{
+                    "text": "Bachelor’s Degree in advertising, Marketing, Communication Arts or related fields."
+                },
+                {
+                    "text": "Total experience in both Sales and Service at least 5 years in event marketing, advertising, or related field."
+                },
+                {
+                    "text": "Having experience and good connection with media relations."
+                }
+            ],
+            "responsibility": [{
+                    "text": "Create and lead execution of corporate communications strategy"
+                },
+                {
+                    "text": "Create and lead product marketing and brands promotion strategies"
+                },
+                {
+                    "text": "Create and manage traditional and digital public relations and marketing campaigns for the company’s brand, as well as for company’s sponsorship."
+                },
+                {
+                    "text": "Create, build and maintain active and engaging participation across social media platforms for the company"
+                },
+                {
+                    "text": "Lead and manage product launches and product campaigns or CSR activities"
+                },
+                {
+                    "text": "Closely work with the sales and business development teams to coordinate marketing and public relations campaigns"
+                },
+                {
+                    "text": "Coordinate marketing campaigns and efforts with business partners"
+                },
+                {
+                    "text": "Relationship building and networking with colleagues and the media."
+                },
+                {
+                    "text": "Monitoring the media, including newspapers, magazines, journals, broadcasts, newswires and social media, for opportunities for company."
+                },
+                {
+                    "text": "Working as part of an account team to develop sponsorship proposals and implement the PR activity."
+                },
+                {
+                    "text": "Consulting and supervise PR officer for writing and distributing press releases to targeted media."
+                },
+                {
+                    "text": "Promoting news stories and features to the media, known as ‘selling in’"
+                },
+                {
+                    "text": "Collating, analyzing and evaluating media coverage."
+                },
+                {
+                    "text": "Event management, including press conferences and promotional events."
+                },
+                {
+                    "text": "Attending and promoting company events to media."
+                },
+                {
+                    "text": "Assisting with the production or design of publications, such as company brochures and website."
+                },
+                {
+                    "text": "Managing the PR aspect of a possible crisis situation."
+                },
+                {
+                    "text": "Initiate CSR or any company event to reach target of Marketing and PR communication"
+                },
+                {
+                    "text": "Control event budget to maximize the highest company benefit."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "rd-engineering-specialist",
+            "title": "R&D Engineering Specialist",
+            "qualification": [{
+                    "text": "Bachelor or Master in Electronics Engineering or similar."
+                },
+                {
+                    "text": "Minimum 5-10 years’ experience in designing & developing complexproducts, robotics, and intelligent systems. Good knowledge of robot vision, autonomous, control system, power electronics, data information, sensing technologies"
+                },
+                {
+                    "text": "Strong project management and good problem-solving skills."
+                },
+                {
+                    "text": "Very good leadership skills and ability to work in diverse project teams."
+                },
+                {
+                    "text": "Expertise in PCB design (Altium PCB Designer is preferred)."
+                },
+                {
+                    "text": "Knowledge in Mechanical/Firmware/Software."
+                },
+                {
+                    "text": "Mobility is a must; working site visit needed."
+                },
+                {
+                    "text": "Fluent English communication (TOEIC score 550 up)"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Research of innovative technologies to be improving on inspection system or developing equipment in related."
+                },
+                {
+                    "text": "Project leader to be maintain progress according to dateline, troubleshooting and provided of"
+                },
+                {
+                    "text": "suggestion after getting notified issue during process."
+                },
+                {
+                    "text": "Design/assembly innovation prototype, testing, create report and summarized."
+                },
+                {
+                    "text": "Investigation in terms of technical issues to create reports, presenting, and summarized."
+                },
+                {
+                    "text": "On site testing, troubleshooting and provided of suggestion to customer."
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Specialist"
+        },
+        {
+            "id": "connector-engineer",
+            "title": "Connector Engineer",
+            "qualification": [{
+                    "text": "Bachelor’s degree in Electronics or Chemical"
+                },
+                {
+                    "text": "New Graduate are welcome or 1-2 experience in Electronics, Instrument or Mechatronics"
+                },
+                {
+                    "text": "Knowledge of cable and connector assembly or crimp & connector assembly certification"
+                },
+                {
+                    "text": "Fine handmade job skill with small parts"
+                },
+                {
+                    "text": "Basic knowledge of E-test equipment"
+                },
+                {
+                    "text": "Precision soldering experience or good hand soldering skills is a plus"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Perform complex and advanced connector assembly of products according to established specifications and instructions."
+                },
+                {
+                    "text": "Perform hands-on electronics assembly and minor mechanical assembly."
+                },
+                {
+                    "text": "Work from engineering drawings and follow written and verbal instructions."
+                },
+                {
+                    "text": "Conduct product testing and performance testing and record the results."
+                },
+                {
+                    "text": "Ability to work the hours necessary to complete activities, as required."
+                },
+                {
+                    "text": "Identifying key areas of improvement"
+                },
+                {
+                    "text": "Leading complex root cause analysis"
+                },
+                {
+                    "text": "Leading process improvement projects and activities"
+                },
+                {
+                    "text": "Yield improvement"
+                }
+            ],
+            "location": "Thailand",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "admin-secretary",
+            "title": "Administrative Secretary",
+            "qualification": [{
+                    "text": "Basic computer skills including the Microsoft Office suite (Word, Excel, PowerPoint, and Email)."
+                },
+                {
+                    "text": "Be a self-motivated person that takes the initiative to find and complete necessary tasks"
+                },
+                {
+                    "text": "Strong organizational skills with a can-do problem-solving attitude."
+                },
+                {
+                    "text": "Strong time management skills"
+                },
+                {
+                    "text": "A pleasant demeanor and happy talking to new people in person as well as over the telephone."
+                },
+                {
+                    "text": "Good communication skills with proficiency in both professional Dutch and English (reading, written, and spoken)"
+                },
+                {
+                    "text": "Previous experience working in an office environment"
+                },
+                {
+                    "text": "A bachelor’s degree or vocational education or equivalent experience working in an office environment would be advantageous."
+                },
+                {
+                    "text": "Fluency in both business English and Dutch (reading, writing, and speaking) is mandatory"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Manage the office as required throughout the week including the following",
+                    "list": [{
+                            "text": "Process all incoming communications (i.e. telephone and email)."
+                        },
+                        {
+                            "text": "Provide general office administration support such as processing utility bills."
+                        },
+                        {
+                            "text": "Process and pay purchase orders (POs) and invoices."
+                        },
+                        {
+                            "text": "Accept and receive deliveries when required"
+                        },
+                        {
+                            "text": "Make sure the office is in good working order and report any issues to management."
+                        }
+                    ]
+                },
+                {
+                    "text": "Assist the Director and Business Development Manager with",
+                    "list": [{
+                            "text": "Follow up with clients and customers regarding meetings and appointments."
+                        },
+                        {
+                            "text": "Assist with logistics planning including shipping and receiving of goods and products (sample pipe spools and ILI tools sent from Dexon’s head office in Thailand."
+                        },
+                        {
+                            "text": "Assist with the creation of proposals and quotations."
+                        },
+                        {
+                            "text": "Generate and track document and proposal numbers."
+                        },
+                        {
+                            "text": "Agenda management"
+                        },
+                        {
+                            "text": "Arranging travel documents as required (flight, accommodation, visa, etc.)"
+                        },
+                        {
+                            "text": "Record meeting minutes when required"
+                        }
+                    ]
+                }
+            ],
+            "location": "The Netherlands",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "business-development-manager",
+            "title": "Business Development Manager",
+            "qualification": [{
+                    "text": "A proven track record of working effectively under pressure and meeting challenging targets."
+                },
+                {
+                    "text": "The ability to analyze sales activities to generate accurate and reliable sales forecasts."
+                },
+                {
+                    "text": "A proven track record of excellent Interpersonal relationship skills and the ability to communicate with and lead people of different cultures and backgrounds."
+                },
+                {
+                    "text": "The ability to work in a tech-savvy office environment utilizing various file formats and programs to work seamlessly with colleagues across multiple time zones and locations."
+                },
+                {
+                    "text": "Excellent presentation and professional communication skills are critical to the role."
+                },
+                {
+                    "text": "Experience in the oil and gas, integrity, in-line inspection, or technology industries will be advantageous."
+                },
+                {
+                    "text": "Experience developing and implementing successful sales strategies achieving market penetration and capturing market share."
+                },
+                {
+                    "text": "Previous experience in technical sales is mandatory."
+                },
+                {
+                    "text": "A technical education background or an equivalent amount of experience in a relevant industry is mandatory."
+                },
+                {
+                    "text": "Previous experience with ultrasonic, magnetic flux leakage, and or caliper inspection, data, and or reporting will be advantageous."
+                },
+                {
+                    "text": "A minimum of 5 years’ experience in a similar position is mandatory."
+                },
+                {
+                    "text": "Bachelor’s or master’s degree in engineering, business administration, finance, marketing administration, or a related field."
+                },
+                {
+                    "text": "Fluency in both business English and Dutch (reading, writing, and speaking) is mandatory"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Lead Dexon’s European sales expansion and operations."
+                },
+                {
+                    "text": "Set and achieve accurate and realistic sales targets."
+                },
+                {
+                    "text": "Grow sales in accordance with Dexon’s market penetration strategy, working closely with senior management."
+                },
+                {
+                    "text": "Take a proactive approach to generate leads following through on meetings and proposals to land contracts."
+                },
+                {
+                    "text": "Generate and submit proposals in a timely manner and in line with job scope and client requirements."
+                },
+                {
+                    "text": "Nurture and develop existing client and prospect relationships to"
+                },
+                {
+                    "text": "Ensure that all details in the CRM are accurate and up to date at all times including sales forecasting information."
+                },
+                {
+                    "text": "Analyze current and past expense budgets, sales, product deficiencies, and revenues to identify areas of improvement and increase efficiency."
+                },
+                {
+                    "text": "Work with the management team to develop specific strategies to target and acquire individual key clients."
+                },
+                {
+                    "text": "Focus on continuous self-learning to develop further sales development training, acquire knowledge of new inspection technologies, and issues facing clients in the industry"
+                },
+                {
+                    "text": "Ensure a solid understanding of how the oil and gas industry operates including inspection requirements, asset operating conditions, HSE regulations, and risk assessment allowing you to make sure"
+                },
+                {
+                    "text": "Stay up to date on international inspection regulations and be able to tailor inspection services to meet individual client needs acting as a solution provider rather than selling a set product or service"
+                },
+                {
+                    "text": "Seek and nurture business alliances with prospective parties, allowing for synergetic business development"
+                },
+                {
+                    "text": "Ensure that all service and product offerings are in line with company objectives, understanding market shifts, and customer requirements"
+                },
+                {
+                    "text": "Continually analyze market demand and work closely with the marketing team at Dexon’s head office to generate sufficient marketing collateral to attract leads and land contracts."
+                },
+                {
+                    "text": "Continually update sales presentations to reflect the company’s service offering and stay up to date with the latest developments from Dexon’s Research Development and Engineering (RD&E)"
+                }
+            ],
+            "competitive": [{
+                    "text": "Competitive salary and attractive compensation package based on previous experience"
+                },
+                {
+                    "text": "Long-term career advancement prospects and development opportunities"
+                },
+                {
+                    "text": "A rich working environment with cross-departmental exposure and a multicultural working environment"
+                },
+                {
+                    "text": "Contemporary work-life balance and well-being policies"
+                },
+                {
+                    "text": "Comprehensive private medical care options"
+                },
+                {
+                    "text": "Life insurance and disability care insurance programs"
+                },
+                {
+                    "text": "Additional elected or voluntary benefits"
+                }
+            ],
+            "location": "The Netherlands",
+            "time": "Full-time",
+            "skill": "Expert"
+        },
+        {
+            "id": "junior-business-development-manager",
+            "title": "Junior Business Development Manager",
+            "qualification": [{
+                    "text": "A proven track record of working effectively under pressure and meeting challenging targets."
+                },
+                {
+                    "text": "The ability to analyze sales activities to generate accurate and reliable sales forecasts."
+                },
+                {
+                    "text": "A proven track record of excellent Interpersonal relationship skills and the ability to communicate with and lead people of different cultures and backgrounds."
+                },
+                {
+                    "text": "The ability to work in a tech-savvy office environment utilizing various file formats and programs to work seamlessly with colleagues across multiple time zones and locations."
+                },
+                {
+                    "text": "Excellent presentation and professional communication skills are critical to the role."
+                },
+                {
+                    "text": "Attention to detail in particular with respect to the proofreading and editing of contractual documents and financial statements."
+                },
+                {
+                    "text": "Experience in the oil and gas, integrity, in-line inspection, or technology industries will be advantageous."
+                },
+                {
+                    "text": "Experience developing and implementing successful sales strategies achieving market penetration and capturing market share."
+                },
+                {
+                    "text": "Previous experience in technical sales is mandatory."
+                },
+                {
+                    "text": "A technical education background or an equivalent amount of experience in a relevant industry is mandatory."
+                },
+                {
+                    "text": "Previous experience with ultrasonic, magnetic flux leakage, and or caliper inspection, data, and or reporting will be advantageous."
+                },
+                {
+                    "text": "A minimum of 5 years’ experience in a similar position is mandatory."
+                },
+                {
+                    "text": "Bachelor’s or master’s degree in engineering, business administration, finance, marketing administration, or a related field."
+                },
+                {
+                    "text": "Fluency in both business English and Dutch (reading, writing, and speaking) is mandatory"
+                }
+            ],
+            "responsibility": [{
+                    "text": "Lead Dexon’s European sales expansion and operations."
+                },
+                {
+                    "text": "Set and achieve accurate and realistic sales targets."
+                },
+                {
+                    "text": "Grow sales in accordance with Dexon’s market penetration strategy, working closely with senior management."
+                },
+                {
+                    "text": "Take a proactive approach to generate leads following through on meetings and proposals to land contracts."
+                },
+                {
+                    "text": "Generate and submit proposals in a timely manner and in line with job scope and client requirements."
+                },
+                {
+                    "text": "Nurture and develop existing client and prospect relationships to"
+                },
+                {
+                    "text": "Ensure that all details in the CRM are accurate and up to date at all times including sales forecasting information."
+                },
+                {
+                    "text": "Analyze current and past expense budgets, sales, product deficiencies, and revenues to identify areas of improvement and increase efficiency."
+                },
+                {
+                    "text": "Work with the management team to develop specific strategies to target and acquire individual key clients."
+                },
+                {
+                    "text": "Focus on continuous self-learning to develop further sales development training, acquire knowledge of new inspection technologies, and issues facing clients in the industry"
+                },
+                {
+                    "text": "Ensure a solid understanding of how the oil and gas industry operates including inspection requirements, asset operating conditions, HSE regulations, and risk assessment allowing you to make sure"
+                },
+                {
+                    "text": "Stay up to date on international inspection regulations and be able to tailor inspection services to meet individual client needs acting as a solution provider rather than selling a set product or service"
+                },
+                {
+                    "text": "Seek and nurture business alliances with prospective parties, allowing for synergetic business development"
+                },
+                {
+                    "text": "Ensure that all service and product offerings are in line with company objectives, understanding market shifts, and customer requirements"
+                },
+                {
+                    "text": "Continually analyze market demand and work closely with the marketing team at Dexon’s head office to generate sufficient marketing collateral to attract leads and land contracts."
+                },
+                {
+                    "text": "Continually update sales presentations to reflect the company’s service offering and stay up to date with the latest developments from Dexon’s Research Development and Engineering (RD&E)"
+                }
+            ],
+            "competitive": [{
+                    "text": "Competitive salary and attractive compensation package based on previous experience"
+                },
+                {
+                    "text": "Long-term career advancement prospects and development opportunities"
+                },
+                {
+                    "text": "A rich working environment with cross-departmental exposure and a multicultural working environment"
+                },
+                {
+                    "text": "Contemporary work-life balance and well-being policies"
+                },
+                {
+                    "text": "Comprehensive private medical care options"
+                },
+                {
+                    "text": "Life insurance and disability care insurance programs"
+                },
+                {
+                    "text": "Additional elected or voluntary benefits"
+                }
+            ],
+            "location": "The Netherlands",
+            "time": "Full-time",
+            "skill": "Expert"
+        }
+    ]
+}

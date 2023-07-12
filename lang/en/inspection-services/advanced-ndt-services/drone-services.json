@@ -1,0 +1,258 @@
+{
+    "meta": {
+        "title": "Drone Services",
+        "description": "Dexon Inspection Technologies provides a vast array of drone inspection services across the oil & gas, energy, and resource sectors.  The unmanned aerial vehicle (UAV) and drone inspection services industry is rapidly growing as technology improves and develops.  Drone inspection companies such as Dexon are developing new and innovative ways to utilize tech to address operator’s needs.  Great advances are being made via increased safety, reduced manpower requirements, reduced equipment requirements and reduction in transportation costs all ultimately resulting in smoother more efficient continual operations with less shutdowns and increased cost efficiency.  Increased data accuracy is also driving asset integrity management systems and allowing operators to make more informed expansion and maintenance business decisions.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Drone Services",
+        "content1": {
+            "title": "drone inspection services",
+            "subtitle": "Dexon Inspection Technologies provides a vast array of drone inspection services across the oil & gas, energy, and resource sectors.  The unmanned aerial vehicle (UAV) and drone inspection services industry is rapidly growing as technology improves and develops.  Drone inspection companies such as Dexon are developing new and innovative ways to utilize tech to address operator’s needs.  Great advances are being made via increased safety, reduced manpower requirements, reduced equipment requirements and reduction in transportation costs all ultimately resulting in smoother more efficient continual operations with less shutdowns and increased cost efficiency.  Increased data accuracy is also driving asset integrity management systems and allowing operators to make more informed expansion and maintenance business decisions."
+        },
+        "content2": {
+            "title": "benefits",
+            "subtitle": "The introduction of drone inspection services has seen extensive benefits for asset operators across all industries.  Improved safety for rope access staff and inspectors, efficiency, and cost reduction due to reduced manpower, equipment, transportation, and shutdowns of facilities.  Inspections have also seen huge jumps in terms of effectiveness due to the ability to inspect large areas quickly and easily with increased inspection data accuracy and records allowing for better year on year comparison.  Modern drone inspection teams can complete tasks in 5 days that would have taken traditional rope access inspection teams 8 weeks."
+        },
+        "content3": {
+            "title": "Increased Safety",
+            "subtitle1": "Drones are eliminating the need for human involvement in dangerous and high-risk operations, such as working at heights, confined spaces and hazardous environments.",
+            "subtitle2": [
+                {
+                    "text": "No people working at height or in other hazardous locations"
+                },
+                {
+                    "text": "Reduced risk to inspection personnel"
+                },
+                {
+                    "text": "Reduced asset downtime due to shutdowns(Assets can stay online and operational during inspection also known as Downtime-Free Inspection)"
+                }
+            ]
+        },
+        "content4": {
+            "title": "Reliability and Cost-Efficiency",
+            "subtitle1": "Drone inspections and surveys are extensively more economical and comprehensive. Drones can collect larger volumes of more accurate and detailed data in a shorter amount of time when compared to traditional inspection methods. This allows operators to better evaluate and monitor the integrity of their assets and make more informed business decisions in terms of maintenance and repair.",
+            "subtitle2": [
+                {
+                    "text": "Reduced requirements for offshore lodgings and facilities for inspectors"
+                },
+                {
+                    "text": "Reduced logistical requirements such as standby boats and helicopters"
+                },
+                {
+                    "text": "Reduced manpower and man hour requirements due to smaller inspection teams"
+                },
+                {
+                    "text": "Reduction of liability insurance requirements"
+                },
+                {
+                    "text": "Elimination of time and costs required to erect temporary structures such as scaffolding"
+                },
+                {
+                    "text": "Reduced shutdowns"
+                },
+                {
+                    "text": "Increased work scope and efficiency for shutdowns",
+                    "sublist": [
+                        {
+                            "text": "Increased information and data of defects resulting in more accurate planning, budgeting and turnaround of shutdowns"
+                        }
+                    ]
+                }
+            ]
+        },
+        "content5": {
+            "title": "Increased Efficiency",
+            "subtitle1": "In addition to increased reliability, cost efficiency has also been drastically increased using UAV and Drone inspection.  Reduced mobilization times and the ability to perform inspections on live facilities means that inspection teams are much more flexible. Other benefits to efficiency include",
+            "subtitle2": [
+                {
+                    "text": "Rapid response times: Ready to fly within minutes"
+                },
+                {
+                    "text": "Live flare and process-equipment inspection"
+                },
+                {
+                    "text": "Increased flexibility of inspection locations"
+                },
+                {
+                    "text": "External inspections in high wind conditions, of up to 12 m/s (23 knots)"
+                }
+            ]
+        },
+        "content6": {
+            "title": "Types Of Inspection",
+            "subtitle": "There are two main types of drone inspection. Close visual inspection and thermal/infrared surveying."
+        },
+        "content7": {
+            "title": "Close Visual Inspection (CVI)",
+            "subtitle": "High resolution 4k cameras with 30X optical zoom capabilities provide extremely highly detailed imaging that can be incorporated into asset integrity management systems.  Giving facility owners and operators better assessment of structural health."
+        },
+        "content8": {
+            "title": "Thermal Imaging / Infrared Survey",
+            "subtitle": "Drones integrated with high- resolution FLIR thermal sensors and a 4K visual camera can quickly transform aerial data into powerful inspection results for structural health monitoring."
+        },
+        "content9": {
+            "title": "Internal and External Drone Inspection Services",
+            "subtitle": "Drone inspection services are utilized across the energy and resource sector in multiple industries such as Oil & Gas, Power, Clean Energy (solar farm and wind farm), Petrochemical, Mining, Refinery and Aviation.  Inspection can either be internal inside vessel hulls, chimneys or storage tanks where traditional rope access is difficult or External on offshore platforms, vast solar or wind farms where extensive scaffolding would be needed.",
+            "card": [
+                {
+                    "title": "Oil And Gas",
+                    "subtitle": [
+                        {
+                            "text": "Live Flare Inspection"
+                        },
+                        {
+                            "text": "Storage Tank Inspections"
+                        },
+                        {
+                            "text": "Pressure Vessel Inspection"
+                        },
+                        {
+                            "text": "Column And Chimney Stack Inspection"
+                        },
+                        {
+                            "text": "Jetty And Marine Structure Inspections"
+                        },
+                        {
+                            "text": "Aerial Gas Leak Detection"
+                        },
+                        {
+                            "text": "Confined Space Inspections"
+                        }
+                    ]
+                },
+                {
+                    "title": "Power Plants",
+                    "subtitle": [
+                        {
+                            "text": "Air Duct Inspection"
+                        },
+                        {
+                            "text": "Boiler Inspection"
+                        },
+                        {
+                            "text": "Chimney And Stack Inspection"
+                        },
+                        {
+                            "text": "Power Line Survey"
+                        },
+                        {
+                            "text": "Transmission Tower Inspection"
+                        }
+                    ]
+                },
+                {
+                    "title": "Clean Energy",
+                    "subtitle": [
+                        {
+                            "text": "Wind Turbine Inspection"
+                        },
+                        {
+                            "text": "Solar Farm Survey"
+                        }
+                    ]
+                },
+                {
+                    "title": "Survey And Mapping",
+                    "subtitle": [
+                        {
+                            "text": "Drop Object Survey"
+                        },
+                        {
+                            "text": "Photogrammetry Services"
+                        },
+                        {
+                            "text": "Pipeline Survey"
+                        }
+                    ]
+                },
+                {
+                    "title": "Agriculture",
+                    "subtitle": [
+                        {
+                            "text": "Survey And Mapping For Agriculture Sector"
+                        },
+                        {
+                            "text": "Drones For Agriculture Operations"
+                        }
+                    ]
+                },
+                {
+                    "title": "Safety And Rescue",
+                    "subtitle": [
+                        {
+                            "text": "Safety Surveillance By Drones"
+                        },
+                        {
+                            "text": "Firefighting Services Using Drones"
+                        }
+                    ]
+                },
+                {
+                    "title": "Material Transfer Using Drones",
+                    "subtitle": [
+                        {
+                            "text": "Offshore Material Transfer"
+                        },
+                        {
+                            "text": "Customized Flight Paths For Delivery Services"
+                        }
+                    ]
+                }
+            ]
+        },
+        "content10": {
+            "title": "Drone Services For Industrial Inspections.",
+            "sublist": {
+                "content1": {
+                    "title": "Flare Inspection Services",
+                    "subtitle": "Dexon drone Inspection service teams conduct General View Inspections (GVI), Close Visual Inspections (CVI) and Thermal imaging of live flare stacks. Our highly skilled pilots utilize high grade professional visual cameras with up to 30X zoom capabilities and thermal cameras.  Inspection can be carried out on flare tips, flare stack risers, flare stack structures, stack guy wires and aircraft warning lights etc.  Inspection Data is then analyzed and detailed inspection reports containing anomaly findings and repair recommendations are issued as per API standards."
+                },
+                "content2": {
+                    "title": "Wind Turbine Inspection Services",
+                    "subtitle": "Drones are now widely used to inspect wind turbines, Dexon avoids extensive downtime of turbine operations while avoiding the need for inspectors to work at height. We provide 360 degrees view of all blades using automated data acquisition and image processing. We provide full summaries of flights undertaken for the inspection and presents an assessment of findings. Using all imagery captured we provide detailed reports highlighting any anomalies and indications which require immediate attention or repair."
+                },
+                "content3": {
+                    "image": "/dexon/inspection-services/advanced-ndt-services/content/wind_farm_drone_inspection_p8r3yf.jpg"
+                },
+                "content4": {
+                    "title": "Aerial Gas Leak Detection",
+                    "subtitle": "Dexon provides drone-based methane and gas leak detection services that reliably detect, locate, and quantify hydrocarbon leaks from gas producing wells and gathering lines to transmission and distribution pipelines, we provide actionable data that deliver safety, efficiency, and cost benefits to pipeline leak detection programs."
+                },
+                "content5": {
+                    "image": "/dexon/inspection-services/advanced-ndt-services/content/thermal_imaging_gas_leak_detection_drone_lq1oav.jpg"
+                },
+                "content6": {
+                    "title": "Aerial Mapping And Survey",
+                    "subtitle": "Photogrammetry is a surveying and mapping technique which is used in many applications in the surveying industry such as topographic mapping, site planning and volumes determination. Drones fitted with high performance cameras collect large data sets and with accurate reporting from point cloud datasets can provide survey grade results.  Using photographs collected using Photogrammetry technology Orthomosaic maps and 3D models are generated which have a variety of applications, from construction planning of ongoing project management to marketing materials."
+                },
+                "content7": {
+                    "image": "/dexon/inspection-services/advanced-ndt-services/content/drone_survey_mapping_bfqsvv.jpg"
+                },
+                "content8": {
+                    "title": "Storage Tank Inspection Services",
+                    "subtitle": "Collision tolerant drones are used for confined space inspections.",
+                    "sublist": [
+                        {
+                            "title": "Collision-Tolerant Drone",
+                            "subtitle": "Ideal for indoor/confined space inspections, allowing for frequent, safe contact with assets."
+                        },
+                        {
+                            "title": "High Quality Image Capture",
+                            "subtitle": "4K high resolution RGB camera and thermal IR cameras allow for high quality visual data capture while conducting inspections. All inspection reports generated are compliant to API 653 standards."
+                        },
+                        {
+                            "title": "Professional Lighting Capabilities",
+                            "subtitle": "10,000 Lumen LED lights with both direct and oblique lighting systems allow inspectors to mimic the techniques of manned inspections to identify asset defects."
+                        },
+                        {
+                            "title": "Stabilization And Distance Lock",
+                            "subtitle": "Systems and sensors allow for stable flight even in GPS-denied environments, as well as allowing inspectors to “lock in” distance from the drone to the object being inspected."
+                        }
+                    ]
+                }
+
+            }
+        }
+    }
+}

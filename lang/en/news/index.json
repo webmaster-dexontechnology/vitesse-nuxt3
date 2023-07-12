@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "title": "News",
+    "description": "",
+    "keyword": ""
+  },
+  "navgigator": {
+    "search": "search",
+    "search_news": "search news",
+    "date": "date",
+    "select_date": "select date",
+    "category": "Categories"
+  },
+  "body": {
+    "header": "News & Projects",
+    "title": "Our news archive"
+  },
+  "article": [
+    {
+      "id": "dexon-hosts-onsite-inspection-demonstration-and-facility-tour-for-southeast-asian-client",
+      "title": "Dexon Hosts Onsite Inspection Demonstration and Facility Tour for Southeast Asian Client",
+      "image": "/dexon/news/article/MicrosoftTeams-image-331-1400x787_brld9a.webp",
+      "content": [
+        {
+          "content": [{
+            "text": "Dexon Technology PLC, recently conducted an impressive onsite technical demonstration and facility tour for a distinguished Southeast Asian client. The event showcased Dexon’s state-of-the-art technology and highlighted the company’s commitment to delivering reliable and accurate inspection services."
+          }]
+        },
+        {
+          "content": [{
+            "text": "The demonstration commenced with an introduction to Dexon Technology’s onsite test yard, a sprawling 7-acre facility dedicated to the testing and verification of in-line inspection data. Thetest yard serves as a proving ground for Dexon’s entire In-line Inspection (ILI) fleet, which includes ultrasonic, magnetic flux leakage, geometric caliper, and single-body furnace smart PIGs."
+          }]
+        },
+        {
+          "content": [{
+            "text": "The facility’s multiple-diameter vacuum furnace arrangement, complete with finned tubing and convection bank sections, allows for precise testing and verification of critical defects in furnace arrangements. While specifically designed pump-through test loops accommodate liquid inspection medium testing, pull-through lines replicate magnetic flux leakage in-line inspection tool testing in gas pipelines. Furthermore, the test yard boasts long-length infinity test loops in a variety of diameters, enabling endurance testing of inline inspection tools and the verification of inspections spanning distances of 300 kilometers or more. The test yard also affords Dexon theunique ability to replicate client pipeline configurations ensuring accurate inspection verificationfor challenging or unpiggable pipelines.",
+            "image": "/dexon/news/article/vlcsnap-2022-08-03-18h33m34s047-711x400_te0azz.jpg"
+          }]
+        },
+        {
+          "content": [{
+            "text": "The highlight of the demonstration was a live in-line inspection using one of Dexon Technology’s cutting-edge 12″ module ultrasonic multi-channel smart PIGs. The advanced ILIoffers high-resolution high-speed inspection capabilities, making it ideal for the assessment of medium and long-length pipelines. The 12″ pump-through test loop utilized during the demonstration featured both internal and external metal loss defects, allowing for thorough inspection data verification and compliance to Pipeline Operator Forum recommendations and specific client inspection needs.",
+            "image": "/dexon/news/article/MicrosoftTeams-image-328-711x400_r4fkxu.jpg"
+          }]
+        },
+        {
+          "content": [{
+            "text": "Participants also had the privilege of touring Dexon Technology’s impressive Research Development and Engineering (RD&E) facilities. The company’s RD&E department plays a crucial role in the development of Dexon’s entire ILI fleet, as well as the modification of existing tools to accommodate the inspection of unpiggable pipelines. During the tour, Ms. JitsupaBoontathat, Dexon’s lead specialist on transducer development, provided valuable insights into the transducer research, fabrication, and testing department. The electronics department, responsible for designing and fabricating all onboard electronic units, showcased its expertise in creating cutting-edge inspection technology. Additionally, the mechanical design division, known for its innovation in tool design and modification, demonstrated its commitment to meeting the specific requirements of different inspection scenarios. The tour concluded with a visit to Dexon’s fabrication workshop, which features state-of-the-art 5-axis CNC mills for the precision fabrication of all tool components."
+          }]
+        },
+        {
+          "content": [{
+            "text": "A major highlight of the event was the presentation and tour of Dexon’s latest crack detection and sizing ILI fleet, the UT-CS Hawk ILI system. The presentation, led by Mr. Levi Porter, Head of Ultrasonic Inspection at Dexon, provided an in-depth understanding of the tool’s capabilities. Mr. Porter showcased the system’s ability to accurately detect and size cracks, supported by past inspection data and verification information. The presentation underscored Dexon Technology’s expertise and dedication to delivering innovative inspection solutions.",
+            "image": "/dexon/news/article/MicrosoftTeams-image-330-711x400_sjjdcn.jpg"
+          }]
+        },
+        {
+          "content": [{
+            "text": "To request a site tour or inspection data verification session, please reach out to Dexon Technology’s pipeline inspection division on + 66 (0) 61 407 7370 or email info{'@'}dexon-technology.com. Take the opportunity to discover firsthand the industry-leading solutions and unmatched dedication to quality that Dexon Technology brings to pipeline inspection."
+          }]
+        },
+        {
+          "title": "About Dexon Technology:",
+          "content": [{
+            "text": "Dexon Technology is a leading provider of advanced pipeline inspection solutions. With a focus on innovation, reliability, and customer satisfaction, Dexon offers a comprehensive suite of cutting-edge technologies and services to ensure the integrity and safety of pipelines worldwide."
+          }]
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence-well-inspection-solutions-oilgas",
+      "title": "Artificial Intelligence Well Inspection Solutions | Oil&Gas",
+      "subtitle": "Dexon Technology PCL Introduces Comprehensive Production Well Casing Smart Pigging Systems, Ensuring Well Efficiency, Profitability, and Safety via Asset Integrity",
+      "image": "/dexon/news/article/Riser-tool-cover-04-1400x788_fkboi0.jpg",
+      "content": [{
+          "content": [{
+            "text": "Dexon Technology PLC, a leading provider of advanced inspection solutions, is proud to unveil its groundbreaking Production Well Casing In-line Inspection (ILI) program. Leveraging state-of-the-art ultrasonic technology, the program offers a comprehensive approach to anomaly detection and sizing, ensuring asset integrity, efficiency, and profitability, while minimizing environmental impact."
+          }]
+        },
+        {
+          "content": [{
+            "text": "Dexon’s well casing ILI program employs advanced sensors and ultrasonic technology to provide direct wall thickness data, enabling for the precise collection and measurement of corrosion and other metal loss anomalies down to 1.0 mm of remaining wall thickness. The program’s bi-directional tool operation ensures high-density sampling rates for each casing, guaranteeing 100% probability of detection of critical defects.",
+            "image": "/dexon/news/article/Riser-tool-cover-01-711x400_dl5nnp.jpg"
+          }]
+        },
+        {
+          "content": [{
+            "text": "General corrosion and localized pitting can have detrimental effects on oil and gas production well casing strings, compromising their integrity and functionality. General corrosion, characterized by uniform metal loss over a large area, weakens the structural integrity of the casing, making it susceptible to leaks, breaches, and eventual failure. The gradual deterioration of metal surfaces due to general corrosion can lead to a decrease in the well’s overall performance, hindering the flow of oil and gas and reducing production rates decreasing efficiency and profitability. On the other hand, localized pitting, which manifests as small pits or holes in the metal surface, poses its own set of challenges. These pits can undermine the strength of the casing, creating points of vulnerability that may lead to sudden and unexpected failures. Detecting and accurately sizing these individual pitting anomalies can be difficult due to their narrow width, making it crucial to employ advanced inspection techniques to identify and address them promptly. Failure to effectively address general corrosion and localized pitting can result in increased downtime, costly repairs, environmental contamination, and a decline in overall profitability for oil and gas production operations.",
+            "image": "/dexon/news/article/Riser-tool-cover-03-711x400_ocvx0f.jpg"
+          }]
+        },
+        {
+          "content": [{
+            "text": "Leaking produced water, which can contain potentially hazardous chemicals that naturally occur in hydrocarbons such as radioactive materials, metal ions, and additives, posing a serious risk to the environment. Leaks in the intermediate casing zone allow these chemicals to enter and contaminate groundwater, necessitating immediate attention. Dexon’s Production Well In-Line Inspection program offers comprehensive inspection and detection of defects and anomalies in casing strings, providing an effective solution to prevent leaks and mitigate environmental risks."
+          }]
+        },
+        {
+          "content": [{
+            "text": "The use of artificial intelligence and machine learning allows for automatic defect and anomaly detection offering rapid deployment of Dexon’s comprehensive two-tiered reporting system. Guaranteeing asset integrity and enabling rapid, accurate inspection of multiple wells per day, minimizing asset downtime, and maximizing production and profitability. Immediate on-site field reporting delivers accurate analysis of critical anomalies within as little as 2 hours. This timely delivery allows for the well to be cleared for continued operation or facilitates immediate planning and running of casing patches if necessary, ensuring uninterrupted production. An accompanying summary of all inspection operating details provides a concise overview of the well’s status. Final reporting, delivered within as little as 24 hours, includes a detailed analysis of all anomalies, featuring certified expert assessment of well casing integrity and immediate threats to safe operation. Dexon’s diligent analysis covers all wall thickness and geometric well casing defects exceeding pre-determined severity criteria and pipeline operator forum recommendations, empowering operators to take swift and informed actions."
+          }]
+        },
+        {
+          "content": [{
+            "text": "Dexon’s high-resolution Production Well In-Line Inspection fleet takes the inspection process to new heights. The fleet features eight rows of off-set ultrasonic transducers strategically positioned around the tool’s circumference. Sampling density plays a pivotal role in the probability of anomaly detection, and Dexon’s inspection tools achieve an impressive minimum of 190,476 samples per m2 of pipe wall at a rapid speed of 0.34 m/s. Capable of inspecting 500m of pipe every 24.5 minutes, Dexon’s fleet enables the inspection of up to five wells per day per team. These higher inspection speeds result in significantly reduced well downtime, leading to cost savings, and increased well productivity."
+          }]
+        }
+      ]
+    },
+    {
+      "id": "detection-of-top-of-the-line-corrosion-in-gas-condensate-pipelines",
+      "title": "Detection of Top-of-the-Line Corrosion in Gas Condensate Pipelines",
+      "image": "/dexon/news/article/TLC-article-1400x788_kqofsr.jpg",
+      "content": [{
+          "title": "The Detection and Sizing of Severe Top-Of-The-Line Corrosion in Gas Condensate Pipelines",
+          "content": [{
+            "text": "Dexon inspection engineers complete another inspection of a gas condensate pipeline, stretching from an offshore wellhead platform to a production platform. The pipeline under inspection was considered to contain non-standard inspection specifications requiring a tailored approach to the inspection.  The pipeline was known to contain severe top-of-the-line corrosion requiring increased sampling density to ensure detection and sizing of maximum metal loss defects, with the addition of a 30-degree wye fitting that required tool modification and testing to complete the inspection."
+          }]
+        },
+        {
+          "title": "Customized Smart Pigging Inspection Parameters for the Detection and Sizing of Severe Top-of-the-Line Corrosion (TLC)",
+          "content": [{
+              "text": "Severe top-of-the-line corrosion was present, requiring customized tool modification and testing to ensure probability of detection (POD) as per POF recommendations and ensure the successful and accurate assessment of the pipeline’s condition. An ultrasonic rotary (UT-R) ILI was used for the inspection due to its ability to provide high-resolution inspection data by carefully controlling inspection parameters and procedures such as rotation speed and tool speed."
+            },
+            {
+              "text": "Severe TLC can cause additional complications to pigging operations. Depending on the severity of the corrosion TLC can cause significant increases in pipeline internal diameter (ID) causing possible bypass and loss of PIG propulsion. Driving disk diameter can be increased to combat this while the possible sharp edges that can accompany TLC can also cause increased erosion and damage to driving disks. Dexon’s extensive team of material specialists, mechanical design engineers, and fabrication experts allows for the ability to customize disk material as well as design to meet individual client inspection requirements."
+            }
+          ]
+        },
+        {
+          "title": "What is Top-Of-The-Line Corrosion",
+          "content": [{
+              "text": "TLC refers to a specific type of corrosion that occurs at the uppermost portion of an oil or gas pipeline, near the gas-liquid interface. TLC is primarily caused by the presence of water and corrosive gases, such as carbon dioxide (CO2) and hydrogen sulfide (H2S), which can be found in the transported fluid. The physical characteristics of top-of-the-line corrosion can vary depending on several factors, including the composition of the fluid, operating conditions, and the specific corrosion mechanisms involved. Here are some common physical characteristics associated with TLC:",
+              "list": [{
+                  "title": "Pitting:",
+                  "content": [{
+                    "text": "TLC often manifests as localized pitting corrosion on the inner surface of the pipeline. Pits are small cavities or holes that penetrate into the metal, typically exhibiting a rounded or irregular shape. Pitting can be highly localized and can progress rapidly, leading to the formation of deep pits."
+                  }]
+                },
+                {
+                  "title": "Thin-wall sections:",
+                  "content": [{
+                    "text": "TLC can cause localized thinning of the pipeline wall. This occurs as the corrosion process selectively attacks the metal in certain areas, resulting in reduced wall thickness. Thin-wall sections are susceptible to structural integrity issues, including the risk of leaks or ruptures."
+                  }]
+                },
+                {
+                  "title": "Tubercles:",
+                  "content": [{
+                    "text": "Tubercles are small, mushroom-shaped or cauliflower-like growths that can develop on the inner surface of the pipeline. They are typically composed of corrosion products and can contribute to localized corrosion by trapping corrosive fluids or gases against the metal surface."
+                  }]
+                },
+                {
+                  "title": "Scaling:",
+                  "content": [{
+                    "text": "In some cases, TLC can lead to the formation of mineral scales or deposits on the pipeline’s inner surface. These scales can consist of various minerals and corrosion products and can contribute to the corrosion process by creating localized concentration cells and trapping corrosive species."
+                  }]
+                },
+                {
+                  "title": "Discoloration:",
+                  "content": [{
+                    "text": "The presence of TLC can cause discoloration or staining on the inner surface of the pipeline. This discoloration can range from dark spots or streaks to a more widespread and uniform color change. The specific color can vary depending on the corrosion products formed and the type of metal being corroded."
+                  }]
+                },
+                {
+                  "title": "Corrosion product accumulation:",
+                  "content": [{
+                    "text": "TLC often results in the accumulation of corrosion products within the pipeline. These products can include iron oxides, sulfides, carbonates, and other compounds formed as a result of the corrosion process. The accumulation of corrosion products can further contribute to the corrosion process and affect the pipeline’s hydraulic characteristics."
+                  }]
+                }
+              ]
+            },
+            {
+              "text": "It is important to note that the physical characteristics of TLC can vary based on the severity and duration of the corrosion, as well as specific environmental conditions. Regular inspection and monitoring of pipelines is crucial to detect and assess the extent of TLC and take appropriate measures to mitigate its effects, such as implementing corrosion inhibitors, protective coatings, or modifying operating conditions."
+            }
+          ]
+        },
+        {
+          "title": "Customized PIG Modification for the Navigation of Wye Fittings",
+          "content": [
+            {
+              "text": "A 30-degree wye fitting in the line meant that Dexon’s research and development (R&D) team was required to perform customized tool modification prior to the inspection. The UT-R’s single-body design meant that an additional body with driving disks was required to maintain a seal with the pipe wall and drive the PIG through the wye and successfully complete the inspection.",
+              "image": "/dexon/news/article/TLC_01_pqo5ki.gif"
+            },
+            {
+              "text": "Figure 1 below shows a simulation of a single-body UT-R PIG approaching a wye. The figure shows the possible bypass that can be caused resulting in a PIG stall or stuck PIG.",
+              "image": "/dexon/news/article/TLC_02_p8vldm.gif"
+            },
+            {
+              "text": "Figure 2 shows a simulation of a multibody tool maintaining a seal with the pipe wall at all times propelling the PIG through a wye."
+            }
+          ]
+        },
+        {
+          "title": "Onsite Testing and Inspection Data Verification",
+          "content": [{
+            "text": "Piggability verification and inspection data verification are an integral part of Dexon’s pipeline inspection program. Extensive onsite surveys and assessments are performed by inspection teams for each individual inspection. Pigging testing was performed by Dexon’s Department of pipeline services (DPS) at Dexon’s onsite test yard.  Verifying both inspection data and the modified PIG’s ability to pass through the wye and complete the inspection."
+          }]
+        }
+      ]
+    },
+    {
+      "id": "dexon-plc-fuels-continued-growth-dexon-mechanical-solutions",
+      "title": "Dexon PLC Fuels Continued Growth Dexon Mechanical Solutions",
+      "image": "/dexon/news/article/DMS-Article-1400x788_m1ad3w.jpg",
+      "content": [{
+          "title": "Dexon PLC Fuels Continued Growth Dexon Mechanical Solutions",
+          "content": [{
+              "text": "Dexon Technology PLC has allocated significant financial investment to its subsidiary, Dexon Mechanical Solutions (DMS). This strategic move aims to enhance DMS’s capabilities in piping/pipeline/pressure vessel repair, maintenance, fabrication, and construction services, further solidifying its position as a key player in the industry."
+            },
+            {
+              "text": "DMS, a subsidiary of Dexon Technology PLC, specializes in providing comprehensive pipeline services, including fabrication and modification. Collaborating closely with Dexon’s Department of Pipeline Services (DPS), DMS plays a crucial role in supporting the company’s pipeline inspection division."
+            },
+            {
+              "text": "Dexon Mechanical Solutions offers a wide range of piping/pipeline maintenance, fabrication, and construction services across the oil and gas, petrochemical, and energy sectors. Some of the key services provided include:"
+            }
+          ]
+        },
+        {
+          "title": "Pipeline Cleaning and Maintenance Services:",
+          "content": [{
+            "text": "DMS provides extensive pipeline cleaning maintenance services from initial routine post-fabrication cleaning to decommissioning. Ensuring the efficient removal of debris, sediments, and other impediments, optimizing pipeline performance, efficiency and smart pigging data quality and results."
+          }]
+        },
+        {
+          "title": "Specialized Inspection and Maintenance Engineering Solutions:",
+          "content": [{
+            "text": "The company also offers the development of specialized solutions to assist in the inspection and maintenance of pipelines, both sub-sea and topside. Providing tailored solutions to meet the individual needs of each project, contributing to accurate and efficient inspection results, and enhancing the overall integrity of the pipeline."
+          }]
+        },
+        {
+          "title": "Fabrication of Customized Pipeline Components:",
+          "content": [{
+            "text": "Dexon Mechanical Solutions offers the fabrication of customized pipeline components that play a vital role in Dexon’s challenging in-line inspection and pigging programs. Including customized features and launchers and receivers. These components are meticulously designed and manufactured to meet the unique requirements of each project, ensuring seamless integration and optimal performance within the existing pipeline infrastructure. Ensuring pipeline piggability and accurate inspection results."
+          }]
+        },
+        {
+          "title": "Modification and Expansion of Dexon’s On-Site Test Yard Facilities:",
+          "content": [{
+            "text": "DMS also undertakes the modification and expansion of Dexon’s on-site test yard facilities. This includes the fabrication and installation of pull-through pipe spools, pump-through test lines, multiple-diameter vacuum furnace in-line inspection test loops, and multiple-diameter infinity test loops. Enabling Dexon to conduct comprehensive testing and validation procedures for various pipeline configurations, ensuring the utmost reliability and performance during inspections."
+          }]
+        },
+        {
+          "title": "Replication of Client Pipeline Configurations for Verification Runs:",
+          "content": [{
+            "text": "Dexon Mechanical Solutions possesses the capability to replicate client pipeline configurations within its on-site test yard facilities. This enables the company to accurately simulate real-world conditions and perform in-line inspection verification runs for the inspection of “unpiggable” or challenging pipeline inspections. By replicating client-specific configurations, DMS ensures the validity and accuracy of inspection results, providing clients with actionable insights for maintenance and optimization."
+          }]
+        },
+        {
+          "title": "Engineering, Procurement, Construction, and Installation EPCI services:",
+          "content": [{
+              "text": "DMS offers EPCI services for the construction and installation of oil and gas pipelines. Pipelines can be constructed for a variety of purposes including testing of ILI devices, training of personnel and transportation of product."
+            },
+            {
+              "text": "The allocation of additional financial investment by Dexon Technology PLC reinforces the company’s commitment to supporting Dexon Mechanical Solutions in delivering top-notch pipeline services to clients across the industry. With enhanced resources and capabilities, DMS is poised to provide even more reliable and efficient pipeline repair maintenance, fabrication, and construction services to its growing clientele.",
+              "image": "/dexon/news/article/DMS-Article_02_-711x400_lqt3nm.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paut-tank-inspection-dexon",
+      "title": "PAUT Tank Inspection | Dexon",
+      "subtitle": "PAUT Tank Crawlers: Revolutionizing the Inspection of Internal and External Wall Thickness Defects in Above ground Storage Tanks",
+      "image": "/dexon/news/article/DEXON-Tank-PAUT--1400x788_wwjwo9.jpg",
+      "content": [{
+          "title": "Introduction:",
+          "content": [{
+            "text": "Dexon Technology Inspection engineers are currently conducting PAUT tank crawler inspections in the Philippines. Phased Array Ultrasonic Testing (PAUT) is an advanced non-destructive inspection method that utilizes Phased Array Ultrasonic (PAUT) sound waves to gather accurate wall thickness measurements in storage tanks. Providing highly detailed C-Scan inspection data. This article explores the benefits and capabilities of PAUT tank crawlers in detecting internal and external wall thickness defects, revolutionizing the inspection process in the oil and gas industry."
+          }]
+        },
+        {
+          "title": "What is a PAUT Crawler?",
+          "content": [{
+            "text": "A PAUT crawler is a remote-controlled inspection device specifically designed for scaling the walls of above-ground storage tanks. Equipped with powerful magnets, the crawler securely adheres to the tank’s internal or external surface, facilitating detailed direct wall thickness measurements. By employing PAUT sound waves, the crawler can precisely detect and assess both internal and external metal loss defects."
+          }]
+        },
+        {
+          "title": "Inspection Capabilities:",
+          "content": [{
+            "text": "PAUT tank crawlers offer numerous advantages over traditional manual inspection teams, resulting in improved efficiency, cost-effectiveness, and safety."
+          }]
+        },
+        {
+          "title": "Reduced Inspection Team Size:",
+          "content": [{
+            "text": "Compared to manual inspection teams that often require up to 5 personnel, a PAUT crawler inspection team typically consists of only two highly skilled engineers. This significant reduction in team size not only streamlines the inspection process but also reduces mobilization costs. Furthermore, the smaller team size allows for easy access to challenging or confined site locations, ensuring comprehensive inspection coverage."
+          }]
+        },
+        {
+          "title": "Cost and Time Savings:",
+          "content": [{
+            "text": "PAUT crawlers eliminate the need for scaffolding or complex rigging on-site, as they utilize magnets to scale the tank walls. This eliminates associated costs, reduces space requirements, and minimizes preparation time. The streamlined approach enables faster mobilization and demobilization, resulting in efficient inspections with minimal disruptions to normal operations."
+          }]
+        },
+        {
+          "title": "Enhanced Safety:",
+          "content": [{
+            "text": "PAUT crawlers enhance safety by minimizing human interaction with potentially hazardous environments. The remote-control capabilities of the crawler allow engineers to operate it from ground level eliminating the need for inspection personnel to work at height, reducing the risk of accidents and ensuring the well-being of personnel. Moreover, the elimination of work at height eliminates potential fall hazards, further improving overall safety during inspections."
+          }]
+        },
+        {
+          "title": "Comprehensive Inspection Data:",
+          "content": [{
+            "text": "PAUT tank crawlers provide comprehensive C-Scan corrosion mapping inspection data, including detailed measurements of both internal and external defects. By employing PAUT inspection technology, the crawler generates a visual representation of the tank wall thickness, enabling accurate defect assessment and corrosion mapping. This comprehensive data enhances fitness for service evaluations and remaining life assessments, ensuring the continued integrity of the tank.",
+            "image": "/dexon/news/article/paut-scan_-800x382_abpgmj.jpg"
+          }]
+        },
+        {
+          "title": "Online Inspections:",
+          "content": [{
+            "text": "One significant advantage of PAUT tank crawlers is the ability to perform inspections while the tank remains in operation. This eliminates the need to drain the tank, saving time, resources, and potential production losses. By conducting inspections during normal operation, maintenance planning can be optimized, leading to increased operational efficiency."
+          }]
+        },
+        {
+          "title": "Conclusion:",
+          "content": [{
+            "text": "PAUT tank crawlers have revolutionized the inspection of wall thickness defects in oil and gas storage tanks. Dexon Technology’s deployment of PAUT crawlers in the Philippines showcases the advanced capabilities of this technology in enhancing inspection efficiency, reducing costs, and improving safety. By utilizing phased array ultrasonic sound waves and magnetic scaling, these crawlers provide accurate and comprehensive wall thickness measurements, facilitating proactive maintenance and ensuring the integrity of storage tank structures. As the industry embraces technological advancements, PAUT tank crawlers will play a vital role in optimizing inspection processes, enhancing safety, and maintaining reliable operations in the oil and gas and petrochemical sector."
+          }]
+        }
+      ]
+    },
+    {
+      "id": "pipeline-technology-conference-day-1-2023-berlin-germany",
+      "title": "Pipeline Technology Conference Day-1 2023 Berlin, Germany",
+      "image": "/dexon/news/article/PTC-NEWS-1400x788_os5thl.webp",
+      "content": [{
+        "title": "The First Day of the 2023 Pipeline Technology Conference (PTC) Comes to a Close in Berlin, Germany",
+        "content": [{
+            "text": "The first day of the PTC in Berlin got off to a roaring start yesterday and the Dexon team is excited for day two. This year’s Conference has seen a fantastic turnout with all conference and seminar tickets completely sold out in the run-up to the event."
+          },
+          {
+            "text": "Attending the Dexon booth at the exhibition this year are Dexon PLC Ultrasonic Crack Inspection Specialist Mr. Levi Porter, Dexon Europe Director Mr. Jarno Dejonge, Dexon PLC Executive Director Martin Stuvik, and Dexon PLC Director of Furnace Inspection Dr. David John Thewsey."
+          },
+          {
+            "text": "This year the PTC’s focus is on new technologies, current challenges, and perspectives for the future. May 8th saw a range of 1-day seminars prior to the official opening of the conference. The seminars covered topics such as unpiggable pipeline inspection and other factors affecting pipeline asset integrity management. Day one got underway with the Global Women in Pipeline kickoff event entitled: “Global Women in Pipeline: Connect, Empower, Inspire”.  The event aims to highlight and celebrate the contribution that women make to the pipeline industry, an industry predominantly dominated by men. The PTC dinner will be held tonight at the renowned DogTap Berlin, located in the historic Gaswerk Marienpark. We are all looking forward to Day 2 with another full day of talks and presentations from industry experts."
+          }
+        ]
+      }]
+    },
+    {
+      "id": "european-hydrogen-energy-transition-news-dexon",
+      "title": "European Hydrogen Energy Transition",
+      "image": "/dexon/news/article/News-DEXON-EU_kwhtzj.jpg",
+      "content": [{
+        "title": "Dexon Technology PLC Injects an Initial EUR 651,000 into Dexon Technology Europe to Fuel the Company’s European Expansion and Assist in the European Hydrogen Energy Transmission",
+        "content": [{
+            "text": "Dexon Technology PLC (Dexon) has announced that it will be injecting an initial EUR 651,000 into its newly registered European subsidiary, Dexon Technology Europe (Dexon Europe), to fuel the company’s expansion in the region. The decision was approved by Dexon’s board of directors on the 5th of May 2023. The capital for the expansion was raised during the company’s recent listing on the Stock Exchange of Thailand’s Market for Alternative Investments (MAI)."
+          },
+          {
+            "link": [{
+              "text": "Click here to read more on the expansion and an interview with Khun Mallika Kaekla, CEO for Dexon Technology PLC.",
+              "url": "https://www.bangkokpost.com/business/2566211/dexon-to-expand-overseas-using-proceeds-from-ipo"
+            }]
+          },
+          {
+            "text": "Dexon Europe’s Dutch office is located in Tholen, The Netherlands, a location chosen for its proximity to Europe’s two largest ports, the Port of Rotterdam and the Port of Antwerp, as well as its central location on the European continent. Dexon Europe will focus on offering smart pigging services for both onshore and offshore oil and gas pipelines, as well as furnaces (fired heaters)."
+          },
+          {
+            "text": "Europe is currently leading the world in the transition to Hydrogen, with the European Commission proposing to produce 10 million tons of renewable hydrogen by 2030 and import another 10 million tons by the same year. The transition will require the conversion of existing infrastructure to accommodate the production, transportation, and storage of hydrogen. Including oil and gas pipelines. These pipelines will require extensive inspection to accommodate hydrogen transportation and ensure safe operation."
+          },
+          {
+            "text": "The transportation of Hydrogen in carbon steel pipelines poses a number of cracking threats.  Some which are generic to all steel pipelines although are exacerbated by hydrogen, and those which are hydrogen-specific."
+          },
+          {
+            "text": "Hydrogen-Embrittlement causes steel to weaken reducing the pressure and load these pipelines can withstand, while also potentially leading to Hydrogen-Induced Cracking (HIC) and Hydrogen-Induced-Stress-Corrosion Cacking (HISC). Material engineers have been grappling with the problem of Hydrogen Embrittlement for decades, as the introduction and absorption of hydrogen atoms can make steel more brittle and increase the risk of ruptures and explosions in pipelines. This risk has resulted in catastrophic failures of airplanes, helicopters, power plants, and pipelines in the past. The risk also extends to the transportation of hydrogen through steel pipelines, as these pipelines can absorb hydrogen over time, making them more susceptible to embrittlement. As a pipeline inspection and maintenance company, Dexon Technology is well aware of the risks associated with hydrogen embrittlement and is poised to assist clients in ensuring the safety and reliability of their infrastructure as the world transitions to hydrogen."
+          },
+          {
+            "text": "Dexon’s UT-CS Hawk ILI System, which was released in late 2022 with the successful inspection of a 108km pipeline in the Southeast of Canada has been specially designed to offer the detection and sizing of sub 1.0 mm cracking in oil and gas pipelines."
+          },
+          {
+            "text": "For more on the UT-CS follow the following links:",
+            "link": [{
+                "text": "Sub 1 mm crack measurement pipeline inspection launched in North America ",
+                "url": "/sub-1-mm-crack-measurement-pipeline-inspection-launched-in-north-america/"
+              },
+              {
+                "text": "Download the UT-CS Hawk ILI brochure here",
+                "url": "/dexon/news/article/Dexon-Hawk-Crack-system_white_compressed_compressed_hvzpk6.pdf"
+              }
+            ]
+          }
+        ]
+      }]
+    },
+    {
+      "id": "dexon-technology-inc-usa-launches-in-houston-texas",
+      "title": "Dexon Technology Inc. USA Launches in Houston Texas",
+      "image": "/dexon/news/article/News-DEXON-US_qgy93r.jpg",
+      "content": [{
+        "title": "Dexon Technology PLC Launches Dexon Technology Inc. USA to Serve the North American and Canadian Oil and Gas Markets",
+        "content": [{
+            "text": "Dexon Technology PLC, a leading smart pigging technology provider for the oil and gas industry, has launched Dexon Technology Inc. USA, a new subsidiary dedicated to serving the US and Canada markets. Dexon’s board of directors on the 5th of May 2023, approved the use of USD 1,000,000 for the USA expansion, which was raised during the company’s recent listing on Thailand’s Market for Alternative Investment (MIA) stock market."
+          },
+          {
+            "text": "The launch of Dexon Technology Inc. USA marks another step in the company’s international expansion, following the opening of Dexon Technology Europe with the opening of a new office in Houston, Texas. The new subsidiary has been incorporated with a registered capital of USD 1,000,000 which will be used to support its operations and growth in Northern America."
+          },
+          {
+            "text": "Dexon Technology Inc. USA will specialize in the smart pigging of both onshore and offshore oil and gas pipelines and fired heaters (furnaces). Smart pigging is an inspection technique that uses intelligent devices to inspect and assess the integrity of pipelines and fired heaters, helping to reduce the risk of leaks and other operational hazards."
+          },
+          {
+            "text": "Dexon Technology PLC holds 100% of the shares issued under Dexon Technology Inc. USA, ensuring that the new subsidiary remains closely aligned with the company’s vision and values. The launch of Dexon Technology Inc. USA represents an important step in Dexon Technology’s global expansion plans, and the company is committed to delivering high-quality smart pigging services to customers across the Americas."
+          },
+          {
+            "link": [{
+              "text": "Click here to read more on the expansion and an interview with Khun Mallika Kaekla, CEO for Dexon Technology PLC.",
+              "url": "https://www.bangkokpost.com/business/2566211/dexon-to-expand-overseas-using-proceeds-from-ipo"
+            }]
+          }
+        ]
+      }]
+    },
+    {
+      "id": "dexon-performs-pre-commissioning-pipeline-cleaning-in-asia",
+      "title": "Dexon Performs Pre-Commissioning Pipeline Cleaning in Asia",
+      "image": "/dexon/news/article/DEXON-Job-Hongkong-Cleaning-1400x788_mkwdsk.jpg",
+      "content": [{
+          "title": "Dexon Technology PLC Performs Pre-Commissioning Pipeline Cleaning in Asia Using Foam PIGs",
+          "content": [{
+            "text": "Dexon Technology PLC, a leading provider of intelligent pigging and pipeline cleaning services and pigging products, is currently executing a pre-commissioning pipeline cleaning job in Asia. The pipelines are in the pre-commissioning phase and must be cleaned before they can go into operation. Dexon’s team is using foam pigs for the cleaning of four fuel supply pipelines ranging in diameter from 16″ to 28″. The cleaning will employ a range of different foam PIGs, including medium and low density foam and brush PIGs. To ensure efficient and accurate cleaning, onboard transmitters will be used for tracking during operations.",
+            "image": "/dexon/news/article/DEXON-Job-Hongkong-Cleaning1-1-711x400_snwp2m.jpg"
+          }]
+        },
+        {
+          "title": "Pre-Commissioning Pipeline Cleaning",
+          "content": [{
+            "text": "Pre-commissioning pipeline cleaning is a critical step in ensuring that pipelines operate efficiently and safely. Pre-commissioning refers to activities carried out on a pipeline before it is put into operation. During this phase, the pipeline is cleaned to remove debris, rust, and other materials that could damage equipment, obstruct flow, or contaminate the product being transported. Pipeline cleaning also ensures that the pipeline is free from obstructions and meets the required standards for commissioning.",
+            "image": "/dexon/news/article/DEXON-Job-Hongkong-Cleaning1-2-711x400_miufd4.jpg"
+          }]
+        },
+        {
+          "title": "Importance of Pipeline Cleaning in Intelligent Pigging Data Collection",
+          "content": [{
+            "text": "Intelligent pigging is a pipeline inspection technique that involves sending a tool (a pig) through the pipeline to collect data on its condition. Pigging is an effective method of detecting and identifying pipeline anomalies, such as corrosion, cracks, and dents. However, pigging data can be compromised if the pipeline is not properly cleaned before the inspection. Dirty pipelines can cause inaccurate data"
+          }]
+        }
+      ]
+    },
+    {
+      "id": "free-tickets-ptc-berlin-2023",
+      "title": "Free Tickets | PTC Berlin 2023",
+      "image": "/dexon/news/article/PTC2023-Ticket-1400x788_ut56bt.jpg",
+      "content": [{
+        "title": "Come Visit Us at Booth F2 at This Years Pipeline Technology Conference (PTC) in Berlin",
+        "content": [{
+            "text": "Come visit us at booth F2 at this year’s PTC in Berlin. The conference and Exhibition will be held in Hall 2 at the ESTREL Berlin Convention Center from the 8th to the 11th of May 2023. Dexon’s booth is located to the right on the main entrance 1 row in. This year’s TPC will mark the European debut of Dexon’s new UT-CS Hawk Crack detection and sizing ILI system and the Dexon-Scorpion free-swimming furnace inspection fleet."
+          },
+          {
+            "link": [{
+              "text": "For free tickets to the exhibition click the below link and enter the following voucher code.",
+              "url": "https://www.pipeline-conference.com/registration"
+            }]
+          }
+        ]
+      }]
+    }
+  ]
+}

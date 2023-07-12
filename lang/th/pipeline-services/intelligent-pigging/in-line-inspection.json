@@ -1,0 +1,166 @@
+{
+    "meta": {
+        "title": "Inline Inspection (Ili) Methods And Pipeline Integrity Gauges",
+        "description": "An asset integrity management program aims to determine the condition of a pipeline and the maintenance required to avoid a critical failure of the asset using Non-Destructive Testing (NDT) methods. In-line inspection (ILI) “tools”, referred to as “intelligent” Pipeline Integrity Gauges (PIG’s) or “smart” PIG’s, carry a variety of sensors to inspect pipelines for internal and external corrosion, geometric deformation, lamination, cracks, and other defects. ",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Inline Inspection (Ili) Methods And Pipeline Integrity Gauges",
+        "content1": {
+            "title": "What is In line Inspection?",
+            "subtitle": [{
+                    "text": "An asset integrity management program aims to determine the condition of a pipeline and the maintenance required to avoid a critical failure of the asset using Non-Destructive Testing (NDT) methods. In-line inspection (ILI) “tools”, referred to as “intelligent” Pipeline Integrity Gauges (PIG’s) or “smart” PIG’s, carry a variety of sensors to inspect pipelines for internal and external corrosion, geometric deformation, lamination, cracks, and other defects."
+                },
+                {
+                    "text": "Dexon has been involved with in-line inspection services since 1976 and has performed successful inspections on every continent for many of the world’s largest multinational oil and gas companies."
+                }
+            ]
+        },
+        "content2": {
+            "title": "Selecting The Correct ILI Tool and Inspection Method",
+            "subtitle": [{
+                "text": "Selecting an appropriate ILI method is based on the product the pipe carries, perceived asset threats, and the physical and operational characteristics of a pipeline. Dexon’s pre-inspection process identifies potential pipeline threats such as: metal loss (internal and external corrosion, slotting, pitting, pinholes and grooving), geometric deformations (dents, buckling, rippling/wrinkling, gouges, ovality and peaking), cracking and crack-like anomalies (weld cracks, stress corrosion cracks, fatigue cracks, hook cracks, laminations and crack colonies)."
+            }]
+        },
+        "content3": {
+            "title": "In Line Inspection Methods",
+            "sublist": [{
+                    "url": "/pipeline-services/intelligent-pigging/caliper-pigging/",
+                    "title": "Caliper and Geometric In-line Inspection “PIG’s”",
+                    "subtitle": "Caliper PIG’s carry electro-mechanical sensors to determine the geometric properties of a pipeline: measuring dents, bulging, buckling, and other geometric deformations. Caliper pigging is also used for location mapping and the geographical positioning of pipeline features."
+                },
+                {
+                    "url": "/pipeline-services/intelligent-pigging/mfl-pigging/",
+                    "title": "Magnetic Flux Leakage (MFL) In-line Inspection “PIG’s”",
+                    "subtitle": "Magnetic Flux Leakage (MFL) PIG’s use powerful magnets to magnetize the pipe wall to saturation. Triaxial hall sensors measure magnetic flux leaking from defect sites."
+                },
+                {
+                    "url": "/pipeline-services/intelligent-pigging/ultrasonic-in-line-inspection-ili-pigging/",
+                    "title": "Ultrasonic (UT) In-line Inspection “PIG’s”",
+                    "multiple_subtitle": [{
+                            "text": "Ultrasonic (UT) ILI PIG’s measure metal loss, corrosion, cracking, and gouges in a pipeline by direct measurement of ultrasonic pressure waves inside the pipe wall. These waves provide information that can be used to measure remaining wall thickness or detect and size cracking. Ultrasonic ILI PIG Configurations include"
+                        },
+                        {
+                            "url": "/pipeline-services/intelligent-pigging/ultrasonic-rotary/",
+                            "text_url": "UT Rotary (UT-R)"
+                        },
+                        {
+                            "url": "/pipeline-services/intelligent-pigging/ultrasonic-multi-channel/",
+                            "text_url": "UT Multi-Channel Ring (UT-MC Ring)"
+                        },
+                        {
+                            "url": "/pipeline-services/intelligent-pigging/ultrasonic-multi-channel-octopus/",
+                            "text_url": "UT Multi-Channel Octopus (UT-MC Octopus)"
+                        },
+                        {
+                            "text": "and"
+                        },
+                        {
+                            "url": "/pipeline-services/intelligent-pigging/ultrasonic-crack-detection-and-sizing-inline-inspection-tool/",
+                            "text_url": "UT-CS Hawk Crack Detection, Sizing, and Monitoring (UT-CS Hawk)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Inspection Methods and Advantages",
+                    "list": [{
+                            "subtitle": "Magnetic Flux Leakage (MFL) and Ultrasonic Testing (UT) are the two primary methods used for the in-line inspection of pipelines.  Dexon provides an extensive fleet of ILI PIG’s covering both inspection methods suitable for all pipeline diameters. "
+                        },
+                        {
+                            "subtitle": "Ultrasonic In-Line Inspection Advantages"
+                        },
+                        {
+                            "sublist": [{
+                                    "text": "Direct wall thickness measurement "
+                                },
+                                {
+                                    "text": "Collection of raw C-scan data"
+                                },
+                                {
+                                    "text": "High-resolution sampling"
+                                },
+                                {
+                                    "text": "Inspection of ferrous and no ferrous materials such as HDPE"
+                                }
+                            ]
+                        },
+                        {
+                            "subtitle": "Magnetic Flux Leakage In-Line Inspection Advantages"
+                        },
+                        {
+                            "sublist": [{
+                                    "text": "Inspection of gas product lines"
+                                },
+                                {
+                                    "text": "High inspection speeds"
+                                },
+                                {
+                                    "text": "Ability to inspect finned tubing"
+                                },
+                                {
+                                    "text": "High sensitivity to pitting in carbon steel"
+                                }
+                            ]
+                        },
+                        {
+                            "subtitle": "Intelligent pigging inspection data quality is heavily affected by pipeline cleanliness and pipeline cleaning programs should be carried out before each inline inspection run. Dexon’s Pipeline cleaning program combines cleaning PIG’s and gauging PIG’s to ensure there is no debris or obstructions in a pipeline that could lead to unreliable inspection data or a stalled or stuck PIG."
+                        }
+                    ]
+                }
+            ]
+        },
+        "content4": {
+            "title": "Considerations For In-line Inspection",
+            "subtitle": "Several factors need to be considered prior to any pipeline inspection. Dexon will conduct a thorough examination of the physical and operational characteristics of a pipeline to assess “piggability” and recommend inspection solutions. ",
+            "sublist": [{
+                    "title": "PIG Launchers and Receivers",
+                    "subtitle": "PIG launchers and receivers are devices that allow for the insertion and retrieval of PIG’s without interrupting product flow. Launchers and receivers are required for all pipeline pigging operations. Temporary launchers and receivers can be built and installed as needed. Dexon offers PIG’s equipped with a flotation device alleviating the need for a receiver for subsea HDPE mine tailing line inspections."
+                },
+                {
+                    "title": "Bends",
+                    "subtitle": "Typically, most in-line inspection tools and hard-body utility PIG’s are designed to negotiate bends with a radius of 3D or greater. Most Dexon intelligent PIG’s are capable of passing 1.5D bends with customization available for 1D bend return bends."
+                },
+                {
+                    "title": "Internal Coating",
+                    "subtitle": "Internal coatings can potentially interfere with data collection by some in-line inspection tools and a correct understanding of the coating material and bonding method needs to be established."
+                },
+                {
+                    "title": "Wall Thickness",
+                    "subtitle": "Piping thickness is a critical factor when selecting an inspection technology. Ultrasonic tools can inspect extra heavy wall piping while MFL technology has limitations."
+                },
+                {
+                    "title": "Internal Diameter (I.D. Bore)",
+                    "subtitle": "Dual diameter pipelines create additional considerations for in-line inspection due to the risk of the PIG stalling at the diameter change. Dexon has successfully pigged dual-diameter pipelines with a 15% change in pipe I.D. although each case requires individual assessment."
+                },
+                {
+                    "title": "In-Line Valves",
+                    "subtitle": "All in-line valves should be opened fully (full bore) to facilitate pigging operations. Dexon physically checks all mainline valves to ensure full bore for every pigging inspection. Flapper check valves may require removal or locking in the open position during the inspection. If removal or locking is not practical PIG’s may be fitted with custom engineered nose cones for automatic valve opening."
+                },
+                {
+                    "title": "Tees",
+                    "subtitle": "Branch connections to the pipeline may require barring to prevent the ILI tool from becoming lodged. Customized PIG design is available to overcome unbarred tees and each case is assessed by mechanical engineers."
+                },
+                {
+                    "title": "Wyes",
+                    "subtitle": "Wyes can be a major obstacle for PIG’s and inspection tools to navigate. Dexon has successfully designed, built, and tested ILI tools that can negotiate Wyes."
+                },
+                {
+                    "title": "Flexible Risers",
+                    "subtitle": "Flexible risers consist of several layers of metallic and elastomeric materials. Whilst no tools currently exist that can inspect all layers of a flexible riser Dexon’s tools have passed successfully through flexible risers and into the FPSO turret where conventional inspection takes place."
+                },
+                {
+                    "title": "PIG Speed",
+                    "subtitle": "Flow rates must be monitored and controlled to allow for optimum pipeline inspection results. Typically, UT intelligent PIG’s require lower flow rates whereas MFL PIG’s can accommodate much higher flow rates. Dexon offers flexible customized solutions to address client inspection requirements."
+                },
+                {
+                    "title": "Temperature",
+                    "subtitle": "Intelligent PIG’s have a specific temperature range within which they function properly due to onboard electronic equipment. The upper limit of this temperature range is generally less than 40 °C, although Dexon’s UT fleet can operate in temperatures as high as 65 °C, with customized tool design that offers much higher operating temperatures."
+                },
+                {
+                    "title": "Pressure Limitations",
+                    "subtitle": "Intelligent PIG’s typically have maximum pressure limitations between 90 to 150 bar. Dexon offers customized tool development for high-pressure pipelines with customization of up to 300 bar with special mechanical considerations."
+                }
+            ]
+        }
+    }
+}

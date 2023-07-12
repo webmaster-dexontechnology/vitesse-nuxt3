@@ -1,0 +1,238 @@
+{
+    "meta": {
+        "title": "Well Casing In-Line Inspection Services",
+        "description": "DEXON offers extensive Well Casing In-Line Inspection Services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance.",
+        "keyword": ""
+    },
+    "hero": {
+        "title": "Well Casing In-Line Inspection Services",
+        "subtitle": "DEXON offers extensive Well Casing In-Line Inspection Services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+    },
+    "information": {
+        "text": "For more information on Dexon Technology’s Comprehensive Production Well Casing Smart Pigging System ",
+        "text_url": "click here to download the brochure ",
+        "email": "or email"
+    },
+    "body": {
+        "content1": {
+            "title": "High-resolution Production Well In-line Inspection",
+            "card": [
+                {
+                    "title": "1.5mm",
+                    "subtitle": "Axial Ultrasonic Sampling Resolution {'@'} 0.34m/s"
+                },
+                {
+                    "title": "1.5 mm",
+                    "subtitle": "Circumferential Sampling Resolution"
+                },
+                {
+                    "title": "3.24mm",
+                    "subtitle": "Ultrasonic Beam Diameter"
+                },
+                {
+                    "title": "Data Sample",
+                    "subtitle": "Ultrasonic Inspection"
+                },
+                {
+                    "title": "Per m",
+                    "text_small": "2",
+                    "subtitle": "190,476 Raw Data Samples"
+                },
+                {
+                    "title": "Inspection",
+                    "subtitle": "Bidirectional"
+                },
+                {
+                    "title": "Field",
+                    "subtitle": "reporting"
+                },
+                {
+                    "title": "Field",
+                    "subtitle": "reporting"
+                },
+                {
+                    "title": "Handloaded",
+                    "subtitle": "inspection fleet"
+                },
+                {
+                    "title": "inspection",
+                    "subtitle": "resolution"
+                }
+            ]
+        },
+        "content2": {
+            "title": "Production Well Casing Integrity Verification To Prevent Leaks",
+            "subtitle": [
+                {
+                    "text": "Dexon’s Production Well Casing In-Line Inspection program offers comprehensive anomaly detection and sizing utilizing ultrasonic technology. Advanced sensors provide direct pipe thickness data for precision measurement of corrosion and anomalies to 1.0 mm remaining wall thickness. Bidirectional tool operation guarantees high density sampling rates for each casing, ensuring 100% probability of detection of critical defects and extremely thin piping. On-site field reporting of thin and corroded piping provides actionable information, reducing the risk of downtime. Detailed final reporting provides data for continued operations and scheduled maintenance, to ensure efficient, profitable, and safe operation. Dexon ultrasonic multichannel transducer configurations offers quick inspection speed, reducing downtime and resulting in increased productivity"
+                },
+                {
+                    "text": "Bi-directional tool operation guarantees high-density sampling rates for each casing, ensuring 100% probability of detection of critical defects and extremely thin piping. Immediate on-site field reporting of thin and corroded piping provides actionable information, reducing downtime. "
+                },
+                {
+                    "text": "Detailed final reporting provides data for continued operations and scheduled maintenance, to ensure efficient, profitable, and safe operation. "
+                },
+                {
+                    "text": "Dexon’s ultrasonic multi-channel transducer configurations offer quick inspection speed, reducing downtime and resulting in increased productivity. "
+                }
+            ]
+        },
+        "content3": {
+            "title": "Threats To Production Well Casing Strings",
+            "sublist": [{
+                    "title": "Leaking Produced Water",
+                    "subtitle": [{
+                            "text": "Water used in hydraulic fracturing (produced water) contains potentially dangerous chemicals such as naturally occurring hydrocarbons, radioactive materials, metal ions, and additives that pose threats to the environment. Leaks in the intermediate casing zone allows these chemicals to enter and contaminate groundwater."
+                        },
+                        {
+                            "text": "Leaks may occur when groundwater seeps through the cement lining and settles on production casing strings, resulting in critical defects forming between the production casing and the cement lining, with the potential to contaminate groundwater. Dexon’s Production Well In-Line Inspection program offers comprehensive inspection and detection of defects and anomalies in casing strings that can lead to leaks."
+                        }
+                    ]
+                },
+                {
+                    "title": "Corrosion and Pitting",
+                    "subtitle": [{
+                        "text": "Production wells are generally susceptible to the following anomalies occurring within the pipe wall"
+                    }]
+                },
+                {
+                    "title": "General Corrosion",
+                    "subtitle": [{
+                        "text": "Uneven metal loss over a large area of the pipe wall"
+                    }]
+                },
+                {
+                    "title": "Pitting",
+                    "subtitle": [{
+                        "text": "Localized corrosion producing holes (pits) in the pipe wall. Detection of pitting can be difficult with other technologies in providing correct and concise sizing of individual anomalies (pits"
+                    }]
+                }
+            ]
+        },
+        "content4": {
+            "title": "Immediate Comprehensive Two-tiered Reporting",
+            "subtitle": "Dexon’s Production Well Casing In-Line Inspection (ILI) program guarantees asset integrity with a two-tiered reporting system supplying immediate information on the integrity of the well, clearing it for continued operation and getting it back online ASAP: ",
+            "sublist": [
+                {
+                    "title": "Immediate On-Site Field Reporting",
+                    "subtitle": [{
+                            "text": "Summary of important operational informatio"
+                        },
+                        {
+                            "text": "Receive accurate field reporting in as little as 2 hours providing instant analysis of all critical anomalies.t"
+                        },
+                        {
+                            "text": "Clearing the well for continued operation or allowing for immediate planning and running of casing  patches where necessary to keep the well online."
+                        },
+                        {
+                            "text": "Summary of all inspection operating details. "
+                        }
+                    ]
+                },
+                {
+                    "title": "Final Reporting",
+                    "subtitle": [{
+                            "text": "Delivered within as little as 24 hours, including detailed analysis of anomalies. "
+                        },
+                        {
+                            "text": "Featuring certified expert assessment of well casing integrity including immediate threats to continued safe operation."
+                        },
+                        {
+                            "text": "Detailed analysis for all well casing anomalies exceeding pre-determined severity criteria "
+                        }
+                    ]
+                }
+            ],
+            "card": [
+                {
+                    "title": "Groundwater Zone",
+                    "subtitle": "The groundwater zone includes all geologic formations of soil, sand and rock containing groundwater that are susceptible to groundwater contamination"
+                },
+                {
+                    "title": "Inspection Zone",
+                    "subtitle": "The zone under inspection includes the entire casing string from the ‘Christmas Tree’ on the surface to the production zone."
+                },
+                {
+                    "title": "Production Zone",
+                    "subtitle": "The production zone is the section of casing that is intentionally perforated to allow gases and liquids to flow through the intermediate casing to the surface for extraction. For this reason, the production zone does not require inspection"
+                }
+            ]
+        },
+        "content5": {
+            "title": "High-resolution Production Well In-line Inspection Fleet",
+            "subtitle": "Dexon's high-resolution Production Well In-Line Inspection fleet takes the inspection process to new heights. The fleet features overlapping rows of ultrasonic transducers strategically positioned around the tool's circumference. Sampling density plays a pivotal role in the probability of anomaly detection, achieving more than 190,000 samples per m2 of pipe wall at a rapid speed of 20m/m. Capable of inspecting 500m of pipe every 25 minutes, allowing for the inspection of multiple wells per day per team. These higher inspection speeds result in significantly reduced well downtime, leading to cost savings, and increased well productivity.",
+            "list": {
+                "title": "Key Inspection Figures",
+                "subtitle": [
+                    {
+                        "text": "1.5mm axial ultrasonic sampling resolution {'@'} 0.34m/s. "
+                    },
+                    {
+                        "text": "1.5mm circumferential ultrasonic sampling resolution. "
+                    },
+                    {
+                        "text": "190,476 raw direct measurement data samples per m2."
+                    },
+                    {
+                        "text": "Bi-directional inspection."
+                    },
+                    {
+                        "text": "24.5 minute inspection time per 500m."
+                    },
+                    {
+                        "text": "160 ultrasonic transducers"
+                    },
+                    {
+                        "text": "Tool speed: 60m/min."
+                    },
+                    {
+                        "text": "Final reporting in as little as 24 hours"
+                    },
+                    {
+                        "text": "The inspection fleet’s lightweight construction and design allow for easy mobility and handloading on slicklines"
+                    },
+                    {
+                        "text": "Providing accurate wall thickness measurements down to 1.0 mm in remaining wall thickness"
+                    },
+                    {
+                        "text": "Ultra-accurate wall thickness measurements to within 0.1 mm of remaining wall thickness"
+                    },
+                    {
+                        "text": "3D graphic visual representation of inspection data provides a clear overview of all anomalies for review."
+                    },
+                    {
+                        "text": "Dexon’s R&D department includes 80+ personnel for the continual development and customization of inspection services to meet client requirements "
+                    }
+                ]
+            }
+        },
+        "content6": {
+            "title": "Defect Detection Verification",
+            "subtitle": "Ultrasonic inspection data provides direct measurement of defects including defect size, location, remaining wall thickness, and metal loss percentage. This data is used to accurately determine pipeline condition and to provide a calculated Estimated Repair Factor (ERF) of each individual defect, ensuring asset integrity. The data set below shows artificial defect detection verification samples, taken from Dexon’s test yard facilities",
+            "table": {
+                "header": [
+                    {
+                        "name": "Defect Size"
+                    },
+                    {
+                        "name": "Multi-channel Ut-mc (15m/m)"
+                    }
+                ],
+                "body": [
+                    {
+                        "content1": "3 mm",
+                        "content2": "80%"
+                    },
+                    {
+                        "content1": "4 mm",
+                        "content2": "95%"
+                    },
+                    {
+                        "content1": "5 mm",
+                        "content2": "99%"
+                    }
+                ]
+            }
+        }
+    }
+}

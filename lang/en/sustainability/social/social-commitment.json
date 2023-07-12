@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "title": "Social Commitment",
+        "description": "",
+        "keyword": ""
+    },
+    "body": {
+        "content1": {
+            "title": "Social Commitment",
+            "card": [{
+                    "text": "Human rights"
+                },
+                {
+                    "text": "Working conditions"
+                },
+                {
+                    "text": "Occupational health & safety"
+                },
+                {
+                    "text": "Employee relations"
+                },
+                {
+                    "text": "Employee development"
+                },
+                {
+                    "text": "Community impact"
+                }
+            ],
+            "list":[
+                {
+                    "title": "Sustainable Development Policy",
+                    "subtitle": [
+                        {
+                            "text": "The company conducts its business with responsibility to all groups of stakeholders and society as a whole. Give importance to the development of human resources both inside and outside the company. Encourage employees to develop their potential and advance in their careers. knowledge support or activities in the community to improve the quality of life Operate business with the hope that the industry can live happily with the community and society. and raise the quality of society together"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

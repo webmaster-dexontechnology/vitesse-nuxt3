@@ -1,0 +1,93 @@
+{
+    "meta": {
+        "title": "Ultrasonic Rotary (UT-R) In-Line Inspection Services",
+        "description": "Dexon’s Ultrasonic Rotary (UT-R) in-line inspection Pipeline Integrity Gauges (PIGs) use a rotating reflector to redirect ultrasonic inspection around the pipe circumference. The mechanical rotation offers flexible inspection sampling rates of 1.0mm. UT-R is recommended for pipelines of up to 10 km with a maximum tool speed of 5m/min. UT-R PIGs can detect wall thickness with a measurement accuracy to ±0.3mm. A list of key advantages, usage, detection capabilities, and specification can be seen below. Contact a Dexon Technology expert today for more information concerning Dexon’s in-line inspection services.",
+        "keyword": ""
+    },
+    "hero": {
+        "title": "Ultrasonic Rotary (UT-R) In-Line Inspection",
+        "subtitle": "DEXON offers extensive Ultrasonic Rotary (UT-R) In-Line Inspection Services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+    },
+    "body": {
+        "content1": {
+            "title": "Ultrasonic Rotary (UT-R) Inline Inspection Tool key advantages and specifications",
+            "subtitle": "Dexon’s Ultrasonic Rotary (UT-R) in-line inspection Pipeline Integrity Gauges (PIGs) use a rotating reflector to redirect ultrasonic inspection around the pipe circumference. The mechanical rotation offers flexible inspection sampling rates of 1.0mm. UT-R is recommended for pipelines of up to 10 km with a maximum tool speed of 5m/min. UT-R PIGs can detect wall thickness with a measurement accuracy to ±0.3mm. A list of key advantages, usage, detection capabilities, and specification can be seen below. Contact a Dexon Technology expert today for more information concerning Dexon’s in-line inspection services."
+        },
+        "content2": {
+            "title": "Key Advantages",
+            "subtitle": [
+                {
+                    "text": "High-resolution sampling"
+                   },
+                   {
+                    "text": "Suitable for all pipeline materials"
+                   },
+                   {
+                    "text": "Quick mobilization and turnaround times"
+                   },
+                   {
+                    "text": "Inspection and reporting per POF 2016 recommendations"
+                   },
+                   {
+                    "text": "Ability to launch in difficult to access areas"
+                   },
+                   {
+                    "text": "Immediate onsite preliminary data verification"
+                   },
+                   {
+                    "text": "Ability to pass 1.5D bends, PLEM’s, flexible risers, and turrets"
+                   },
+                   {
+                    "text": "Tool customization available for challenging and difficult (unpiggable) pipelines or projects"
+                   }
+            ]
+        },
+        "content3": {
+            "title": "Usage, Detection Capabilities and Tool Specifications",
+            "subtitle": [
+                {
+                    "text": "Inspection length: *up to 10 kms"
+                   },
+                   {
+                    "text": "Standard inspection time: 100 hours (*Customized solutions available)"
+                   },
+                   {
+                    "text": "Maximum tool speed: 10 m/min (*Customized solutions available)"
+                   },
+                   {
+                    "text": "Maximum pressure: 60 bar (*Customized solutions available)"
+                   },
+                   {
+                    "text": "Temperature range: 0°C to 65°C (*Customized solutions available)"
+                   },
+                   {
+                    "text": "Minimum wall thickness: 1.5 mm"
+                   },
+                   {
+                    "text": "Accuracy of measurement: ± 0.3 mm"
+                   },
+                   {
+                    "text": "Tool sizes available: 3” and greater"
+                   },
+                   {
+                    "text": "On and offshore, subsea, and above ground pipelines"
+                   },
+                   {
+                    "text": "Oil and gas exploration and production, refineries, petrochemical, mining, and heavy industry"
+                   },
+                   {
+                    "text": "Detectable anomalies: I.D./O.D. metal loss, cracks, deformation, lamination, corrosion, and pitting"
+                   },
+                   {
+                    "text": "Raw A-Scan data recording of all measurements"
+                   },
+                   {
+                    "text": "Automated data analysis and defect detection"
+                   },
+                   {
+                    "text": "Launching medium: liquid/gas (batching)"
+                   }                  
+            ]
+        }
+    }
+}

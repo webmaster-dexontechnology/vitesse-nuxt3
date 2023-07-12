@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "title": "Dexon Training Center",
+        "description": "Dexon International Training Facilities have been established since 2009. Today the facilities include large and modern classrooms, a NDT training laboratory, rope access, wind energy training tower and pipeline training facilities. We continuously work on setting up new courses and trainings to meet the demands from the industry.",
+        "keyword": ""
+    },
+    "body": {
+        "header": "Dexon Training",
+        "title": "Dexon Training Center",
+        "subtitle": "Dexon International Training Facilities have been established since 2009. Today the facilities include large and modern classrooms, a NDT training laboratory, rope access, wind energy training tower and pipeline training facilities. We continuously work on setting up new courses and trainings to meet the demands from the industry.",
+        "content1": {
+            "title": "Our most popular certificate"
+        },
+        "content2": {
+            "header": "Dexon Training",
+            "title": "Training schedule"
+        },
+        "content3": {
+            "header": "Dexon Courses",
+            "title": "Training Courses",
+            "topic": "Course Topic",
+            "join": "Join This Program",
+            "card": [
+                {
+                    "title": "Penetrant testing"
+                },
+                {
+                    "title": "Magnetic particle testing"
+                },
+                {
+                    "title": "Ultrasonic testing"
+                },
+                {
+                    "title": "Ultrasonic thickness"
+                },
+                {
+                    "title": "Visual inspection"
+                },
+                {
+                    "title": "Eddy current testing"
+                },
+                {
+                    "title": "Radiographic testing"
+                },
+                {
+                    "title": "API Training"
+                },
+                {
+                    "title": "ASNT Basic training level 3"
+                },
+                {
+                    "title": "Advanced NDT techniques"
+                },
+                {
+                    "title": "API Certification"
+                },
+                {
+                    "title": "Rope Access Training"
+                },
+                {
+                    "title": "Asme Training"
+                },
+                {
+                    "title": "GWO Training"
+                }
+            ]
+        }
+    }
+}

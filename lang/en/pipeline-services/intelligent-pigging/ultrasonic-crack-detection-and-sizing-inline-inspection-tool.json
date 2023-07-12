@@ -1,0 +1,118 @@
+{
+    "meta": {
+        "title": "Ultrasonic Multi-Channel Hawk (UT-CS Hawk) In-Line Inspection Services",
+        "description": "Detection and sizing of cracks and crack-like defects is critical in assessing the integrity and service life of pipelines. By combining exceptional sampling resolution with direct data analysis, the Dexon Hawk ILI system offers highly accurate and detailed inspection results. All individual ultrasonic measurements are saved with raw A-Scan data with up to 1,000,000 measurements recorded per square meter of piping.",
+        "keyword": ""
+    },
+    "hero": {
+        "title": "Ultrasonic Multi-Channel Hawk (UT-CS Hawk)",
+        "subtitle": "DEXON offers extensive Ultrasonic Multi-Channel Hawk (UT-CS Hawk) In-Line Inspection Services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+    },
+    "body": {
+        "content1": {
+            "title": "Dexon Hawk In-line Inspection System (Crack Detection/Sizing and Metal Loss)",
+            "subtitle": [{
+                    "text": "Detection and sizing of cracks and crack-like defects is critical in assessing the integrity and service life of pipelines. By combining exceptional sampling resolution with direct data analysis, the Dexon Hawk ILI system offers highly accurate and detailed inspection results. All individual ultrasonic measurements are saved with raw A-Scan data with up to 1,000,000 measurements recorded per square meter of piping."
+                },
+                {
+                    "text": "Combining this exceptional measurement density with highly accurate data review methods allows for the detection and sizing of irregularly shaped defects such as stress-corrosion cracking, hydrogen induced cracking, heat effected zone cracking, electron resistance weld cracking, fatigue cracking, and others. The Dexon Hawk ILI System tools are highly customizable offering axial angle beam inspection with multiple angles, axial + circumferential + metal loss in a single tool, and multiple transducer frequencies."
+                }
+            ]
+        },
+        "content2": {
+            "title": "Key advantages",
+            "sublist": [{
+                    "text": "Detection of axial and circumferential cracks with through wall propagation of 1.0mm or greater in base material and 1.5 mm or greater in welds"
+                },
+                {
+                    "text": "Probability of detection 94% to above sizes",
+                    "list": [
+                        {
+                            "text": "Crack sizing ± 1.0 mm with 85% confidence"
+                        },
+                        {
+                            "text": "Crack sizing ± 1.5 mm with 98% confidence"
+                        }
+                    ]
+                },
+                {
+                    "text": "Adjustable circumferential and axial sampling rates"
+                },
+                {
+                    "text": "Crack placement with 98% confidence if attached to I.D./O.D."
+                },
+                {
+                    "text": "Immediate onsite preliminary data verification"
+                },
+                {
+                    "text": "Simultaneously performs crack inspection and corrosion/metal loss to POF 2016 specifications"
+                },
+                {
+                    "text": "Detection of tilted cracks ±45°"
+                },
+                {
+                    "text": "Detection of skewed cracks ±10°"
+                },
+                {
+                    "text": "Tool customization available for challenging and difficult (unpiggable) pipelines or projects"
+                }
+            ]
+        },
+        "content3": {
+            "title": "Usage, Detection Capabilities, and Tool Specifications",
+            "subtitle": [
+                {
+                    "text": "Inspection length: up to 200 km (customization available)"
+                   },
+                   {
+                    "text": "Standard inspection time: 200 hours (customization available)"
+                   },
+                   {
+                    "text": "Maximum tool speed: 2.0 m\/s"
+                   },
+                   {
+                    "text": "Maximum pressure: 100 bar"
+                   },
+                   {
+                    "text": "Temperature range: 0°C to 65°C"
+                   },
+                   {
+                    "text": "Wall thickness range: customizable 4 mm-25 mm"
+                   },
+                   {
+                    "text": "Tool sizes available: 3” and greater"
+                   },
+                   {
+                    "text": "On and offshore, subsea, and above ground pipelines"
+                   },
+                   {
+                    "text": "Oil and gas exploration and production, refineries, petrochemical, mining, and heavy industry"
+                   },
+                   {
+                    "text": "Angle beam crack inspection"
+                   },
+                   {
+                    "text": "Multi directional (axial + circumferential inspection available)"
+                   },
+                   {
+                    "text": "Multi-angle inspection available"
+                   },
+                   {
+                    "text": "Extreme sampling density of up to 1,000,000 measurements per square meter"
+                   },
+                   {
+                    "text": "Launching medium: liquid\/gas (batching)"
+                   },
+                   {
+                    "text": "Raw A-Scan data recording of all measurements"
+                   },
+                   {
+                    "text": "Automated data analysis and defect detection"
+                   },
+                   {
+                    "text": "Detection and sizing analysis from raw A-Scan data"
+                   }
+            ]
+        }
+    }
+}

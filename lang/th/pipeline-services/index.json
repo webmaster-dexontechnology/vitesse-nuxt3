@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "title": "Pipeline Services",
+        "description": "DEXON offers extensive inline inspection and intelligent pigging techniques and services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance.",
+        "keyword": ""
+    },
+    "body": {
+        "hero": {
+            "header": "Dexon Services",
+            "title": "Pipeline Inspection Services",
+            "subtitle": "DEXON offers extensive inline inspection and intelligent pigging techniques and services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+        },
+        "content1": {
+            "title": "Pipeline Inspection Services Overview",
+            "title2": "Why use our pipeline service?",
+            "subtitle": [{
+                    "text": "Pipelines require regular inspection throughout their lifecycle from fabrication to pre commissioning to decommissioning.  The extreme pressures and environmental factors that these structures are under mean the smallest deformation or crack can grow causing catastrophic failure and liability to public safety, the environment and the economy."
+                },
+                {
+                    "text": "Regardless of protective coating technology or which product is used pipelines like everything else are in a constant state of decay and deterioration.  Shutdowns, reduced flow rates and even dangerous failures have drastic consequences on the profitability of pipelines.  For these reasons an effective inline inspection program and asset integrity management system reduces costs for the operator while increasing safety and profitability. "
+                },
+                {
+                    "text": "Intelligent pigging utilizes an inspection probe commonly known as a “smart” pig to identify, size and locate defects for analysis and assessment.  Possible defects include corrosion, metal Loss, cracking, lamination, dents and ovality."
+                },
+                {
+                    "text": "Pipeline geometry, pass percentage, dents and ovalities are identified with the help of a caliper pigs."
+                }
+            ],
+            "card": [{
+                    "url": "/pipeline-services/intelligent-pigging/",
+                    "title": "Intelligent Pigging",
+                    "subtitle": "DEXON offers extensive intelligent pigging services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+                },
+                {
+                    "url": "/pipeline-services/intelligent-pigging/pipeline-pigging/",
+                    "title": "Pipeline Pigging",
+                    "subtitle": "DEXON offers extensive Pipeline Pigging services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+                },
+                {
+                    "url": "/pipeline-services/intelligent-pigging/in-line-inspection/",
+                    "title": "Inline Inspection",
+                    "subtitle": "DEXON offers extensive Inline Inspection services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance"
+                }
+            ]
+        },
+        "content2": {
+            "offer1": "DEXON offers extensive",
+            "offer2": "Services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance.",
+            "about": [{
+                    "title": "Ultrasonic Intelligent Pigging Solutions",
+                    "subtitle": [{
+                        "text": "Ultrasonic Inline Inspection (ILI) Tools require a liquid present in order to operate such as diesel, crude, water, Naphtha, etc. and offer direct and accurate measurements in mm/thousands of an inch, as opposed to alternative volumetric ILI methods offering measurements in %, offering greater detail and accuracy."
+                    }]
+                },
+                {
+                    "title": "Pipeline Piggability",
+                    "subtitle": [{
+                        "text": "No pipe line is unpiggable at DEXON.  Many pipe lines may be classified as unpiggable for several reasons.  Many older pipelines were not built for modern pigging tools and may have an insufficient amount of data about previous inspections, low pressure or low flow or multi diameter piping outside of a pig’s variable pipe diameter range.  Piggability is dependent on ingenuity and the development of tailored approaches specific to induvial pipeline requirements, something that Dacon excels at."
+                    }]
+                }
+            ],
+            "product_list": [
+                {
+                    "name": "Ultrasonic Furnace (UT-F)",
+                    "url": "/pipeline-services/intelligent-pigging/dexon-scorpion-in-line-inspection/"
+                },
+                {
+                    "name": "Ultrasonic Rotary (UT-R)",
+                    "url": "/pipeline-services/intelligent-pigging/ultrasonic-rotary/"
+                },
+                {
+                    "name": "Ultrasonic Multi-Channel Ring (UT-MC Ring)",
+                    "url": "/pipeline-services/intelligent-pigging/ultrasonic-multi-channel/"
+                },
+                {
+                    "name": "Ultrasonic Multi-Channel Octopus (UT-MC Octopus)",
+                    "url": "/pipeline-services/intelligent-pigging/ultrasonic-multi-channel-octopus/"
+                },
+                {
+                    "name": "Ultrasonic Multi-Channel Hawk (UT-CS Hawk)",
+                    "url": "/pipeline-services/intelligent-pigging/ultrasonic-crack-detection-and-sizing-inline-inspection-tool/"
+                },
+                {
+                    "name": "Caliper",
+                    "url": "/pipeline-services/intelligent-pigging/caliper-pigging/"
+                },
+                {
+                    "name": "Magnetic Flux Leakage (MFL)",
+                    "url": "/pipeline-services/intelligent-pigging/mfl-pigging/"
+                },
+                {
+                    "name": "Wellhead",
+                    "url": "/pipeline-services/intelligent-pigging/well-casing-in-line-inspection/"
+                }
+            ],
+            "product_feature": {
+                "feature1": {
+                    "title": "Detection, Sizing and Locating",
+                    "subtitle": [{
+                            "text": "DEXON is committed to being a driving force in the industry.  The DEXON research and development and engineering department, and highly trained team of inspectors propel innovation with new pigging tool development and design to address unique individual client needs.  We are constantly investing in new and improved inspection techniques and technology allowing for more precise detection and inspection.  Early detection, sizing and locating of defects is crucial to any asset integrity management system. "
+                        },
+                        {
+                            "text": "Defects are evaluated and tracked over time and reported back to operators and inspectors for future follow-up.  while precision analysis of data classifies risk and assesses the need for repair."
+                        }
+                    ]
+                },
+                "feature2": {
+                    "title": "Asset Integrity Management Software",
+                    "subtitle": [{
+                            "text": "DEXON offers fully customizable software solutions to meet the needs of different facilities and customer requirements."
+                        },
+                        {
+                            "text": "Engineering and inspection data as well as historical data are used to create detailed integrity assessment based on current asset condition and defects.  The assessment projects short and long term deterioration and forecasts growth rates based on the material, environment and mitigating factors.  Anomalies are then classified for immediate repair or further monitoring based on risk levels."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

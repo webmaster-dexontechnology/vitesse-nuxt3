@@ -1,0 +1,78 @@
+{
+    "meta": {
+        "title": "Crane Inspection (API 2D) ",
+        "description": "Crane inspection is a detailed visual and operational inspection whereby individual components of the crane and lifting gear are examined to determine their condition. Crane Inspection is performed as often as quarterly or/and semi-annual based on the service requirements.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Crane Inspection (API 2D) ",
+        "content1": {
+            "title": "What does our Crane Inspection do ?",
+            "subtitle": [{
+                    "text": "Crane inspection is a detailed visual and operational inspection whereby individual components of the crane and lifting gear are examined to determine their condition. Crane Inspection is performed as often as quarterly or/and semi-annual based on the service requirements."
+                },
+                {
+                    "text": "Dexon has the capability to inspect all crane types including: Mobile, Gantry, Tower, Pedestal, Jib, Overhead Cranes and Hoists."
+                }
+            ]
+        },
+        "content2": {
+            "title": "The benefits of crane inspections are:",
+            "subtitle": [    {
+                "text": "Properly maintained cranes are essential for safe and productive operations, and are critical factors in reduced maintenance costs and extended equipment life."
+               },
+               {
+                "text": "Increased Reliability of Equipment"
+               },
+               {
+                "text": "Achieve Regulatory Compliance and Best Industry Practices"
+               },
+               {
+                "text": "Increase Productivity"
+               },
+               {
+                "text": "Reduce risk of accidents, injuries, and death"
+               }
+            ]
+        },
+        "content3": {
+            "title": "The main elements of a crane inspection are:",
+            "subtitle1": [
+                {
+                    "text": "The crane structure"
+                   },
+                   {
+                    "text": "The crane installation on secured structure"
+                   },
+                   {
+                    "text": "The crane’s counterweight installation on secured base"
+                   },
+                   {
+                    "text": "The power system"
+                   },
+                   {
+                    "text": "The protection guard of rotating parts"
+                   },
+                   {
+                    "text": "The control system of crane"
+                   },
+                   {
+                    "text": "The hydraulic and the pneumatic system"
+                   },
+                   {
+                    "text": "The limit switches"
+                   },
+                   {
+                    "text": "Movement on the track"
+                   },
+                   {
+                    "text": "The lifting weight controller"
+                   },
+                   {
+                    "text": "Sling roll, sheave and hook"
+                   }               
+            ],
+            "subtitle2": "Dexon Inspection Service is a certified crane inspection company with many years of experience in the field. Strictly working to local and international regulations and inspection standards, Dexon provides the highest quality inspection and verification service for safe and uninterrupted crane operation."
+        }
+    }
+}

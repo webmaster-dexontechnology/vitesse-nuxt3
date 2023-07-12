@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "title": "Magnetic Flux Leakage (MFL) In-Line Inspection Services",
+        "description": "Dexon’s Magnetic Flux Leakage (MFL) In-Line Inspection (ILI) fleet offers inspection of pipelines with internal diameters of 3” up to 56” with PIG development and customization available for larger diameters. All Pipeline Integrity Gauges (PIGs) are subjected to pre inspection verification testing at Dexon’s on site test yard to ensure comprehensive assessment of your asset based on individual client pipeline configurations. ­­­",
+        "keyword": ""
+    },
+    "hero": {
+        "title": "Magnetic Flux Leakage (MFL) In-Line Inspection",
+        "subtitle": "DEXON offers extensive Magnetic Flux Leakage (MFL) In-Line Inspection Services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+    },
+    "body": {
+        "content1": {
+            "title": "Dexon’s MFL ILI Fleet",
+            "subtitle": "Dexon’s Magnetic Flux Leakage (MFL) In-Line Inspection (ILI) fleet offers inspection of pipelines with internal diameters of 3” up to 56” with PIG development and customization available for larger diameters. All Pipeline Integrity Gauges (PIGs) are subjected to pre inspection verification testing at Dexon’s on site test yard to ensure comprehensive assessment of your asset based on individual client pipeline configurations."
+        },
+        "content2": {
+            "title": "How does Magnetic Flux Leakage Work?",
+            "subtitle": "MFL ILI PIGs use powerful magnets to magnetize the pipe wall.  Tri axial hall sensors positioned between the magnetic poles then measure flux leakage originating from anomalies.  Anomalies are detected via changes in flux measurements, with the amount of flux leakage determining the precise length, width, and depth of anomalies for identification.  Guaranteeing accurate detection and identification of corrosion, pitting, erosion, lamination, gouging, cracking, and other metal loss anomalies."
+        },
+        "content3": {
+            "title": "3D Location Mapping Capabilities",
+            "subtitle": "Dexon’s MFL ILI fleet also incorporates XYZ pipeline mapping capabilities providing accurate information on the physical location of the asset in addition to inspection.  Pipelines whether subsea, above ground or underground can be displaced or damaged by numerous natural and man-made forces including ship anchors, landslides, and earthquakes. Pinpoint accurate location data is achieved through the combination and analysis of inertial measurement sensor data (gyroscopic x, y and z orientation data), above ground marker (AGM) data, and PIG travel distance and time stamping data collected during the inspection run. Ask a Dexon Technology expert for more details regarding XYZ pipeline mapping."
+        },
+        "content4": {
+            "title": "Key Advantages",
+            "subtitle": [    
+                {
+                "text": "High-resolution MFL inspection data"
+               },
+               {
+                "text": "Modification and customization available to negotiate multiple pipeline diameters, Equal Unbarred Tees, WYE Tees/Lateral Tees, Other Difficult Pipeline Components and Configurations (high temperature lines | high pressure lines | low pressure lines), etc."
+               },
+               {
+                "text": "Minimum bend radius: 1.5D"
+               },
+               {
+                "text": "Immediate onsite preliminary data verification"
+               },
+               {
+                "text": "Automated data analysis and defect detection software"
+               },
+               {
+                "text": "Comprehensive anomaly detection and identification of raw data reporting conforming to POF 2016 specifications and requirements"
+               }
+            ]
+        },
+        "content5": {
+            "title": "Usage, Detection Capabilities, and Tool Specifications",
+            "subtitle": [
+                {
+                    "text": "Inspection length: up to 350 km (*Customized solutions available)"
+                   },
+                   {
+                    "text": "Standard inspection time: 100 hours (*Customized solutions available)"
+                   },
+                   {
+                    "text": "Speed range: 0.1 – 5 m/s (*Customized solutions available)"
+                   },
+                   {
+                    "text": "Maximum pressure: 100 BAR (*Customized solutions available)"
+                   },
+                   {
+                    "text": "Temperature range: 0°C to 65°C (*Customized solutions available)"
+                   },
+                   {
+                    "text": "Minimum wall thickness: 1.5 mm"
+                   },
+                   {
+                    "text": "Accuracy of measurement: ± 10 – 15%"
+                   },
+                   {
+                    "text": "Internal pipe diameter range: 4” and greater"
+                   },
+                   {
+                    "text": "Anomaly detection: metal loss, deformation, axial cracks, pitting, grooving, slotting"
+                   },
+                   {
+                    "text": "XYZ pipeline location mapping capabilities"
+                   },
+                   {
+                    "text": "Launching medium: liquid/gas (no batching required)"
+                   },
+                   {
+                    "text": "Sensor type: permanent magnet with brushes, active sensor carriers"
+                   },
+                   {
+                    "text": "Metal loss detection and sizing accuracy"
+                   },
+                   {
+                    "text": "Depth sizing accuracy at 90% certainty: 0.15t"
+                   },
+                   {
+                    "text": "Width sizing accuracy at 90% certainty: ± 18 mm"
+                   },
+                   {
+                    "text": "Length sizing accuracy at 90% certainty: ± 18 mm"
+                   },
+                   {
+                    "text": "Repeatability: 80% confidence"
+                   },
+                   {
+                    "text": "Resolution: 10 mm (axial) x 10 mm (circumferential)"
+                   },
+                   {
+                    "text": "Accuracy to closest weld at 90% certainty: ± 0.15 m"
+                   },
+                   {
+                    "text": "Accuracy of circumferential position at 90% certainty: 10˚"
+                   },
+                   {
+                    "text": "Accuracy to/from reference marker: 0.25% distance"
+                   }
+            ]
+        }
+    }
+}

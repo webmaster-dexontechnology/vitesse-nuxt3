@@ -1,0 +1,82 @@
+{
+    "meta": {
+        "title": "Ultrasonic Multichannel (UT-MC) In-Line Inspection Services",
+        "description": "Dexon’s Ultrasonic Multi-Channel Ring (UT-MC Ring) in-line inspection PIGs have been developed to offer high-definition, high-speed, long-length pipeline inspection in both metallic, and non-metallic pipelines.",
+        "keyword": ""
+    },
+    "hero": {
+        "title": "Ultrasonic Multichannel (UT-MC) In-Line Inspection",
+        "subtitle": "Dexon offers extensive Ultrasonic Multichannel (UT-MC) In-Line Inspection Services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+    },
+    "body": {
+        "content1": {
+            "title": "Ultrasonic Multichannel (UT-MC) Inline Inspection Tool Key Advantages and Specifications",
+            "subtitle": "Dexon’s Ultrasonic Multi-Channel Ring (UT-MC Ring) in-line inspection PIGs have been developed to offer high-definition, high-speed, long-length pipeline inspection in both metallic, and non-metallic pipelines. Rows of sensors around the circumference of the tool body record up to 20,000 measurements per second with a sampling density of 1,000,000 samples per square meter. UT-MC offers detection and sizing of internal and external metal loss, deformation, lamination, cracking, and corrosion. Tools are available from 3” up to 64” with larger custom built tool options available. A list of key advantages, usage, detection capabilities, and specifications can be seen below. Contact a Dexon Technology expert today for more information on our in-line inspection services."
+        },
+        "content2": {
+            "title": "Key Advantages",
+            "subtitle": [{
+                    "text": "Suitable for all pipeline materials"
+                },
+                {
+                    "text": "Inspection and reporting per POF 2016 recommendations"
+                },
+                {
+                    "text": "Immediate onsite preliminary data verification"
+                },
+                {
+                    "text": "Ability to pass 1.5D bends, PLEM’s, flexible risers, and turrets"
+                },
+                {
+                    "text": "Tool customization available for challenging and difficult (unpiggable) pipelines or projects"
+                }
+            ]
+        },
+        "content3": {
+            "title": "Usage, Detection Capabilities and Tool Specifications",
+            "subtitle": [{
+                    "text": "Inspection length: 200 km (*Customized solutions available)"
+                },
+                {
+                    "text": "Standard inspection time: 100 hours (*Customized solutions available)"
+                },
+                {
+                    "text": "Maximum tool speed: 1.0 m/s (*Customized solutions available)"
+                },
+                {
+                    "text": "Maximum pressure: 100 bar (*Customized solutions available)"
+                },
+                {
+                    "text": "Temperature range: 0°C to 65°C (*Customized solutions available)"
+                },
+                {
+                    "text": "Minimum wall thickness: 1.5 mm"
+                },
+                {
+                    "text": "Accuracy of measurement: ± 0.3 mm"
+                },
+                {
+                    "text": "Tool sizes available: 3” and greater"
+                },
+                {
+                    "text": "On-offshore, subsea, and above ground pipelines"
+                },
+                {
+                    "text": "Oil and gas exploration and production, refineries, petrochemical, mining, and heavy industry"
+                },
+                {
+                    "text": "Detectable anomalies: I.D./O.D. metal loss, cracks, deformation, lamination, corrosion, and pitting"
+                },
+                {
+                    "text": "Raw A-Scan data recording of all measurements"
+                },
+                {
+                    "text": "Automated data analysis and defect detection"
+                },
+                {
+                    "text": "Launching medium: liquid/gas (batching)"
+                }
+            ]
+        }
+    }
+}

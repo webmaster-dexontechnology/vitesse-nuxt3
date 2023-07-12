@@ -1,0 +1,65 @@
+{
+    "content": [
+        {
+            "header": "intelligent pigging",
+            "title": "Furnace inspection",
+            "url": "/dexon/home/hero/furnace_uijqjj.jpg",
+            "description": [
+                    "Revolutionary Furnace Inspection Capabilities",
+                    "Providing accurate wall thickness measurements, decoking validation, and exceptional in-bend data coverage capabilities."
+            ]
+        },
+        {
+            "header": "Exhibition",
+            "title": "AOG 2023",
+            "url": "/dexon/home/hero/aog_b35fum.webp",
+            "card": [
+                {
+                    "title": "Title",
+                    "subtitle": "Subtitle"
+                },
+                {
+                    "title": "Title",
+                    "subtitle": "Subtitle"
+                }
+            ],
+            "description": [
+                "Join us at the 2023 AOG in Buenos Aires, Argentina!",
+                "Showcasing the latest additions to the Dexon in-line inspection fleet. Including the Dexon-Scorpion furnace inspection fleet, UT-CS Hawk crack detection and sizing fleet, and UT-MC Ring metal loss fleet."
+            ]
+        },
+        {
+            "header": "intelligent pigging",
+            "title": "UT-CS Hawk",
+            "url": "/dexon/home/hero/hawk_kjzfad.webp",
+            "description": [
+                "The UT-CS Hawk ILI System.",
+                "Unrivaled crack detection, sizing, and monitoring capabilities"
+            ]
+        },
+        {
+            "header": "intelligent pigging",
+            "title": "Well casing inspection",
+            "url": "/dexon/home/hero/well_casing_p8ryeh.webp",
+            "icon": [
+                {
+                    "title": "Per m",
+                    "text_small": "2",
+                    "subtitle": "190,476 Raw Data Samples"
+                },
+                {
+                    "title": "Final",
+                    "subtitle": "reporting"
+                },
+                {
+                    "title": "Field",
+                    "subtitle": "reporting"
+                }
+            ],
+            "description": [
+                "Well Casing Smart Pigging",
+                "Featuring rapid reporting times, multiple high-resolution data sets, and digital data viewing software. Elimination downtime and getting your asset back online."
+            ]
+        }
+    ]
+}

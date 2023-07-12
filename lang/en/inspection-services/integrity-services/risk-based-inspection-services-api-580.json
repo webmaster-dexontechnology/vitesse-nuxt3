@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "title": "Risk Based Inspection Services (API 580)",
+        "description": "Dexon Technology Services employs over 80 API certified inspection experts covering Asia Pacific, Africa and Europe and is perfectly positioned to offer API 580 Risk Based Inspection services.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Risk Based Inspection Services (API 580)",
+        "content1": {
+            "title": "api 580 – dexon risk based inspection services",
+            "subtitle": "Dexon Technology Services employs over 80 API certified inspection experts covering Asia Pacific, Africa and Europe and is perfectly positioned to offer API 580 Risk Based Inspection services."
+        },
+        "content2": {
+            "title": "Dexon’s Approach",
+            "subtitle": [{
+                    "text": "Risk-Based Inspection (RBI) is a methodology that involves quantitative assessment of the probability of failure and the consequence of failure associated with each equipment item in an operation. An RBI program places individual pieces of equipment into specific categories based on their risks and prioritizes inspection efforts based on this categorization."
+                },
+                {
+                    "text": "RBI is used to identify and understand incumbent risk drivers and therefore prioritize inspection-related activities. By taking a prioritized approach more focus can be given to high risk equipment and less focus to low risk equipment thereby increasing overall reliability and reducing costs both in terms of NDT inspection and also in potential equipment failures. An RBI inspection plan outlines the type and schedule of inspection for the assets in a production facility."
+                },
+                {
+                    "text": "An RBI inspection program should be enhanced with the use of specialised software used to help with collecting and analysing data in order to predict corrosion and damage patterns and then adjust inspection regimes in response to those findings."
+                },
+                {
+                    "text": "Dexon has many years of experience in providing Risk Based Inspection programs integrated with Dexons proprietary inspection analysis software and inspection database programs."
+                }
+            ]
+        }
+    }
+}

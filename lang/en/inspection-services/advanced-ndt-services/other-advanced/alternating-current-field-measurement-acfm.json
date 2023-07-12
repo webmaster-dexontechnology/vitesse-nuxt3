@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "title": "Alternating Current Field Measurement (ACFM)",
+        "description": "Dexon has utilized ACFM inspections on multiple inspection jobs and one if it’s most common uses is for inspection of the splash zone areas on the legs of offshore oil and gas platforms due to its ability to be used without the need to remove marine growth (within acceptable parameters).",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Alternating Current Field Measurement (ACFM)",
+        "content1": {
+            "title": "What does our Alternating Current Field Measurement (ACFM) do?",
+            "subtitle1": [{
+                    "text": "Alternating Current Field Measurement (ACFM) is an electromagnetic inspection technique developed for fast scanning to locate cracks in welds and surface materials covered by paint, coating and marine growth. The technology relies on the fact that an alternating current flowing in a component will be disturbed by the presence of a crack."
+                },
+                {
+                    "text": "The ACFM probe introduces an electric current locally into the structure and measures the associated electromagnetic fields close to the surface. The presence of a defect disturbs the associated fields and the information is graphically presented to the system operator. The ends of a defect are easily identified to provide information on defect location and length. The significance of a defect, in terms of structural integrity, generally depends on depth of the defect."
+                },
+                {
+                    "text": "Using mathematical models, the system also provides the depth of the defect, thus allowing an immediate evaluation of significance of the crack indication."
+                }
+            ],
+            "subtitle2": {
+                "content1": "Dexon has utilized ACFM inspections on multiple inspection jobs and one if it’s most common uses is for inspection of the splash zone areas on the legs of",
+                "content2": "offshore oil and gas platforms",
+                "content3": "due to its ability to be used without the need to remove marine growth (within acceptable parameters)."
+            }
+        },
+        "content2": {
+            "title": "Benefits of Alternating Current Field Measurement",
+            "subtitle": [{
+                    "text": "Can be used for base material or welds on ferritic or non-ferritic metals"
+                },
+                {
+                    "text": "Can be used on hot surfaces and underwater environments"
+                },
+                {
+                    "text": "Provides both depth and length information"
+                },
+                {
+                    "text": "Accurate sizing of defects up to 25mm in depth"
+                },
+                {
+                    "text": "Minimal surface preparation and can be applied over paint and other coatings"
+                },
+                {
+                    "text": "Can be used for under water inspection as well as normal inspection"
+                }
+            ]
+        },
+        "content3": {
+            "title": "Alternating Current Field Measurement is used for",
+            "subtitle": [{
+                    "text": "Detection and sizing of fatigue cracks"
+                },
+                {
+                    "text": "Inspection of welds in offshore platforms and rigs"
+                },
+                {
+                    "text": "Detection of cracks and corrosion in vessels and piping in oil and gas and petrochemical industries"
+                }
+            ]
+        }
+    }
+}

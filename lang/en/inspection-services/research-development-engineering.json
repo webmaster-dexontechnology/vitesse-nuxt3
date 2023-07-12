@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "title": "Research, Development and Engineering",
+        "description": "Developing In-line Inspection Technology, Robotics And Customized Inspection Solutions.",
+        "keyword": ""
+    },
+    "body": {
+        "header": "Dexon Technology",
+        "title": "Research, Development & Engineering",
+        "subtitle": "Developing In-line Inspection Technology, Robotics And Customized Inspection Solutions.",
+        "content1": {
+            "header": "Research & Development",
+            "title": "Research and Development Center",
+            "subtitle1": "Employs Top Of The Line Research And Engineering Professionals",
+            "subtitle2": [{
+                    "text": "Professors In Physics And Non-destructive Testing"
+                },
+                {
+                    "text": "Field Programmable Gate Array (FPGA) Engineers"
+                },
+                {
+                    "text": "Advanced Electronic Engineers"
+                },
+                {
+                    "text": "Firmware And Software Engineers"
+                },
+                {
+                    "text": "Mechanical Engineers"
+                }
+            ]
+        },
+        "content2": {
+            "header": "Research & Development",
+            "title": "Research and Development Scope",
+            "subtitle": [{
+                    "text": "Research"
+                },
+                {
+                    "text": "Design"
+                },
+                {
+                    "text": "Prototyping & Testing"
+                },
+                {
+                    "text": "Production"
+                }
+            ]
+        },
+        "content3": {
+            "header": "The Technologies",
+            "title": "Dexon Pipeline Crack Detection And Sizing By In-line Inspection",
+            "subtitle": "Detection and sizing of cracking in pipelines is critical to assess the integrity and service life of equipment. Dexon’s ultrasonic in-line inspection makes use of high-resolution ultrasonic data and tip-diffraction absolute arrival time analytics to detect and size crack height to ± 1.0mm actual height with 90% confidence."
+        },
+        "content4": {
+            "header": "The Technologies",
+            "title": "Dexon Crack Inspection- High Resolution Ultrasonic Matrix",
+            "subtitle": "As in-line inspection tools move to greater resolution and accuracy a differentiation between sampling becomes important. As a rule, the greater sampling points of a defect, the greater the accuracy in its measurement. In measuring axial defects the axial sampling rate is directly related to defect length measurements. The circumferential sampling rate is directly related to the through-wall height measurement of axial oriented cracking. While defect through-wall height is generally of greater concern than defect length, Dexon has chosen to focus on increasing circumferential sampling for axial defects."
+        }
+    }
+}

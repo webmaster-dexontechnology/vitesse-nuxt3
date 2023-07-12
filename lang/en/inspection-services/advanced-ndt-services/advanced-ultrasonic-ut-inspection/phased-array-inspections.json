@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "title": "Phased Array Ultrasonic Testing (PAUT)",
+        "description": "Ultrasonic Phased Array is used to detect component failures such as cracks and flaws and can be applied for inspection of welds, thickness measurements, corrosion inspection and flaw detection.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Phased Array Ultrasonic Testing (PAUT)",
+        "content1": {
+            "title": "PHASED ARRAY INSPECTIONS",
+            "subtitle": [
+                {
+                    "text": "Ultrasonic Phased Array is used to detect component failures such as cracks and flaws and can be applied for inspection of welds, thickness measurements, corrosion inspection and flaw detection."
+                },
+                {
+                    "text": "Phased array ultrasonic systems utilize multi-element probes, which are individually excited under electronic control. The PA probe consists of many small ultrasonic transducers, each of which can be pulsed independently and by exciting each element in a controlled manner, a focused beam of ultrasound can be generated."
+                },
+                {
+                    "text": "The beam of ultrasound can be steered electronically and can be swept like a searchlight through the metal or object being examined. In this way two and three dimensional views can be generated showing the sizes and locations of any flaws detected in a “slice” view through the object."
+                },
+                {
+                    "text": "Because the beam angle and focus can be controlled and manipulated this method is very efficient in terms of speed and flaw detection."
+                },
+                {
+                    "text": "Until the past decade industrial application of ultrasonic phased array technology has been rather scarce. This has been down to a lack of computing power that is required for rapid excitation of the multiple element transducers and the need to process large data files that scans produce and some of this is due to a preference for hard records in the form of x ray film when applied for weld flaw detection."
+                },
+                {
+                    "text": "Phased array provides; high speed electronic scanning without moving parts, improved inspection capabilities through software control of beam characteristics and inspection with multiple angles with a single electronically controlled probe. Dexons experts are well trained and qualified in Phased Array inspections and operator capability is of key importance when utilizing this method."
+                }
+            ]
+        }
+    }
+}

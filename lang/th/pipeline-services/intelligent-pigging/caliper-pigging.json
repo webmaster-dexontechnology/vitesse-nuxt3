@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "title": "Caliper Pigging and Location Mapping Services",
+        "description": "Caliper Pipeline Integrity Gauges (PIGs) use mechanical arms to accurately record the geometric conditions of a pipeline as well as pipeline features by measuring changes in a pipeline’s internal diameter (I.D.). This information is critical during the pre-inspection qualification process in preparation for inline inspection runs.",
+        "keyword": ""
+    },
+    "hero": {
+        "title": "Caliper In-Line Inspection",
+        "subtitle": "DEXON offers extensive Ultrasonic Rotary (UT-R) In-Line Inspection Services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+    },
+    "body": {
+        "content1": {
+            "title": "What is Caliper Pigging?",
+            "subtitle": "Caliper Pipeline Integrity Gauges (PIGs) use mechanical arms to accurately record the geometric conditions of a pipeline as well as pipeline features by measuring changes in a pipeline’s internal diameter (I.D.). This information is critical during the pre-inspection qualification process in preparation for inline inspection runs. Caliper PIG’s are regularly used in conjunction with other forms of intelligent pigging such as Ultrasonic and Magnetic Flux Leakage (MFL) inline inspection."
+        },
+        "content2": {
+            "title": "Anomaly Detection:",
+            "subtitle": "Anomalies that cause changes in internal diameter (I.D.) include but are not limited to",
+            "sublist": [
+                {
+                    "text": "Ovality"
+                },
+                {
+                    "text": "Dents"
+                },
+                {
+                    "text": "Bulging"
+                },
+                {
+                    "text": "Pipe expansion"
+                },
+                {
+                    "text": "Buckling"
+                }
+            ]
+        },
+        "content3": {
+            "title": "Feature Identification:",
+            "subtitle": "Pipeline feature detection includes but is not limited to the following pipeline features",
+            "sublist": [
+                {
+                    "text": "Off takes"
+                },
+                {
+                    "text": "Tee’s"
+                },
+                {
+                    "text": "Flanges "
+                },
+                {
+                    "text": "Wye Bends"
+                }
+            ]
+        },
+        "content4": {
+            "title": "Tool Highlights:",
+            "sublist": [
+                {
+                    "text": "Suitable for pipelines of any length and material"
+                },
+                {
+                    "text": "Provides ovality measurements"
+                },
+                {
+                    "text": "Dent, bulge, pipe expansion and buckling measurements"
+                },
+                {
+                    "text": "Pipeline feature identification"
+                },
+                {
+                    "text": "Weld joint identification"
+                },
+                {
+                    "text": "Location based 3D mapping"
+                },
+                {
+                    "text": "Tool diameters range from 4” – 52” (with customized tool development services also available)"
+                },
+                {
+                    "text": "Tri axial inertial measurement units for XYZ mapping capabilities"
+                },
+                {
+                    "text": "Tool performance and reporting to POF 2016 specifications"
+                }
+            ]
+        },
+        "content5": {
+            "title": "Dexon Caliper Pigging Services:",
+            "sublist": [{
+                    "title": "Pipeline Geometry and Deformation Analysis:",
+                    "subtitle": "Deformations and deposit build ups can result in material flow rate losses and pressure variations. Caliper pigging is crucial to ensuring pipeline efficiency and maximum transfer of materials. Deformations can also lead to the increased possibility of catastrophic pipeline failure leading to damage to the environment, surrounding community and financial losses."
+                },
+                {
+                    "title": "Location Based 3D Mapping:",
+                    "subtitle": "Caliper pigging also allows for highly accurate 3D location-based mapping. Several factors can cause a pipeline to shift from natural factors such as land slide to made factors like ship anchors. Caliper pigging is the most accurate and cost-effective method to evaluate a pipelines current position and geometric condition."
+                }
+            ]
+        },
+        "content6": {
+            "title": "Tool Components:",
+            "sublist": [{
+                    "title": "Mechanical Arms:",
+                    "subtitle": "Mechanical arms measure the distance from the center of the pipe to the inside of the external wall assessing ovality, dents, pipe buckling, bulges, and pipe expansion."
+                },
+                {
+                    "title": "Odometers Wheels:",
+                    "subtitle": "Odometers record valuable information relating to distance traveled that assist with location, recording of defect location, and pipeline length."
+                },
+                {
+                    "title": "Pipeline Diameter:",
+                    "subtitle": "Dexon specializes in finding inspection solutions for clients and offers caliper inspection tools from 4”-52” with custom tool development services available to ensure that no pipeline is unpiggable."
+                },
+                {
+                    "title": "Battery Life And Data Recording Capabilities:",
+                    "subtitle": "Dexon offers customized solutions for battery and data storage regardless of pipeline length. "
+                },
+                {
+                    "title": "IMU And Pipeline Location Mapping:",
+                    "subtitle": "Dexon offers a range of 3D mapping and location tracking options. Dexon Caliper ILI tools are equipped with an IMU system to record directional movement allowing for pinpoint accurate location analysis."
+                },
+                {
+                    "title": "Driving Cups:",
+                    "subtitle": "Driving Cups provide a tight seal with the pipeline wall allowing the pipe medium to propel the pig through the pipeline. Driving cups are also flexible allowing for the inspection of pipelines with varying diameters."
+                }
+            ]
+        },
+        "content7": {
+            "title": "Example of Caliper Inline Inspection Data",
+            "subtitle": "Caliper pigging is used throughout a pipeline’s lifecycle from construction and pre commissioning to general lifetime inspection and maintenance to decommissioning to assess pipeline integrity. "
+        }
+    }
+}

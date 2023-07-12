@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "title": "Remote Field Technology (RFT)",
+        "description": "As EC cannot be used in ferrous tubes, another technique should be applied. One of the commonly used techniques is the Remote Field Technique. This technique is very suitable for detection and quantification of overall wall-loss. Local defects can be detected and quantified provided that they have some volume (diameter pit >5 mm). RFT can detect both internal and external defects but it is not possible to distinguish between them. Defects under or close to the tube sheet are hard or not possible to detect. Only a basic cleaning of the tubes will be sufficient. RFT is slightly slower than EC and approximately 300 tubes, with a standard 6 meter length, can be done on a first inspection day. Speed can go up to as many as 450 tubes on additional inspection days.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Remote Field Technology (RFT)",
+        "content1": {
+            "title": "What does our Remote Field Technology (RFT) do?",
+            "subtitle": [{
+                    "text": "As EC cannot be used in ferrous tubes, another technique should be applied. One of the commonly used techniques is the Remote Field Technique. This technique is very suitable for detection and quantification of overall wall-loss. Local defects can be detected and quantified provided that they have some volume (diameter pit >5 mm). RFT can detect both internal and external defects but it is not possible to distinguish between them. Defects under or close to the tube sheet are hard or not possible to detect. Only a basic cleaning of the tubes will be sufficient. RFT is slightly slower than EC and approximately 300 tubes, with a standard 6 meter length, can be done on a first inspection day. Speed can go up to as many as 450 tubes on additional inspection days."
+                },
+                {
+                    "text": "The probe used in Remote Field Technique examination contains a send and a receiver coil. In the bigger send coil an alternating magnetic field is generated. This field is indirectly coupled to the receiver coil as a direct coupling between the two coils is shielded by the strong magnetic fields originating from the eddy currents that are being generated in the tube. At a low enough frequency the shielding will lose some of its strength allowing the exciter field to penetrate the tube wall in axial direction. Once the magnetic field reaches the exterior of the tube it will spread rapidly along the tube with little further attenuation. Research found that a portion of the magnetic field re-diffuses back through the pipe wall to the interior of the tube at a certain location. At this position the smaller receiver coil is placed to detect the remaining field. Now the indirect coupling path between send and receiver coil is complete. The magnitude and the phase of the received magnetic field depend on the amount of material that was crossed in the indirect coupling path. If wall-loss occurs in a tube there will be less attenuation and delay of the exciter field before it reaches the receiver coil. The signal on the computer screen represents the change in the received magnetic field, and thus the condition of the tube."
+                },
+                {
+                    "text": "During signal analysis, the signals acquired during a Remote Field inspection will be compared to the signals from reference defects. Reference defects are defects with known depth and shape and are machined into a calibration standard. The calibration standard needs to be of the same material and dimensions as the tubes to be examined."
+                }
+            ]
+        }
+    }
+}

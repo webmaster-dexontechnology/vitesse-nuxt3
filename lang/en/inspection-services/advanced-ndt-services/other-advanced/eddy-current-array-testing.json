@@ -1,0 +1,150 @@
+{
+    "meta": {
+        "title": "Eddy Current Array Testing",
+        "description": "Dexon has advanced its capability by adding the latest Eddy Current Array (ECA) technology from Eddyfi to it’s portfolio of services. The technology can be split up into two main fields of application, Eddy Current Array Surface Testing and Eddy Current Array Tube Testing. The surface applications of ECA technology are numerous, ranging from weld inspection on pressure vessels and pipes to corrosion mapping.",
+        "keyword": ""
+    },
+    "body": {
+        "title": "Eddy Current Array Testing",
+        "content1": {
+            "title": "Eddy Current Array Technology",
+            "list_title": "ECA SURFACE TESTING",
+            "subtitle1": "Dexon has advanced its capability by adding the latest Eddy Current Array (ECA) technology from Eddyfi to it’s portfolio of services. The technology can be split up into two main fields of application, Eddy Current Array Surface Testing and Eddy Current Array Tube Testing. The surface applications of ECA technology are numerous, ranging from weld inspection on pressure vessels and pipes to corrosion mapping.",
+            "subtitle2": {
+                "content1": "Eddy current arrays (ECA) are an extension of conventional",
+                "content2": "Eddy Current Testing (ECT)",
+                "content3": "They consist of arrays of coils that activate in sequences in order to eliminate interference between them. The array slides on top of surfaces, offering an overall wider coverage and increased sensitivity to defects compared to ECT. The Eddy Current Array technology is able to not only detect surface-breaking defects but to some degree also subsurface defects. ECA probes can even be shaped to match unusual geometries. This allows for single-pass scanning of geometries that are particularly challenging to traditional inspection technologies."
+            },
+            "subtitle3": "Dexon uses ECA technology primarily as an alternative to other surface inspection techniques when conducting operations in industrial sectors such as oil, gas, petrochemical, power generation, heavy equipment and mining. Eddy Current Array’s works particularly well as a supplement to ultrasonic testing (UT) and phased-array UT as both these technologies suffer from shortcomings when it comes to detecting near-surface defects. "
+
+        },
+        "content2": {
+            "title": "ECA TUBE INSPECTION",
+            "subtitle1": [
+                {
+                    "text": "Tube inspections are a common occurrence in the oil, gas, petrochemical and power generation industry and Eddy Current Array Tube Testing is used in inspections to identify tube conditions that affect short-term reliability and require immediate maintenance actions."
+                },
+                {
+                    "text": "The most common defects found during tube inspections are inner and outer-diameter pitting and corrosion, circumferential and longitudinal cracks, metal loss, erosion and fretting. It is important to find such defects before tubes begin leaking, as they cause pressure drops inside the equipment, eventually leading to lower performance and even critical failure."
+                }
+            ],
+            "subtitle2": {
+                "content1": "As no single inspection technique is adequate for all tubing applications, all types of materials, and all defects, we invite you to send an inquiry to",
+                "content2": "info{'@'}dexon-technology.com.",
+                "content3": "We can then assess the situation and get back to you with a service solution tailored to your specific needs."
+            }
+        },
+        "content3": {
+            "title": "Conventional vs Array",
+            "sublist": {
+                "content1": {
+                    "title": "Advantages over conventional bobbin coil tube inspections",
+                    "subtitle": [
+                        {
+                            "text": "More sensitive to circumferential cracking"
+                        },
+                        {
+                            "text": "Provides information on circumferential extent of defect"
+                        },
+                        {
+                            "text": "Better accuracy for gradual (absolute) wall loss"
+                        },
+                        {
+                            "text": "Can distinguish between defect signal and tube sheet signal"
+                        },
+                        {
+                            "text": "No need for additional testing of tube ends for circumferential cracking by rotating techniques"
+                        },
+                        {
+                            "text": "If only testing tube ends 5 sec per tube vs 40 sec per tube for rotating techniques"
+                        }
+                    ]
+                },
+                "content2": {
+                    "title": "Advantages compared to alternatives (PT/MT)",
+                    "subtitle": [
+                        {
+                            "text": "No paint removal"
+                        },
+                        {
+                            "text": "Fast"
+                        },
+                        {
+                            "text": "Environmental friendly (no use of chemicals)"
+                        },
+                        {
+                            "text": "Indication of depth of defects"
+                        },
+                        {
+                            "text": "Small probe"
+                        },
+                        {
+                            "text": "Confusing signal"
+                        }
+                    ]
+                },
+                "card": [
+                    {
+                        "title": "Conventional",
+                        "subtitle": [
+                            {
+                                "text": "Manual raster single coi"
+                            },
+                            {
+                                "text": "Overlapping manual scans"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Array Eddy Current",
+                        "subtitle": [
+                            {
+                                "text": "Surface Testing"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Advantages of ECA compared to conventional EC",
+                        "subtitle": [
+                            {
+                                "text": "Increased coverage"
+                            },
+                            {
+                                "text": "Easy to understand data presentation"
+                            },
+                            {
+                                "text": "Permanent record"
+                            },
+                            {
+                                "text": "Increased POD"
+                            },
+                            {
+                                "text": "Encoded scans"
+                            },
+                            {
+                                "text": "Big probe"
+                            },
+                            {
+                                "text": "Easy C-scan"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "EC array",
+                        "subtitle": [
+                            {
+                                "text": "Wide coverage by sequential excitation of multiple coils"
+                            },
+                            {
+                                "text": "Single encoded scan"
+                            },
+                            {
+                                "text": "Multiple encoded scans creating a C-scan image"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

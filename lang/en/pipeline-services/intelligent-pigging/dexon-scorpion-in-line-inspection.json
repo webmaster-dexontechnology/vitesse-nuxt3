@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "title": "Dexon Scorpion In-Line Inspection Services",
+    "description": "DEXON offers extensive Dexon-Scorpion Services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance.",
+    "keyword": ""
+  },
+  "hero": {
+    "header": "Smart Pigging",
+    "title": "Dexon Scorpion In-Line Inspection",
+    "subtitle": "DEXON offers extensive Dexon-Scorpion Services to fully evaluate the integrity of your pipe line ensuring safety, longevity and performance."
+  },
+  "body": {
+    "content1": {
+      "title": "What is Dexon Scorpion In-Line Inspection Services?",
+      "subtitle": "Dexon Scorpion is one of Dexon’s most recent developments is its fleet of advanced furnace in-line inspection (ILI) tools. To ensure unparalleled performance, Dexon has an extensive on-site testing facility containing multiple coil arrangements, including a large-scale vacuum furnace mock-up with strategically simulated defects. Clients are welcome to visit Dexon’s RD&E department and test facilities in Thailand for technology demonstrations and inspection verifications."
+    },
+    "content2": {
+      "title": "Intelligent Pigging",
+      "list": [
+        {
+          "title": "Dexon’s Furnace In-Line Inspection (ILI) Fleet and ILI Process",
+          "subtitle": [
+            {
+              "text": "The newly released fleet of Dexon-Scorpion furnace intelligent pigging tools offer state-of-the-art ultrasonic in-line inspection capabilities. Developed by Dexon’s onsite Research Development and Engineering (RD&E) department. The free-swimming floating system allows for multi-diameter inspection, providing up to 100,000 direct wall thickness and radius measurements per linear meter of tubing. Ensuring unparalleled performance, Dexon’s on-site testing facilities feature modular coil arrangements in varying sizes from 3” to 12”, including a large-scale vacuum furnace mock-up with strategically simulated defects."
+            },
+            {
+              "text": "Originally developed for use in Asia the newly released fleet of Dexon-Scorpion intelligent furnace in-line inspection tools offer state-of-the-art ultrasonic inspection capabilities. Developed by Dexon’s onsite Research Development and Engineering (RD&E) department. The free-swimming floating system allows for multi-diameter inspection, providing up to 100,000 overlapping direct wall thickness and radius measurements per linear meter of tubing. Ensuring unparalleled performance, Dexon’s on-site testing facilities feature 3 to 12-inch modular coil arrangements, including a large-scale vacuum furnace mock-up with strategically simulated defects."
+            }
+          ]
+        },
+        {
+          "title": "Dexon Scorpion – Key Features",
+          "sublist": [
+            {
+              "text": "Uni-body"
+            },
+            {
+              "text": "Buoyant / free-swimming"
+            },
+            {
+              "text": "Bi-directional"
+            },
+            {
+              "text": "Ability to pass through plug-headers/mule-ears without the need for internal shoes or deflectors"
+            },
+            {
+              "text": "Multi-diameter inspection capabilities"
+            },
+            {
+              "text": "Advanced composite construction offering maximum strength-to-weight ratio and optimum reliability"
+            },
+            {
+              "text": "Radially mounted ultrasonic immersion transducers"
+            },
+            {
+              "text": "Overlapping data coverage (up to 100,000 individual measurements per meter)"
+            },
+            {
+              "text": "SOTA digital signal processing"
+            },
+            {
+              "text": "True 3D interactive data models & C-Scans"
+            },
+            {
+              "text": "Exceptional bend data coverage"
+            }
+          ],
+          "subtitle": [
+            {
+              "text_bold": "Reliability:",
+              "text": "Designed to withstand extreme mechanical forces ensuring reliable, consistent performance andresults every time."
+            },
+            {
+              "text_bold": "Maneuverability:",
+              "text": "Neutrally buoyant construction, and bi-directional design allow for the inspection of furnaces containing multiple-diameter tubing and plug headers."
+            },
+            {
+              "text_bold": "Accuracy:",
+              "text": "Bespoke transducers designed for specific applications ensure the highest levels of accuracy and data coverage"
+            },
+            {
+              "text_bold": "Peace of Mind:",
+              "text": "With up to 100,000 individual wall thickness and internal radius measurements per meter oftubing, peace of mind is guaranteed."
+            }
+          ]
+        },
+        {
+          "title": "Decoking Validation Testing (DVT)",
+          "subtitle": [
+            {
+              "text": "Effective decoking or descaling is essential to ensure the operational efficiency of a furnace and to reduce the risk of mechanical failure. Furthermore, ultrasonic smart pigging requires sufficient decoking prior to inspection. The Dexon-Scorpion fleet can be utilized to scan process tubes following mechanical decoking to confirm internal cleanliness. If any coke or scale remains, the tool is able to accurately locate and quantify the area of contamination, providing instant feedback to the decoking company, who can then continue the decoking process whilst limiting the focus to the affected tubes/areas. This process ensures that tubes are completely free from any internal fouling, allowing maximum operational efficiency and performance when the furnace returns online. Dexon is available to work in partnership with mechanical decoking service providers, offering a collaborative decoking and inspection service, combining the unique specialties offered by each company."
+            }
+          ]
+        },
+        {
+          "title": "Dexon-Genesis Data Analysis Software:",
+          "sublist": [
+            {
+              "text": "A-scans are recorded with every pulse measurement for data processing and interrogation. This ensures absolute verification of all defects and identified anomalies."
+            },
+            {
+              "text": "B & C scans are viewable on screen within minutes of data download, for immediate identification of coke, anomalies, defects, and degradation patterns."
+            },
+            {
+              "text": "Fully interactive 3D C-Scan models, with ‘true’ representation in the X, Y, and Z planes."
+            },
+            {
+              "text": "Individual defect extraction capabilities for advanced analysis and profiling."
+            },
+            {
+              "text": "Automated data plotting and line graph representation"
+            },
+            {
+              "text": "Sophisticated processing algorithms for accurate data filtering"
+            },
+            {
+              "text": "Automated defect detection capabilities"
+            },
+            {
+              "text": "Installable software is provided as supplementation to the final report"
+            },
+            {
+              "text": "Artificial intelligence and machine learning capabilities due for release in 2023"
+            }
+          ],
+          "list": [
+            {
+              "title": "The Dexon-Scorpion is able to accurately detect, locate, and quantify a full range of defects, including:",
+              "sublist": [
+                {
+                  "text": "General and localized metal loss/corrosion (internal & external)"
+                },
+                {
+                  "text": "Pitting (internal & external)"
+                },
+                {
+                  "text": "Creep (bulging & swelling)"
+                },
+                {
+                  "text": "Ovality"
+                },
+                {
+                  "text": "Internal fouling/coke"
+                },
+                {
+                  "text": "Excessive weld penetration"
+                },
+                {
+                  "text": "Hotspots"
+                },
+                {
+                  "text": "Gouging"
+                },
+                {
+                  "text": "Erosion"
+                },
+                {
+                  "text": "Fretting"
+                },
+                {
+                  "text": "Lamination"
+                },
+                {
+                  "text": "Patchwork/repairs"
+                },
+                {
+                  "text": "Dents"
+                }
+              ]
+            },
+            {
+              "title": "Applications",
+              "sublist": [
+                {
+                  "text": "Crude furnaces (CDU)"
+                },
+                {
+                  "text": "Vacuum furnaces (VDU)"
+                },
+                {
+                  "text": "Delayed Cokers (DCU)"
+                },
+                {
+                  "text": "Visbreakers"
+                },
+                {
+                  "text": "Charge heaters"
+                },
+                {
+                  "text": "Pre-heaters"
+                },
+                {
+                  "text": "Thermal Crackers"
+                },
+                {
+                  "text": "Hydrotreaters"
+                },
+                {
+                  "text": "Piggable HRSG/OTSG"
+                },
+                {
+                  "text": "Small-bore unpiggable lines"
+                },
+                {
+                  "text": "Studded/finned tubing commonly found within convection banks"
+                },
+                {
+                  "text": "Radiant process tubes"
+                },
+                {
+                  "text": "Short radius (1D) return bends"
+                },
+                {
+                  "text": "Multiple-diameter furnace arrangements"
+                },
+                {
+                  "text": "Insulated pipework"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Defect and Anomaly Detection Abilities",
+          "subtitle": [
+            {
+              "text": "3D graphic representation of furnace inspection data. By accurately visualizing inspection data in relation to tube arrangement, clients are able to easily identify defect patterns and diagnose operational issues."
+            }
+          ]
+        },
+        {
+          "title": "Inspection Reports",
+          "list": [
+            {
+              "title": "Field inspection report:",
+              "sublist": [
+                {
+                  "text": "Issued within 24 hours of the final inspection run"
+                },
+                {
+                  "text": "Project Overview"
+                },
+                {
+                  "text": "Details of any major defects/anomalies outside of tolerance (Tmin)"
+                },
+                {
+                  "text": "Tabulated summaries of each pass/tube"
+                },
+                {
+                  "text": "Line graph plots"
+                }
+              ]
+            },
+            {
+              "title": "Final inspection report:",
+              "sublist": [
+                {
+                  "text": "Issued within 7-days of the final inspection run"
+                },
+                {
+                  "text": "Executive Summary"
+                },
+                {
+                  "text": "Comprehensive details on all defects/anomalies identified"
+                },
+                {
+                  "text": "A, B & C-scan images"
+                },
+                {
+                  "text": "Installable version of Dexon-Genesis Viewer"
+                },
+                {
+                  "text": "Raw data available upon request (if required)"
+                }
+              ]
+            },
+            {
+              "title": "Integrity report:",
+              "sublist": [
+                {
+                  "text": "Level 1 & 2 Fitness for Service Assessment on all identified defects"
+                },
+                {
+                  "text": "Level 3 advisory"
+                },
+                {
+                  "text": "Tmin calculations"
+                },
+                {
+                  "text": "MAWP calculations"
+                },
+                {
+                  "text": "Remaining Life Assessment (per process tube)"
+                },
+                {
+                  "text": "Utilizes mass quantities of data obtained from the in-line inspection for highly accurate deterministic results"
+                },
+                {
+                  "text": "All calculations performed in accordance with API 579/ASME FFS-1 and ASME B31.3"
+                },
+                {
+                  "text": "Future operational recommendations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bespoke Solutions",
+          "subtitle": [
+            {
+              "text": "At Dexon, we pride ourselves on helping clients and listening to their needs. Drawing on the world-leading expertise within its state-of-the-art research development and engineering facility, Dexon provides clients with rapid, dynamic solutions to fulfill any inspection requirement. Accordingly, Dexon has formed collaborations with major oil and gas companies to work on a number of innovative and unique technology solutions. Talk to an inspection engineer today about securing the integrity of your assets."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
